@@ -1,3 +1,7 @@
+---
+parent: Vegetables
+---
+
 # Casseroles
 
 ## Mushroom-Barley Casserole

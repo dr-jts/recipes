@@ -12,4 +12,4 @@
 
 1. Saute mushrooms, onion and barley in melted butter.  
 1. Mix with remaining ingredients in a casserole dish.  
-1. Bake covered for 1 ½ h at 350 F
+1. Cover and bake for 1 ½ h at 350 F

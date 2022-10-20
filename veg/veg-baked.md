@@ -8,44 +8,6 @@ parent: Vegetables
 1. TOC
 {:toc}
 
-## Baked Eggplant with Parmesan
-
-* 4 Sliced Eggplants
-* 3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
-* 1 tsp. Italian Herbs
-* 2oz Parmesan Cheese (60g)
-* 1 tsp. Salt
-* 1 tbsp. Olive Oil
-
-1. Cut the eggplants into one-centimeter thick slices.
-2. In a bowl, mix the tomato paste, Italian Herbs, and salt.
-3. Place the eggplant slices on a baking tray, lightly brush with olive oil, and then put a little of the tomato paste mixture on top.
-4. Cover each piece with some grated parmesan cheese.
-5. Put the slices into an oven and cook at 200°C for approximately 15 minutes.
-
-## Baked Parmesan Zucchini “Fries”
-Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
-
-* 4 zucchini, quartered lengthwise
-* 1/2 cup grated Parmesan
-* 1/2 teaspoon dried thyme
-* 1/2 teaspoon dried oregano
-* 1/2 teaspoon dried basil
-* 1/4 teaspoon garlic powder
-* Kosher salt and freshly ground black pepper, to taste
-* 2 tablespoons olive oil
-* 2 tablespoon chopped fresh parsley leaves
-
-1. Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.
-1. In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.
-1. Place zucchini onto prepared baking sheet. 
-2. Drizzle with olive oil and sprinkle with Parmesan mixture. 
-3. Place into oven and bake until tender, about 15 minutes. 
-4. Then broil for 2-3 minutes, or until the crisp and golden brown.
-Serve immediately, garnished with parsley, if desired.
-
-
-
 ## Roasted Broccoli
 * 1.1kg broccoli
 * 2 tbsp sesame seeds
@@ -193,7 +155,7 @@ Place cauliflower florets into a large bowl. Add olive oil, garlic powder, Itali
 Bake for 15 minutes. Turn cauliflower over, top with cheeses, and bake for another 12-15 minutes, or until cauliflower is lightly golden. Serve immediately.
 
 ## Honey-Garlic Roasted Carrots
-INGREDIENTS
+
 2 pounds (1 kg) carrots washed and peeled (or unpeeled)
 1/3 cup butter
 3 tablespoons honey
@@ -201,7 +163,7 @@ INGREDIENTS
 1/4-1/2 teaspoon salt plus more for seasoning
 Cracked black pepper
 2 tablespoons fresh chopped parsley
-INSTRUCTIONS
+
 Preheat oven to 425°F (220°C). Lightly grease a large baking sheet with nonstick cooking oil spray; set aside.
 Trim ends of carrots and cut into thirds.
 Melt butter in a pan or skillet over medium-heat. Pour in honey and cook, while stirring, until completely melted through the butter. Add the garlic and cook for 30 seconds until fragrant while stirring.
@@ -211,6 +173,21 @@ Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3
 OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.
 Season with a little extra salt and pepper if desired. Garnish with parsley.
 
+## Baked Eggplant with Parmesan
+
+* 4 Sliced Eggplants
+* 3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
+* 1 tsp. Italian Herbs
+* 2oz Parmesan Cheese (60g)
+* 1 tsp. Salt
+* 1 tbsp. Olive Oil
+
+1. Cut the eggplants into one-centimeter thick slices.
+2. In a bowl, mix the tomato paste, Italian Herbs, and salt.
+3. Place the eggplant slices on a baking tray, lightly brush with olive oil, and then put a little of the tomato paste mixture on top.
+4. Cover each piece with some grated parmesan cheese.
+5. Put the slices into an oven and cook at 200°C for approximately 15 minutes.
+6. 
 ## Maple-Sugar Baked Squash
 1 Acorn squash
 1 Tbsp Butter
@@ -283,3 +260,24 @@ Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over
 1. Pour the sauce evenly over the potatoes. Cover the baking dish with foil and bake for 30 minutes. Remove from oven, carefully toss the potatoes, making sure they're all coated in sauce, then return to the oven uncovered for another 15-25 minutes, until tender. Use the tip of a sharp knife to check for doneness. 
 2. Cool at room temperature for at least 15 minutes; the sauce will thicken a bit as it cools. 
 3. If desired, add additional salt before serving.
+
+## Baked Parmesan Zucchini “Fries”
+Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
+
+* 4 zucchini, quartered lengthwise
+* 1/2 cup grated Parmesan
+* 1/2 teaspoon dried thyme
+* 1/2 teaspoon dried oregano
+* 1/2 teaspoon dried basil
+* 1/4 teaspoon garlic powder
+* Kosher salt and freshly ground black pepper, to taste
+* 2 tablespoons olive oil
+* 2 tablespoon chopped fresh parsley leaves
+
+1. Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.
+1. In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.
+1. Place zucchini onto prepared baking sheet. 
+2. Drizzle with olive oil and sprinkle with Parmesan mixture. 
+3. Place into oven and bake until tender, about 15 minutes. 
+4. Then broil for 2-3 minutes, or until the crisp and golden brown.
+Serve immediately, garnished with parsley, if desired.

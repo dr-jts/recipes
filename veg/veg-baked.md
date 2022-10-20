@@ -10,12 +10,12 @@ parent: Vegetables
 
 ## Baked Eggplant with Parmesan
 
-4 Sliced Eggplants
-3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
-1 tsp. Italian Herbs
-2oz Parmesan Cheese (60g)
-1 tsp. Salt
-1 tbsp. Olive Oil
+* 4 Sliced Eggplants
+* 3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
+* 1 tsp. Italian Herbs
+* 2oz Parmesan Cheese (60g)
+* 1 tsp. Salt
+* 1 tbsp. Olive Oil
 
 1. Cut the eggplants into one-centimeter thick slices.
 2. In a bowl, mix the tomato paste, Italian Herbs, and salt.
@@ -24,54 +24,59 @@ parent: Vegetables
 5. Put the slices into an oven and cook at 200°C for approximately 15 minutes.
 
 ## Baked Parmesan Zucchini “Fries”
-
 Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
-INGREDIENTS
-4 zucchini, quartered lengthwise
-1/2 cup grated Parmesan
-1/2 teaspoon dried thyme
-1/2 teaspoon dried oregano
-1/2 teaspoon dried basil
-1/4 teaspoon garlic powder
-Kosher salt and freshly ground black pepper, to taste
-2 tablespoons olive oil
-2 tablespoon chopped fresh parsley leaves
-INSTRUCTIONS
-Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.
-In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.
-Place zucchini onto prepared baking sheet. Drizzle with olive oil and sprinkle with Parmesan mixture. Place into oven and bake until tender, about 15 minutes. Then broil for 2-3 minutes, or until the crisp and golden brown.
+
+* 4 zucchini, quartered lengthwise
+* 1/2 cup grated Parmesan
+* 1/2 teaspoon dried thyme
+* 1/2 teaspoon dried oregano
+* 1/2 teaspoon dried basil
+* 1/4 teaspoon garlic powder
+* Kosher salt and freshly ground black pepper, to taste
+* 2 tablespoons olive oil
+* 2 tablespoon chopped fresh parsley leaves
+
+1. Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.
+1. In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.
+1. Place zucchini onto prepared baking sheet. 
+2. Drizzle with olive oil and sprinkle with Parmesan mixture. 
+3. Place into oven and bake until tender, about 15 minutes. 
+4. Then broil for 2-3 minutes, or until the crisp and golden brown.
 Serve immediately, garnished with parsley, if desired.
 
 
 
 ## Roasted Broccoli
-1.1kg broccoli
-2 tbsp sesame seeds
-3 tbsp rapeseed oil
-3 tbsp sesame oil
-Salt and black pepper
+* 1.1kg broccoli
+* 2 tbsp sesame seeds
+* 3 tbsp rapeseed oil
+* 3 tbsp sesame oil
+* Salt and black pepper
 
-Cut up broccoli (including stalks). 
-Toss in oil dressing
-Roast at 350 for 20 mins ??
+1. Cut up broccoli (including stalks). 
+1. Toss in oil dressing
+1. Roast at 350 F for 20 mins ??
 
 ## Maple Chili Broccoli
  
- 4 tbsp maple syrup
-3 tbsp fish sauce
-1 tbsp cider vinegar
-1 long red chili, finely sliced
-3 lb broccoli
-3 tbsp olive oil
-¼ cup toasted salted cashews, chopped
+* 4 tbsp maple syrup
+* 3 tbsp fish sauce
+* 1 tbsp cider vinegar
+* 1 long red chili, finely sliced
+
+* 3 lb broccoli
+* 3 tbsp olive oil
+* ¼ cup toasted salted cashews, chopped
  
-1.      Make sauce
-a.      Whisk maple syrup with fish sauce, cider vinegar and chillies.  Set aside.
-2.      Bake and Dress Broccoli
-a.      Arrange rack in lower third of over.  Preheat to 500 F.
-b.      Leaving broccoli intact, peel stalks and trim dry ends.  Quarter each stalk vertically, forming long, thin trees.
-c.       Spread on large baking sheet.  Brush with olive oil.  Bake 15 minutes or until bottom of broccoli is dark brown.  Flip and cook 5 minutes or until crisp-tender.
-d.      Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
+**Make sauce**
+1.      Whisk maple syrup with fish sauce, cider vinegar and chillies.  Set aside.
+
+**Bake and Dress Broccoli**
+1.      Arrange rack in lower third of over.  Preheat to 500 F.
+1.      Leaving broccoli intact, peel stalks and trim dry ends.  Quarter each stalk vertically, forming long, thin trees.
+1.       Spread on large baking sheet.  Brush with olive oil.  Bake 15 minutes or until bottom of broccoli is dark brown.  Flip and cook 5 minutes or until crisp-tender.
+1.      Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  
+2.      Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
 
 ## Oven baked Broccoli with Maple Syrup glaze
 Makes 4-6 servings

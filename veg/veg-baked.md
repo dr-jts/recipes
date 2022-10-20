@@ -8,17 +8,6 @@ parent: Vegetables
 1. TOC
 {:toc}
 
-## Roasted Broccoli
-* 1.1kg broccoli
-* 2 tbsp sesame seeds
-* 3 tbsp rapeseed oil
-* 3 tbsp sesame oil
-* Salt and black pepper
-
-1. Cut up broccoli (including stalks). 
-1. Toss in oil dressing
-1. Roast at 350 F for 20 mins ??
-
 ## Maple Chili Broccoli
  
 * 4 tbsp maple syrup
@@ -56,7 +45,18 @@ Makes 4-6 servings
 1. Add the broccoli and toss until evenly coated. Spread broccoli out onto a baking sheet. 
 2. Bake for about 15 minutes, until broccoli is caramelized on top.
 
-## Roast Broccoli and Blue Cheese
+## Roasted Broccoli
+* 1.1kg broccoli
+* 2 tbsp sesame seeds
+* 3 tbsp rapeseed oil
+* 3 tbsp sesame oil
+* Salt and black pepper
+
+1. Cut up broccoli (including stalks). 
+1. Toss in oil dressing
+1. Roast at 350 F for 20 mins ??
+
+## Roasted Broccoli and Blue Cheese
 A quick and comforting dish that balances the sharp and salty flavours of the blue cheese with fruity and nutty parmesan.
 
 Serves 3-4
@@ -81,7 +81,7 @@ For the sauce
 1. Preheat the oven to 350F. Drain the pasta, then add it to the pan with the blue-cheese sauce. Give it a thorough mix and then fold in the roasted broccoli. Transfer this into a ceramic roasting dish, crumble with the remaining blue cheese, sprinkle with the breadcrumbs and grate the parmesan on top.
 1. Place in the oven for 25-30 minutes, until the top is golden brown. Serve with a light leafy salad.
 
-## Roasted Broccoli Grilled Cheese
+## Roasted Broccoli Grilled Cheese Sandwich
 * 160g mature cheddar, sliced
 * 4 slices of good quality white bread, such as sourdough
 * 100g roasted broccoli

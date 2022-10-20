@@ -25,7 +25,6 @@ parent: Vegetables
 * 3 tbsp fish sauce
 * 1 tbsp cider vinegar
 * 1 long red chili, finely sliced
-
 * 3 lb broccoli
 * 3 tbsp olive oil
 * ¼ cup toasted salted cashews, chopped

@@ -255,6 +255,19 @@ Preheat oven to 425°F and set an oven rack in the middle position. Line a bakin
 Directly on the prepared baking sheet, toss the Brussels sprouts with 2 tablespoons of the oil, the salt, and the pepper. Roast, stirring once halfway through, until tender and golden brown, about 20 minutes.
 Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over the roasted Brussels sprouts. Toss to coat evenly. Taste and adjust seasoning, if necessary, then serve.
 
+## Baked Yams
+
+* Give yams a rinse and scrub, then pat dry
+* Pierce deeply with a fork. 
+* Place on a foil-lined rimmed baking sheet and bake for 45 minutes.
+
+**Toppings**
+* Butter, salt and pepper
+* Brown sugar, cinnamon, honey butter, and salt (my fave)
+* Maple syrup, butter and toasted pecans
+* Sour cream, chives, salt, and pepper
+* Blue cheese, walnuts and honey
+
 ## Candied Baked Yams with Maple Syrup
 
 * 4 pounds yams, peeled and cut into ½-inch thick pieces

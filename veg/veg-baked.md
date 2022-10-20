@@ -254,3 +254,17 @@ Can also include diced yams.  Maybe onion too?
 Preheat oven to 425°F and set an oven rack in the middle position. Line a baking sheet with heavy-duty aluminum foil.
 Directly on the prepared baking sheet, toss the Brussels sprouts with 2 tablespoons of the oil, the salt, and the pepper. Roast, stirring once halfway through, until tender and golden brown, about 20 minutes.
 Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over the roasted Brussels sprouts. Toss to coat evenly. Taste and adjust seasoning, if necessary, then serve.
+
+## Baked Yams with Maple Syrup
+
+* 4 pounds sweet potatoes*, peeled and cut into ½-inch thick pieces
+* 6 tablespoons unsalted butter, cut into pieces
+* 3 tablespoons water
+* ⅓ cup pure maple syrup
+* ¾ cup brown sugar, packed
+* 1 teaspoon ground cinnamon
+* salt
+
+1. Preheat oven to 375°F. Lightly grease a 9×13 or similar sized casserole dish. Add the sweet potatoes to the dish, sprinkle with ¼ to ½ teaspoon salt, toss to combine.
+1. In a small saucepan, melt the butter. Add water, syrup, brown sugar, cinnamon, and a pinch of salt. Bring the mixture to a simmer, whisking occasionally. Simmer for 1 full minute.
+1. Pour the sauce evenly over the potatoes. Cover the baking dish with foil and bake for 30 minutes. Remove from the oven, carefully toss the potatoes, making sure they're all coated in sauce, then return to the oven uncovered for another 15-25 minutes, until tender. Use the tip of a sharp knife to check for doneness. Cool at room temperature for at least 15 minutes; the sauce will thicken a bit as it cools. If desired, you can add additional salt before serving.

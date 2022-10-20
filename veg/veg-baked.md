@@ -39,7 +39,7 @@ parent: Vegetables
 1.      Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  
 2.      Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
 
-## Oven baked Broccoli with Maple Syrup glaze
+## Baked Broccoli with Maple Syrup glaze
 Makes 4-6 servings
 
 * 1 pound broccoli florets
@@ -56,9 +56,8 @@ Makes 4-6 servings
 1. Add the broccoli and toss until evenly coated. Spread broccoli out onto a baking sheet. 
 2. Bake for about 15 minutes, until broccoli is caramelized on top.
 
-## Roast broccoli and blue‑cheese bake
+## Roast Broccoli and Blue Cheese
 A quick and comforting dish that balances the sharp and salty flavours of the blue cheese with fruity and nutty parmesan.
-
 
 Serves 3-4
 

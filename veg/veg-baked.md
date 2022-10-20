@@ -8,7 +8,7 @@ parent: Vegetables
 1. TOC
 {:toc}
 
-Baked Eggplant with Parmesan
+## Baked Eggplant with Parmesan
 
 4 Sliced Eggplants
 3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
@@ -23,7 +23,7 @@ Baked Eggplant with Parmesan
 4. Cover each piece with some grated parmesan cheese.
 5. Put the slices into an oven and cook at 200°C for approximately 15 minutes.
 
-Baked Parmesan Zucchini “Fries”
+## Baked Parmesan Zucchini “Fries”
 
 Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
 INGREDIENTS
@@ -44,7 +44,7 @@ Serve immediately, garnished with parsley, if desired.
 
 
 
-Roasted Broccoli
+## Roasted Broccoli
 1.1kg broccoli
 2 tbsp sesame seeds
 3 tbsp rapeseed oil
@@ -55,7 +55,7 @@ Cut up broccoli (including stalks).
 Toss in oil dressing
 Roast at 350 for 20 mins ??
 
-Maple Chili Broccoli
+## Maple Chili Broccoli
  
  4 tbsp maple syrup
 3 tbsp fish sauce
@@ -73,70 +73,79 @@ b.      Leaving broccoli intact, peel stalks and trim dry ends.  Quarter each st
 c.       Spread on large baking sheet.  Brush with olive oil.  Bake 15 minutes or until bottom of broccoli is dark brown.  Flip and cook 5 minutes or until crisp-tender.
 d.      Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
 
-Oven baked broccoli with maple syrup glaze
+## Oven baked Broccoli with Maple Syrup glaze
 Makes 4-6 servings
-Ingredients:
-1 pound broccoli florets
-1 chopped garlic clove
-1/4 cup olive oil
-1/2 lemon, juiced
-1 tablespoon maple syrup
-Pinch of chili powder
-1 teaspoon salt, to taste
-1/2 teaspoon pepper, to taste
-Directions:
-Preheat the oven to 375 degrees F.
-In a bowl, mix together olive oil, lemon juice, syrup, chili powder, salt, pepper and garlic until well combined. Add the broccoli and toss until evenly coated. Spread broccoli out onto a baking sheet. Bake for about 15 minutes, until broccoli is caramelized on top.
 
-Roast broccoli and blue‑cheese bake
+* 1 pound broccoli florets
+* 1 chopped garlic clove
+* 1/4 cup olive oil
+* 1/2 lemon, juiced
+* 1 tablespoon maple syrup
+* Pinch of chili powder
+* 1 teaspoon salt, to taste
+* 1/2 teaspoon pepper, to taste
+
+1. Preheat the oven to 375 degrees F.
+2. In a bowl, mix together olive oil, lemon juice, syrup, chili powder, salt, pepper and garlic until well combined. 
+1. Add the broccoli and toss until evenly coated. Spread broccoli out onto a baking sheet. 
+2. Bake for about 15 minutes, until broccoli is caramelized on top.
+
+## Roast broccoli and blue‑cheese bake
 A quick and comforting dish that balances the sharp and salty flavours of the blue cheese with fruity and nutty parmesan.
+
 
 Serves 3-4
 
-350g penne
-250g roasted broccoli
-100g blue cheese
-50g breadcrumbs
-50g parmesan
+* 350g penne
+* 250g roasted broccoli
+* 100g blue cheese
+* 50g breadcrumbs
+* 50g parmesan
 
 For the sauce
-50g butter
-40g plain flour
-400ml milk
-150g stilton or other blue cheese
-1 tbsp dijon mustard
-Salt and black pepper
+* 50g butter
+* 40g plain flour
+* 400ml milk
+* 150g stilton or other blue cheese
+* 1 tbsp dijon mustard
+* Salt and black pepper
 
-Boil the pasta with a pinch of salt until al dente. Meanwhile, make the sauce.
-Put the butter in a heavy-based pan and heat it gently until it foams and starts to lightly brown. Pour the flour in and stir to form a light-brown roux. Cook the flour for a minute or so, then add the milk. Whisk well to incorporate and bring to a simmer. The sauce will look a little lumpy, but as the milk comes up to temperature the sauce will come together to create a rich base.
-Once the sauce has thickened, stir in the blue cheese, dijon mustard, salt and pepper, then allow the cheese to melt in. Taste and adjust the seasoning, if needed.
-Preheat the oven to 350F. Drain the pasta, then add it to the pan with the blue-cheese sauce. Give it a thorough mix and then fold in the roasted broccoli. Transfer this into a ceramic roasting dish, crumble with the remaining blue cheese, sprinkle with the breadcrumbs and grate the parmesan on top.
-Place in the oven for 25-30 minutes, until the top is golden brown. Serve with a light leafy salad.
+1. Boil the pasta with a pinch of salt until al dente. Meanwhile, make the sauce.
+1. Put the butter in a heavy-based pan and heat it gently until it foams and starts to lightly brown. Pour the flour in and stir to form a light-brown roux. Cook the flour for a minute or so, then add the milk. Whisk well to incorporate and bring to a simmer. The sauce will look a little lumpy, but as the milk comes up to temperature the sauce will come together to create a rich base.
+1. Once the sauce has thickened, stir in the blue cheese, dijon mustard, salt and pepper, then allow the cheese to melt in. Taste and adjust the seasoning, if needed.
+1. Preheat the oven to 350F. Drain the pasta, then add it to the pan with the blue-cheese sauce. Give it a thorough mix and then fold in the roasted broccoli. Transfer this into a ceramic roasting dish, crumble with the remaining blue cheese, sprinkle with the breadcrumbs and grate the parmesan on top.
+1. Place in the oven for 25-30 minutes, until the top is golden brown. Serve with a light leafy salad.
 
 ## Roasted Broccoli Grilled Cheese
-160g mature cheddar, sliced
-4 slices of good quality white bread, such as sourdough
-100g roasted broccoli
-A good pinch of black pepper
-A splash of Worcestershire sauce
-50g butter
+* 160g mature cheddar, sliced
+* 4 slices of good quality white bread, such as sourdough
+* 100g roasted broccoli
+* A good pinch of black pepper
+* A splash of Worcestershire sauce
+* 50g butter
 
-Divide the cheese equally between two pieces of bread. Roughly chop the roast broccoli and arrange it on top of the cheese. Season with pepper and a splash of Worcestershire sauce. Top the sandwiches with the two remaining slices of bread.
-Spread the top and bottom of the sandwiches evenly with the butter. Fry the sammies on both sides
+1. Divide the cheese equally between two pieces of bread. 
+2. Roughly chop the roast broccoli and arrange it on top of the cheese. 
+3. Season with pepper and a splash of Worcestershire sauce. 
+4. Top the sandwiches with the two remaining slices of bread.
+5. Spread the top and bottom of the sandwiches evenly with the butter. 
+6. Fry the sammies on both sides
 
 
 ## Roasted Cauliflower with Garlic
-Ingredients
-1 large head cauliflower separated into florets
-3-4 cloves minced garlic
-4 tablespoons olive oil
-Salt and pepper to taste
-Instructions
-Preheat the oven to 400 degrees F. Line a baking sheet with aluminum foil (optional), and set aside. 
-Combine florets, garlic, olive oil and salt & pepper in a large bowl and stir until the Cauliflower is fully coated in oil and garlic. Transfer to a baking sheet or a glass baking dish. 
-Bake uncovered for 25-30 minutes, flipping halfway, or until the cauliflower is tender. 
 
-Creamy Sriracha Dipping Sauce
+* 1 large head cauliflower separated into florets
+* 3-4 cloves minced garlic
+* 4 tablespoons olive oil
+* Salt and pepper to taste
+
+1. Preheat the oven to 400 degrees F. 
+2. Line a baking sheet with aluminum foil (optional), and set aside. 
+1. Combine florets, garlic, olive oil and salt & pepper in a large bowl and stir until the Cauliflower is fully coated in oil and garlic. 
+2. Transfer to a baking sheet or a glass baking dish. 
+1. Bake uncovered for 25-30 minutes, flipping halfway, or until the cauliflower is tender. 
+
+**Creamy Sriracha Dipping Sauce**
 Whisk 1/2 cup mayo (or ranch dressing), 1/2 cup sour-cream, 2 tablespoons sriracha, 1 teaspoon lime juice.
 
 ## Cheesy Cauliflower Bake

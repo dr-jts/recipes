@@ -109,7 +109,7 @@ OR
 2. Mix dressing ingredients.  Pour over salad and mix in.  
 3. Serve immediately.
 
-## Asian Slaw 2
+## Asian Coleslaw 2
 
 * 3 cups green cabbage or Chinese cabbage , shredded
 * 3 cups red cabbage , shredded

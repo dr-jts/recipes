@@ -48,23 +48,6 @@ See <#oatmegs>
 1. Stir in chocolate chips
 1. Bake at 375 F for 8-10 min
 
-## Elevator Lady Spice Cookies
-* ¾ c    margarine    		
-* ¼ c    molasses    		
-* 1    egg    			
-* 1 c    white sugar    		
-* 2 c    flour
-* 2 t    baking soda
-* ¼ t    salt
-* 1 t    cinnamon
-* ¾ t    cloves
-* ¾ t    ginger
-
-1. Mix softened margarine, sugar, egg, and molasses
-1. Mix in dry ingredients
-1. Form into balls and place on cookie sheet
-1. Bake at 375 F for 10-12 min
-
 ## Sonya’s Power-Packed Chocolate Chip Cookies
 * 1 c    margarine    		
 * 2 c    brown sugar    		
@@ -81,6 +64,23 @@ See <#oatmegs>
 * ½ c    sunflower seeds
 
 1. Mix softened margarine, sugar, egg, and vanilla
+1. Mix in dry ingredients
+1. Form into balls and place on cookie sheet
+1. Bake at 375 F for 10-12 min
+
+## Elevator Lady Spice Cookies
+* ¾ c    margarine    		
+* ¼ c    molasses    		
+* 1    egg    			
+* 1 c    white sugar    		
+* 2 c    flour
+* 2 t    baking soda
+* ¼ t    salt
+* 1 t    cinnamon
+* ¾ t    cloves
+* ¾ t    ginger
+
+1. Mix softened margarine, sugar, egg, and molasses
 1. Mix in dry ingredients
 1. Form into balls and place on cookie sheet
 1. Bake at 375 F for 10-12 min

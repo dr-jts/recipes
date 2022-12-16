@@ -35,4 +35,4 @@ parent: Meats
 3. Pour in the wine, scraping up browned bits from the bottom of the skillet. Cook until wine is reduced, about 2 minutes.
 4. Add crushed tomatoes, tomato paste, Roma tomatoes and chill flakes. Season with salt and pepper to your tastes. Return chicken pieces to the skillet and continue to cook over stove top OR in the oven following the instructions below.
 5. FOR STOVE TOP: Mix all of the ingredients together; cover with lid, reduce heat to low and allow to simmer (while stirring occasionally) for 40 minutes or until the meat is falling off the bone. 
-6. FOR THE OVEN: Transfer the covered skillet to a preheated oven at 375°F (190°C) and cook for 50 minutes. Remove the lid and cook for an additional 20 minutes until the chicken is tender and falling off the bone, and the sauce has reduced.
+6. FOR OVEN: Transfer the covered skillet to a preheated oven at 375°F (190°C) and cook for 50 minutes. Remove the lid and cook for an additional 20 minutes until the chicken is tender and falling off the bone, and the sauce has reduced.

@@ -243,11 +243,13 @@ Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over
 * 3 T grainy mustard
 * 1 T olive oil
 * Salt and pepper to taste
+* (optional) cherry tomatoes
 
 1. Toss vegetables with oil, mustard and seasonings
 2. Place on baking sheet in single layer
 3. Bake at 375 F for 20-30 minutes
 4. For even cooking, toss once in middle of bake time
+5. Optionally, add some cherry tomatoes 15 mins before end of roasting
 
 ## Yams
 ### Baked Yams

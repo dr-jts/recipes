@@ -230,6 +230,20 @@ Preheat oven to 425°F and set an oven rack in the middle position. Line a bakin
 Directly on the prepared baking sheet, toss the Brussels sprouts with 2 tablespoons of the oil, the salt, and the pepper. Roast, stirring once halfway through, until tender and golden brown, about 20 minutes.
 Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over the roasted Brussels sprouts. Toss to coat evenly. Taste and adjust seasoning, if necessary, then serve.
 
+## Roasted Brussels Sprouts with Zuchinni
+
+* 1 small zuchinni, sliced into 1/2 in half-moons
+* 2 red peppers, chunked
+* 12 to 16 Brussels sprouts, halved or quartered
+* 3 T grainy mustard
+* 1 T olive oil
+* Salt and pepper to taste
+
+1. Toss vegetables with oil, mustard and seasonings
+2. Place on baking sheet in single layer
+3. Bake at 375 F for 20-30 minutes
+4. For even cooking, toss once in middle of bake time
+5. 
 ## Baked Yams
 
 * Give yams a rinse and scrub, then pat dry
@@ -280,17 +294,5 @@ Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy,
 4. Then broil for 2-3 minutes, or until the crisp and golden brown.
 Serve immediately, garnished with parsley, if desired.
 
-## Roasted Zuchinni/Sprouts
 
-* 1 small zuchinni, sliced into 1/2 in half-moons
-* 2 red peppers, chunked
-* 12 to 16 Brussels sprouts, halved or quartered
-* 3 T grainy mustard
-* 1 T olive oil
-* Salt and pepper to taste
-
-1. Toss vegetables with oil, mustard and seasonings
-2. Place on baking sheet in single layer
-3. Bake at 375 F for 20-30 minutes
-4. For even cooking, toss once in middle of bake time
 

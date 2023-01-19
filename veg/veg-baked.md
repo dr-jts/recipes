@@ -279,3 +279,18 @@ Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy,
 3. Place into oven and bake until tender, about 15 minutes. 
 4. Then broil for 2-3 minutes, or until the crisp and golden brown.
 Serve immediately, garnished with parsley, if desired.
+
+## Roasted Zuchinni/Sprouts
+
+* 1 small zuchinni, sliced into 1/2 in half-moons
+* 2 red peppers, chunked
+* 12 to 16 Brussels sprouts, halved or quartered
+* 3 T grainy mustard
+* 1 T olive oil
+* Salt and pepper to taste
+
+1. Toss vegetables with oil, mustard and seasonings
+2. Place on baking sheet in single layer
+3. Bake at 375 F for 20-30 minutes
+4. For even cooking, toss once in middle of bake time
+

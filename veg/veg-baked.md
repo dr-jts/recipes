@@ -19,14 +19,14 @@ parent: Vegetables
 * ¼ cup toasted salted cashews, chopped
  
 **Make sauce**
-1.      Whisk maple syrup with fish sauce, cider vinegar and chillies.  Set aside.
+1. Whisk maple syrup with fish sauce, cider vinegar and chillies.  Set aside.
 
 **Bake and Dress Broccoli**
-1.      Arrange rack in lower third of over.  Preheat to 500 F.
-1.      Leaving broccoli intact, peel stalks and trim dry ends.  Quarter each stalk vertically, forming long, thin trees.
-1.       Spread on large baking sheet.  Brush with olive oil.  Bake 15 minutes or until bottom of broccoli is dark brown.  Flip and cook 5 minutes or until crisp-tender.
-1.      Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  
-2.      Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
+1. Arrange rack in lower third of over.  Preheat to 500 F.
+1. Leaving broccoli intact, peel stalks and trim dry ends.  Quarter each stalk vertically, forming long, thin trees.
+1. Spread on large baking sheet.  Brush with olive oil.  Bake 15 minutes or until bottom of broccoli is dark brown.  Flip and cook 5 minutes or until crisp-tender.
+1. Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  
+2. Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
 
 ## Baked Broccoli with Maple Syrup glaze
 Makes 4-6 servings

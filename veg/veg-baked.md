@@ -8,7 +8,8 @@ parent: Vegetables
 1. TOC
 {:toc}
 
-## Maple Chili Broccoli
+## Broccoli
+### Maple Chili Broccoli
  
 * 4 tbsp maple syrup
 * 3 tbsp fish sauce
@@ -28,7 +29,7 @@ parent: Vegetables
 1. Remove from oven and pour maple sauce over broccoli in pan.  Sauce will sizzle  Roll broccoli in sauce.  
 2. Transfer to platter.  Pour sauce over top.  Sprinkle with cashews.
 
-## Baked Broccoli with Maple Syrup glaze
+### Baked Broccoli with Maple Syrup glaze
 Makes 4-6 servings
 
 * 1 pound broccoli florets
@@ -45,7 +46,7 @@ Makes 4-6 servings
 1. Add the broccoli and toss until evenly coated. Spread broccoli out onto a baking sheet. 
 2. Bake for about 15 minutes, until broccoli is caramelized on top.
 
-## Roasted Broccoli
+### Roasted Broccoli
 * 1.1kg broccoli
 * 2 tbsp sesame seeds
 * 3 tbsp rapeseed oil
@@ -56,7 +57,7 @@ Makes 4-6 servings
 1. Toss in oil dressing
 1. Roast at 350 F for 20 mins ??
 
-## Roasted Broccoli and Blue Cheese
+### Roasted Broccoli and Blue Cheese
 A quick and comforting dish that balances the sharp and salty flavours of the blue cheese with fruity and nutty parmesan.
 
 Serves 3-4
@@ -81,7 +82,7 @@ For the sauce
 1. Preheat the oven to 350F. Drain the pasta, then add it to the pan with the blue-cheese sauce. Give it a thorough mix and then fold in the roasted broccoli. Transfer this into a ceramic roasting dish, crumble with the remaining blue cheese, sprinkle with the breadcrumbs and grate the parmesan on top.
 1. Place in the oven for 25-30 minutes, until the top is golden brown. Serve with a light leafy salad.
 
-## Roasted Broccoli Grilled Cheese Sandwich
+### Roasted Broccoli Grilled Cheese Sandwich
 * 160g mature cheddar, sliced
 * 4 slices of good quality white bread, such as sourdough
 * 100g roasted broccoli
@@ -96,8 +97,8 @@ For the sauce
 5. Spread the top and bottom of the sandwiches evenly with the butter. 
 6. Fry the sammies on both sides
 
-
-## Roasted Cauliflower with Garlic
+## Cauliflower
+### Roasted Cauliflower with Garlic
 
 * 1 large head cauliflower separated into florets
 * 3-4 cloves minced garlic
@@ -113,7 +114,7 @@ For the sauce
 **Creamy Sriracha Dipping Sauce**
 Whisk 1/2 cup mayo (or ranch dressing), 1/2 cup sour-cream, 2 tablespoons sriracha, 1 teaspoon lime juice.
 
-## Cheesy Cauliflower Bake
+### Cheesy Cauliflower Bake
 * 1 large cauliflower (leaves cut off), broken into pieces
 * 4 T flour
 * 4 T butter
@@ -137,7 +138,7 @@ Try:
 * 1 c milk with appropriate butter & flour
 * don’t blanch cauliflower? Or cook for only 20 mins?
 
-## Baked Cauliflower with Cheese
+### Baked Cauliflower with Cheese
 Ingredients
 1 head fresh cauliflower separated into florets
 2 tablespoons olive oil
@@ -152,7 +153,8 @@ Preheat oven to 425°F. Lightly grease a 9x13 baking dish or pan with non-stick 
 Place cauliflower florets into a large bowl. Add olive oil, garlic powder, Italian seasoning, salt, and pepper. Stir to coat, making sure each piece is covered. Spread cauliflower in an even layer in prepared dish.
 Bake for 15 minutes. Turn cauliflower over, top with cheeses, and bake for another 12-15 minutes, or until cauliflower is lightly golden. Serve immediately.
 
-## Honey-Garlic Roasted Carrots
+## Carrots
+### Honey-Garlic Roasted Carrots
 
 2 pounds (1 kg) carrots washed and peeled (or unpeeled)
 1/3 cup butter
@@ -171,7 +173,8 @@ Roast for 20 minutes, or until carrots are fork-tender. Broil (or grill) for 2-3
 OPTIONAL: Transfer them back into the skillet and allow carrots to simmer in the sauce over high heat for 5 minutes to thicken the sauce into a glaze. *SEE NOTES.
 Season with a little extra salt and pepper if desired. Garnish with parsley.
 
-## Baked Eggplant with Parmesan
+## Eggplant
+### Baked Eggplant with Parmesan
 
 * 4 Sliced Eggplants
 * 3.5oz Tomato Paste (100g) OR use sliced cherry tomatoes
@@ -185,8 +188,9 @@ Season with a little extra salt and pepper if desired. Garnish with parsley.
 3. Place the eggplant slices on a baking tray, lightly brush with olive oil, and then put a little of the tomato paste mixture on top.
 4. Cover each piece with some grated parmesan cheese.
 5. Put the slices into an oven and cook at 200°C for approximately 15 minutes.
-6. 
-## Maple-Sugar Baked Squash
+
+## Squash
+### Maple-Sugar Baked Squash
 1 Acorn squash
 1 Tbsp Butter
 2 Tbsp Brown Sugar
@@ -200,21 +204,22 @@ MIx glaze
 Dab over squash
 Cook at 400 F for 1 hr?
 
-## Marmalade Squash
-Acorn squash
-1 T marmalade
-1 t butter
+### Marmalade Squash
+* Acorn squash
+* 1 T marmalade
+* 1 t butter
 
-Heat oven to 400
-Cut squash in half, remove seeds and strings
-Place in baking dish cut side down, with ¼ in water
-Bake for 35 min
-Flip over
-Salt lightly 
-Smear with marmalade-butter mixture
-Broil for 5 min
+1. Heat oven to 400
+1. Cut squash in half, remove seeds and strings
+1. Place in baking dish cut side down, with ¼ in water
+1. Bake for 35 min
+1. Flip over
+1. Salt lightly 
+1. Smear with marmalade-butter mixture
+1. Broil for 5 min
 
-## Roasted Brussel Sprouts with Balsamic and Honey
+## Brussels Sprouts
+### Roasted Brussel Sprouts with Balsamic and Honey
 
 Can also include diced yams.  Maybe onion too?
 
@@ -230,9 +235,9 @@ Preheat oven to 425°F and set an oven rack in the middle position. Line a bakin
 Directly on the prepared baking sheet, toss the Brussels sprouts with 2 tablespoons of the oil, the salt, and the pepper. Roast, stirring once halfway through, until tender and golden brown, about 20 minutes.
 Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over the roasted Brussels sprouts. Toss to coat evenly. Taste and adjust seasoning, if necessary, then serve.
 
-## Roasted Brussels Sprouts with Zuchinni
+### Roasted Brussels Sprouts with Zucchini
 
-* 1 small zuchinni, sliced into 1/2 in half-moons
+* 1 small zucchini, sliced into 1/2 in half-moons
 * 2 red peppers, chunked
 * 12 to 16 Brussels sprouts, halved or quartered
 * 3 T grainy mustard
@@ -243,8 +248,9 @@ Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over
 2. Place on baking sheet in single layer
 3. Bake at 375 F for 20-30 minutes
 4. For even cooking, toss once in middle of bake time
-5. 
-## Baked Yams
+
+## Yams
+### Baked Yams
 
 * Give yams a rinse and scrub, then pat dry
 * Pierce deeply with a fork. 
@@ -257,7 +263,7 @@ Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over
 * Sour cream, chives, salt, and pepper
 * Blue cheese, walnuts and honey
 
-## Candied Baked Yams with Maple Syrup
+### Candied Baked Yams with Maple Syrup
 
 * 4 pounds yams, peeled and cut into ½-inch thick pieces
 * 6 tablespoons unsalted butter, cut into pieces
@@ -273,7 +279,8 @@ Drizzle the remaining tablespoon of oil, the balsamic vinegar and the honey over
 2. Cool at room temperature for at least 15 minutes; the sauce will thicken a bit as it cools. 
 3. If desired, add additional salt before serving.
 
-## Baked Parmesan Zucchini “Fries”
+## Zucchini
+### Baked Parmesan Zucchini “Fries”
 Crisp, tender zucchini sticks oven-roasted to absolute perfection. It's healthy, nutritious and completely addictive!
 
 * 4 zucchini, quartered lengthwise

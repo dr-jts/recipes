@@ -2,7 +2,7 @@
 parent: Vegetables
 ---
 
-# Cooked Vegetables
+# Rice
 {: .no_toc }
 
 1. TOC
@@ -16,6 +16,7 @@ parent: Vegetables
 * 1 c arborio rice
 * 1/2 c dry white wine or vermouth
 * 4 c water or stock
+* (Opt) Mushrooms, diced
 * 1/2 - 1 c fresh grated Parmesan cheese
 
 1. Heat oil and butter in a large saucepan or Dutch oven
@@ -25,4 +26,5 @@ parent: Vegetables
 5. Add 1/2 c of stock and cook until spoon leaves a trail
 6. Continue adding stock 1/2 c at a time, stirring frequently
 7. Cook until rice is al dente and mixture is thick but fluid - about 25 mins (you may not use all the stock)
-8. Remove from heat, stir in Parmesan, a bit of butter, and any torn herbs to taste
+8. (Optional) Add sauted diced mushrooms
+9. Remove from heat, stir in Parmesan, a bit of butter, and any torn herbs to taste

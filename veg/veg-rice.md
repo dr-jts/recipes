@@ -27,4 +27,4 @@ parent: Vegetables
 6. Continue adding stock 1/2 c at a time, stirring frequently
 7. Cook until rice is al dente and mixture is thick but fluid - about 25 mins (you may not use all the stock)
 8. (Optional) Add sauted diced mushrooms
-9. Remove from heat, stir in Parmesan, a bit of butter, and any torn herbs to taste
+9. Remove from heat, stir in Parmesan, a bit of butter, salt and pepper to taste, and (optional) torn herbs

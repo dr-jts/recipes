@@ -28,10 +28,18 @@
 
 
 1. Cook pasta according to package directions, drain and separate.
-1. **Sauce:** In a saucepan over medium heat, melt butter, add flour and whisk until smooth. Gradually add milk, whisking continuously until thick. Turn off the heat add 1/2 cup parmesan cheese, salt and pepper.
-1. In a bowl combine ricotta cheese, egg, garlic, 2 cups mozzarella, and parsley. Stir to combine.
-1. Mix seafood in a bowl.
-1. In a greased 9 x 13 inch pan, layer 1 cup sauce in pan, place 3 noodles side by side; top with ⅓ of the ricotta mixture; top with 1/3 of seafood mixture. Repeat 2 more times topping with remaining sauce, mozzarella and parmesan cheese.
-1. Cover and cook in a 350/375 degree oven for 30 minutes
-2. Uncover and cook for additional 10 minutes or until bubbly and golden on top. 
-3. Allow to rest for 20 minutes to set.
+1. **Sauce:** 
+   1. In a saucepan over medium heat, melt butter, add flour and whisk until smooth. 
+   2. Gradually add milk, whisking continuously until thick. 
+   3. Turn off the heat add 1/2 cup parmesan cheese, salt and pepper.
+3. In a bowl combine ricotta cheese, egg, garlic, 2 cups mozzarella, and parsley. Stir to combine.
+4. Mix seafood in a bowl.
+5. In a greased 9 x 13 inch pan:
+  1.  layer 1 cup sauce in pan, place 3 noodles side by side
+  2.  top with ⅓ of the ricotta mixture
+  3.  top with 1/3 of seafood mixture. 
+  4.  Repeat once more
+  5.  Lay final 3 pasta noodles and top with remaining sauce, mozzarella and parmesan cheese.
+6. Cover and cook in a 350/375 degree oven for 30 minutes
+7. Uncover and cook for additional 10 minutes or until bubbly and golden on top. 
+8. Allow to rest for 20 minutes to set.

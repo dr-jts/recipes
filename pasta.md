@@ -6,7 +6,7 @@
 
 ## Seafood Lasagne
 
-* 1 pound lasagna noodles
+* 9 lasagna noodles
 
 * 4 Tablespoons butter
 * ¼ cup plus 1 tablespoon flour

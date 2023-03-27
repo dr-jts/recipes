@@ -19,7 +19,7 @@
 * 1 15 oz container ricotta cheese
 * 1 OR 2 eggs
 * 2 teaspoons minced garlic
-* 2 ½ cup grated mozzarella cheese divided
+* 2 ½ cup grated mozzarella cheese, divided
 * ½ cup chopped parsley
 
 * 1 pound cooked shrimp (chopped if large)
@@ -34,9 +34,9 @@
    1. In a saucepan over medium heat, melt butter, add flour and whisk until smooth. 
    2. Gradually add milk, whisking continuously until thick. 
    3. Turn off the heat add 1/2 cup parmesan cheese, salt and pepper.
+1. Saute diced onion and sliced mushrooms in oil and butter
 3. In a bowl combine ricotta cheese, egg, garlic, 2 cups mozzarella, and parsley. Stir to combine.
-4. Mix seafood in a bowl.
-5. Saute diced onion and sliced mushrooms in oil and butter
+4. Mix seafood and vegetables in a bowl.
 6. In a greased 9 x 13 inch pan:
    1.  layer 1 cup sauce in pan, place 3 noodles side by side
    2.  top with 1/2 of the ricotta mixture

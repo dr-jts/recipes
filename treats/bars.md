@@ -110,24 +110,37 @@ VARIATIONS
 1. Bake at 350 F for 25-30 min, or until top is set
 
 ## Nanaimo Bars
-½ c    butter    ¼ c    butter
-¼ c    sugar    3 T    milk
-5 T    cocoa    2 T    custard powder
-1    egg    2 c     icing sugar
-1 t    vanilla   	 
-2 c    graham crumbs    4 sq    semi-sweet chocolate
-1 c     coconut (optional)    2 T    butter
-½ c    chopped walnuts   	 
+BOTTOM
+* ½ c    butter    
+* ¼ c    sugar    
+* 5 T    cocoa    
+* 1 t    vanilla   	 
+* 1    egg    
+* 2 c    graham crumbs 
+* ½ c    chopped walnuts   	 
+* 1 c     coconut (optional)    
 
-Melt buttter,  sugar, cocoa, and vanilla in a double boiler
-Add egg and stir to thicken
-Remove from heat and mix in graham crumbs, coconut and walnuts
-Press into an ungreased 8” pan
-For middle layer, cream together butter with milk mixed with custard powder
-Blend in icing sugar
-Spread over base and let stand 15 min to harden
-Melt chocolate and butter over low heat.  Cool slightly then pour over icing to cover
-Chill
+1. Melt buttter,  sugar, cocoa, and vanilla in a double boiler
+1. Add egg and stir to thicken
+1. Remove from heat and mix in graham crumbs, coconut and walnuts
+1. Press into an ungreased 8” pan
+
+MIDDLE
+* ¼ c    butter
+* 3 T    milk
+* 2 T    custard powder
+* 2 c     icing sugar
+
+1. For middle layer, cream together butter with milk mixed with custard powder
+1. Blend in icing sugar
+1. Spread over base and let stand 15 min to harden
+
+TOP
+* 4 sq    semi-sweet chocolate
+* 2 T    butter
+
+1. Melt chocolate and butter over low heat.  Cool slightly then pour over icing to cover
+1. Chill
 
 VARIATION     Use finely chopped almonds or pecans instead of walnuts
 
@@ -149,16 +162,21 @@ Use ¼ c orange liqueur and 1 t orange rind instead of the milk and custard powd
 
 ## Rhubarb Dream Bars
 CRUST
-1 cup flour
-1/2 cup sugar
-1/2 cup butter, room temperature
+* 1 cup flour
+* 1/2 cup sugar
+* 1/2 cup butter, room temperature
 FILLING
-2 large eggs
-1 cup sugar
-1/4 cup flour
-1/4 tsp. salt
-2 cups diced rhubarb
+* 2 large eggs
+* 1 cup sugar
+* 1/4 cup flour
+* 1/4 tsp. salt
+* 2 cups diced rhubarb
 
-Preheat oven to 350F. Line the bottom of an 8x8" pan with parchment bringing it up the sides so that it will be easy to remove the squares after. Whirl the crust ingredients in a food processor and then press into the prepared pan. Bake for 15 min., crust will still remain very pale in color.
-While crust is baking mix together eggs, sugar, flour and salt and whisk well. Stir in rhubarb. Pour onto the hot crust and continue to bake for 40-45min.
-Let the bars cool and remove with the parchment paper. Cut into squares.
+1. Preheat oven to 350F. 
+2. Line the bottom of an 8x8" pan with parchment bringing it up the sides so that it will be easy to remove the squares after. 
+3. Whirl the crust ingredients in a food processor and then press into the prepared pan. 
+4. Bake for 15 min., crust will still remain very pale in color.
+1. While crust is baking mix together eggs, sugar, flour and salt and whisk well. 
+2. Stir in rhubarb. 
+3. Pour onto the hot crust and continue to bake for 40-45min.
+1. Let the bars cool and remove with the parchment paper. Cut into squares.

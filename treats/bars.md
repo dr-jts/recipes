@@ -154,7 +154,7 @@ Use ¼ c orange liqueur and 1 t orange rind instead of the milk and custard powd
 * 1 t    baking powder
 * 2 c    oatmeal   	 
 
-1. Melt marge. Mix into sugar.  
+1. Melt margarine. Mix into sugar.  
 1. Mix in rest of ingredients
 1. Press into an ungreased 8” pan
 1. Bake at 325 F for 10-15 min.

@@ -8,19 +8,6 @@ parent: Salads
 1. TOC
 {:toc}
 
-## Orange Salad
-* salad greens
-* orange chunks
-* pecans
-* thinly-sliced red onions
-
-OPTIONS
-* tomatoe chunks
-* gorgonzola or blue cheese
-* avocado slices
-
-
-
 ## Tomato-Cucumber Salad
 
 * 1 large cucumber
@@ -38,9 +25,18 @@ OPTIONS
 1. Pour the dressing over the salad;mix, cover, and refrigerate until chilled, at least 30 minutes. 
 1. Before serving, stir in the cilantro and sprinkle with chopped peanuts.
 
+## Orange Salad
+* salad greens
+* orange chunks
+* pecans
+* thinly-sliced red onions
+
+OPTIONS
+* tomatoe chunks
+* gorgonzola or blue cheese
+* avocado slices
+
 ## Mandarin Orange Salad
-**Ingredients**
- 
 * 1 head romaine lettuce - rinsed, dried and chopped
 * 2 (11 ounce) cans mandarin oranges, drained
 * 6 green onions, thinly sliced
@@ -52,20 +48,19 @@ OPTIONS
 * 1/8 teaspoon crushed red pepper flakes
 * ground black pepper to taste
 
+1. In a large bowl, combine the romaine lettuce, oranges and green onions.
+1. Heat 2 tablespoons sugar with the almonds in saucepan over medium heat. Cook and stir while sugar starts to melt and coat almonds. Stir constantly until almonds are light brown. Turn onto a plate, and cool for 10 minutes.
+1. Combine red wine vinegar, olive oil, one tablespoon sugar, red pepper flakes and black pepper in a jar with a tight fitting lid. Shake vigorously until sugar is dissolved.
+1. Before serving, toss lettuce with salad dressing until coated. Transfer to a decorative serving bowl, and sprinkle with sugared almonds.
  
-In a large bowl, combine the romaine lettuce, oranges and green onions.
-Heat 2 tablespoons sugar with the almonds in saucepan over medium heat. Cook and stir while sugar starts to melt and coat almonds. Stir constantly until almonds are light brown. Turn onto a plate, and cool for 10 minutes.
-Combine red wine vinegar, olive oil, one tablespoon sugar, red pepper flakes and black pepper in a jar with a tight fitting lid. Shake vigorously until sugar is dissolved.
-Before serving, toss lettuce with salad dressing until coated. Transfer to a decorative serving bowl, and sprinkle with sugared almonds.
-Options
-Add Dijon mustard and/or mayo to dressing to thicken
-Use snow peas instead of/as well as green onion
-Add diced cucumber
-Add chow mein noodles
-Toast almonds in microwave with some sugar and butter (use 30 sec intervals until golden)
+### Options
+* Add Dijon mustard and/or mayo to dressing to thicken
+* Use snow peas instead of/as well as green onion
+* Add diced cucumber
+* Add chow mein noodles
+* Toast almonds in microwave with some sugar and butter (use 30 sec intervals until golden)
 
 ## Spinach Salad with Mango dressing
-
 * Spinach leaves
 * Coconut threads or flakes
 * Apple chunks

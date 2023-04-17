@@ -64,6 +64,18 @@ Add diced cucumber
 Add chow mein noodles
 Toast almonds in microwave with some sugar and butter (use 30 sec intervals until golden)
 
+## Spinach Salad with Mango dressing
+
+* Spinach leaves
+* Coconut threads or flakes
+* Apple chunks
+* mango slices?
+
+DRESSING
+* mayonnaise
+* mango chutney
+
+
 ## Tangy Chicken Salad
  
 * 1 Whole-Roasted Chicken (Your Favorite Recipe Or A Store-Bought Chicken)

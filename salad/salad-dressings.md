@@ -32,6 +32,14 @@ parent: Salads
 * 1 garlic clove, minced.
 * 1/4 teaspoon freshly ground pepper.
 
+## Orange Vinaigrette
+
+* ¼ cup orange juice
+* 2 tablespoons balsamic vinegar
+* 1 tablespoon Dijon-style prepared mustard
+* 2 teaspoons honey
+* ⅛ teaspoon cracked black pepper
+
 ## Sonya’s Dressing
 * Vinegar 
   * she used rice and cider vinegar

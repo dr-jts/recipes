@@ -66,3 +66,46 @@ OPTION FOR SAUCE
 3. Add the onion, garlic and bell pepper to the skillet and saute until the onion is slightly browned. 
 4. Return the chicken to the skillet and add the tomatoes, oregano and wine. Cover and simmer for 30 minutes over medium low heat.
 5. Add the mushrooms and salt and pepper to taste. Simmer for 10 more minutes.
+
+
+## Chicken in Oyster Sauce Stir-fry
+
+* 1 pound boneless, skinless chicken breasts or thighs, chopped into bite-sized pieces
+
+**Marinade:**
+
+* 2 tablespoons soy sauce
+* 1 tablespoon rice wine
+* 1 teaspoon sesame oil
+* 1 tablespoon cornstarch
+
+**Sauce:**
+
+* 1 1/2 tablespoons cornstarch
+* 1/3 cup water
+* 1 tablespoon dark soy sauce
+* 2 tablespoons oyster sauce
+* 1 tablespoon rice wine
+* 1 teaspoon granulated sugar
+* 1 teaspoon sesame oil
+
+**Stir-Fry:**
+
+* 2 tablespoons canola oil, divided
+* 1 clove garlic, minced
+* 1 teaspoon minced ginger
+* 2 medium green onions, sliced diagonally into 1-inch pieces
+* 3 to 4 dried Chinese mushrooms, softened in warm water and sliced
+* 1 can bamboo shoots (or 1 can baby corn), drained
+
+1. Combine the soy sauce, rice wine, and sesame oil in a large bowl.
+1. Add the chicken and toss to coat. Sprinkle 1 tablespoon of cornstarch evenly across the meat and toss again. Marinate the chicken in the refrigerator for 10 to 15 minutes.
+1. While the chicken marinates, dissolve 1 1/2 tablespoons of cornstarch in the water, then mix it with the water, dark soy sauce, oyster sauce, rice wine, sugar, and sesame oil.
+1. Heat a wok or deep heavy skillet on high and add 1 tablespoon of the canola oil. When the oil shimmers, add the garlic, ginger, and green onions and stir-fry for about 1 minute or until fragrant and just starting to brown.
+1. Transfer the ginger, garlic, and onions with a slotted spoon to a small bowl.
+1. Remove the chicken from the fridge, transfer to the wok with a slotted spoon, and stir-fry, stirring frequently, until it changes color, about 3 to 4 minutes. Discard the unused marinade.
+1. Remove the chicken from the wok.
+1. Add the remaining 1 tablespooon of oil and return the garlic, ginger, and green onions to the wok. Add the mushrooms and bamboo shoots (or baby corn) and stir-fry for 1 minute.
+1. Return the chicken to the wok.
+1. Make a well in the middle and add the sauce, giving it a quick stir before combining it with the chicken and vegetables.
+1. Stir-fry for an additional 1 to 2 minutes, or until the sauce thickens and coats all of the ingredients. Serve and enjoy!

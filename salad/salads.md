@@ -74,7 +74,7 @@ DRESSING
 ## Tangy Chicken Salad
  
 * 1 Whole-Roasted Chicken (Your Favorite Recipe Or A Store-Bought Chicken)
-* White Wine Vinegar To Taste
+* White Wine (or Apple Cider?) Vinegar To Taste
 * 3/4 Cup Red Or Green Grapes, Halved
 * 1/2 Cup Cashews, Halved
 * 1/2 Cup Red Onion, Finely Diced

@@ -40,6 +40,18 @@ parent: Salads
 * 2 teaspoons honey
 * ⅛ teaspoon cracked black pepper
 
+## Orange Vinaigrette 2
+
+* 2 tablespoons vinegar (such as white wine vinegar, apple cider vinegar, champagne vinegar, or rice vinegar)
+* 2-3 teaspoons grated orange zest
+* ⅓ cup fresh orange juice (from 1 orange)
+* 2 teaspoons honey
+* 1 tablespoon Dijon mustard
+* ⅓ cup extra-virgin olive oil
+* 2 tablespoons minced shallot
+* 1/2 teaspoon sea salt
+* 1/4 teaspoon freshly cracked black pepper
+
 ## Sonya’s Dressing
 * Vinegar 
   * she used rice and cider vinegar

@@ -53,7 +53,7 @@ parent: Treats
 * 1    egg    			
 * 1 t    vanilla    			
 * ½ c    flour  (add 3 T for double recipe)
-* 1 t    baking soda
+* 1 t    baking powder
 * ½ t    salt
 
 1. Mix margarine and sugar

@@ -8,7 +8,7 @@ parent: Meats
 1. TOC
 {:toc}
 
-## Pork with Maple-Mustard glaze
+## Pork Chops with Maple-Dijon glaze
 
 * 4 boneless thick-cut pork chops
 * 1 1/2 Tbsp. olive oil, divided

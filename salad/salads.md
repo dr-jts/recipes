@@ -105,13 +105,13 @@ DRESSING
 * 2 x 120 g free-range skinless chicken breasts
 * 1 thick slice of wholemeal bread
 
-Finely grate the lemon zest and Parmesan into a large bowl. Slice and add the anchovies, along with the yoghurt, mustard and Worcestershire sauce.
-Squeeze in half the lemon juice, add 1 tablespoon of vinegar and 2 tablespoons of extra virgin olive oil and mix to make your dressing.
-Now you’re going to turn regular salad into a thing of beauty by either taking your time with good knife skills, or ideally, investing in a mandolin for ease, elegance and accuracy (use the guard!). Start by peeling and very finely slicing the red onion, then stir it through the dressing.
-Click off and discard any tatty outer leaves from the cauliflower, then very finely slice it. Finely slice the lettuce by hand and pile both on top of the dressed onion, tossing together only moments before serving.
-Put 1 teaspoon of olive oil in a frying pan on a medium heat. Pick the rosemary leaves over the chicken and lightly season it on both sides, flattening it slightly with the heel of your hand. Cook for 4 minutes on each side, or until golden and cooked through.
-Cube the bread and toast alongside the chicken, moving regularly until evenly golden and gnarly, removing only when super-crispy.
-Toss the salad together and season to perfection, slice up the chicken and serve with a sprinkling of croutons and lemon wedges for squeezing over.
+1. Finely grate the lemon zest and Parmesan into a large bowl. Slice and add the anchovies, along with the yoghurt, mustard and Worcestershire sauce.
+1. Squeeze in half the lemon juice, add 1 tablespoon of vinegar and 2 tablespoons of extra virgin olive oil and mix to make your dressing.
+1. Now you’re going to turn regular salad into a thing of beauty by either taking your time with good knife skills, or ideally, investing in a mandolin for ease, elegance and accuracy (use the guard!). Start by peeling and very finely slicing the red onion, then stir it through the dressing.
+1. Click off and discard any tatty outer leaves from the cauliflower, then very finely slice it. Finely slice the lettuce by hand and pile both on top of the dressed onion, tossing together only moments before serving.
+1. Put 1 teaspoon of olive oil in a frying pan on a medium heat. Pick the rosemary leaves over the chicken and lightly season it on both sides, flattening it slightly with the heel of your hand. Cook for 4 minutes on each side, or until golden and cooked through.
+1. Cube the bread and toast alongside the chicken, moving regularly until evenly golden and gnarly, removing only when super-crispy.
+1. Toss the salad together and season to perfection, slice up the chicken and serve with a sprinkling of croutons and lemon wedges for squeezing over.
 
 ## Asian Broccoli Salad
 
@@ -145,8 +145,10 @@ Whisk all ingredients together until combined. If the dressing is too thick, whi
 * 1/3 cup raisins
 * OPT: diced apple
 
-COMBINE mayonnaise and peanut butter in large bowl, stirring until blended. Stir in carrots and raisins to coat. Cover and chill until ready to serve.
-STIR in apple. Sprinkle with peanuts.
+1. Combine mayonnaise and peanut butter in large bowl, stirring until blended. 
+1. Stir in carrots and raisins to coat.
+1. Cover and chill until ready to serve.
+1. Stir in apple. Sprinkle with peanuts.
 
 ## Roasted Broccoli - Quinoa Salad
 A light and healthy salad, ideally served with pan-fried or barbecued mackerel or stuffed into a container for lunch on the go.
@@ -169,4 +171,4 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 1. Whisk all the dressing ingredients well until thick and creamy in consistency. Taste and adjust the seasoning, if needed.
 1. Cook the quinoa according to the instructions on the packet (or buy a 250g pouch of ready-to-eat grains).
 1. Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl.
-2. 1.Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.
+1. Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.

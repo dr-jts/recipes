@@ -25,7 +25,7 @@ parent: Treats
 
 ## Almegs
 
-See <#oatmegs>
+Use [Oatmeg recipe](#oatmegs) with following changes:
 
 1. Use ½ the coconut and omit the nutmeg
 1. Add sliced almonds and lots of almond extract

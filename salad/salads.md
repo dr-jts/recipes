@@ -166,6 +166,7 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 * Salt and black pepper
 * A generous pinch of sugar
 
-Whisk all the dressing ingredients well until thick and creamy in consistency. Taste and adjust the seasoning, if needed.
-Cook the quinoa according to the instructions on the packet (or buy a 250g pouch of ready-to-eat grains).
-Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl. Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.
+1. Whisk all the dressing ingredients well until thick and creamy in consistency. Taste and adjust the seasoning, if needed.
+1. Cook the quinoa according to the instructions on the packet (or buy a 250g pouch of ready-to-eat grains).
+1. Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl.
+2. 1.Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.

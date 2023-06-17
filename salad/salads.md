@@ -81,29 +81,29 @@ DRESSING
 * 3/4 Cup Mayonnaise Or Plain Yogurt
 * Juice And Zest Of 1 Lemon
 
-Pull all the meat off of the chicken and shred it. Place in a large mixing bowl.
-Add 1/2 cup of mayo to the chicken and reserve the rest.
-Add all other ingredients and mix well. (If the mixture is a bit dry, add the extra mayo.)
-Add white wine vinegar, one teaspoon at a time.  
-Serve as sandwiches or on top of crostinis.
+1. Pull all the meat off of the chicken and shred it. Place in a large mixing bowl.
+1. Add 1/2 cup of mayo to the chicken and reserve the rest.
+1. Add all other ingredients and mix well. (If the mixture is a bit dry, add the extra mayo.)
+1. Add white wine vinegar, one teaspoon at a time.  
+1. Serve as sandwiches or on top of crostinis.
 
 ## Healthy Chicken Caesar
 
-1 lemon
-15 g Parmesan cheese
-2 anchovy fillets in oil
-4 heaped tablespoons natural yoghurt
-½ teaspoon English mustard
-1 teaspoon Worcestershire sauce
-white wine vinegar
-extra virgin olive oil
-1 small red onion
-½ a small cauliflower (300g)
-1 romaine lettuce
-olive oil
-1 sprig of fresh rosemary
-2 x 120 g free-range skinless chicken breasts
-1 thick slice of wholemeal bread
+* 1 lemon
+* 15 g Parmesan cheese
+* 2 anchovy fillets in oil
+* 4 heaped tablespoons natural yoghurt
+* ½ teaspoon English mustard
+* 1 teaspoon Worcestershire sauce
+* white wine vinegar
+* extra virgin olive oil
+* 1 small red onion
+* ½ a small cauliflower (300g)
+* 1 romaine lettuce
+* olive oil
+* 1 sprig of fresh rosemary
+* 2 x 120 g free-range skinless chicken breasts
+* 1 thick slice of wholemeal bread
 
 Finely grate the lemon zest and Parmesan into a large bowl. Slice and add the anchovies, along with the yoghurt, mustard and Worcestershire sauce.
 Squeeze in half the lemon juice, add 1 tablespoon of vinegar and 2 tablespoons of extra virgin olive oil and mix to make your dressing.
@@ -116,19 +116,20 @@ Toss the salad together and season to perfection, slice up the chicken and serve
 ## Asian Broccoli Salad
 
 BROCCOLI SALAD INGREDIENTS:
-1 large head broccoli, cut into small florets
-1 cup shelled cooked edamame
-1/2 cup thinly-sliced green onions
-1/2 cup peanuts
-1 batch peanut sauce (recipe below)
-sesame seeds, for garnish
+* 1 large head broccoli, cut into small florets
+* 1 cup shelled cooked edamame
+* 1/2 cup thinly-sliced green onions
+* 1/2 cup peanuts
+* 1 batch peanut sauce (recipe below)
+* sesame seeds, for garnish
+
 PEANUT SAUCE INGREDIENTS:
-1/4 cup natural peanut butter
-1 tablespoon rice wine vinegar
-1 tablespoon soy sauce (if you are gluten-free, use GF soy sauce or tamari)
-1 tablespoon honey or agave nectar
-1/8 teaspoon sesame oil
-1-2 tablespoons hot water, as needed to thin the sauce
+* 1/4 cup natural peanut butter
+* 1 tablespoon rice wine vinegar
+* 1 tablespoon soy sauce (if you are gluten-free, use GF soy sauce or tamari)
+* 1 tablespoon honey or agave nectar
+* 1/8 teaspoon sesame oil
+* 1-2 tablespoons hot water, as needed to thin the sauce
 
 TO MAKE THE BROCCOLI SALAD:
 Heat a large pot of water until it is boiling.  Add in the broccoli florets and boil for 30 seconds.  Use a strainer to transfer them into a bowl of ice water, which will immediately halt the cooking process.  Drain.  Then add the remaining ingredients and toss until combined.  Serve immediately, garnished with sesame seeds if desired.

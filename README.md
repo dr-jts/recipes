@@ -1,7 +1,3 @@
----
-nav_exclude: true
----
-
 # Recipes
 Recipes for favourite dishes
 

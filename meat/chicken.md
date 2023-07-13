@@ -8,6 +8,29 @@ parent: Meats
 1. TOC
 {:toc}
 
+## Mom's Chicken Cacciatore
+
+* 1 c all-purpose flour for coating
+* ½ teaspoon salt
+* ¼ teaspoon ground black pepper
+* 6 chicken thighs
+* 2 tablespoons vegetable oil
+* 1 onion, chopped
+* 2 cloves garlic, minced
+* 1 green bell pepper, chopped
+* 1 (14.5 ounce) can diced tomatoes
+* ½ teaspoon dried oregano OR Italian herbs
+* OPTION: add chicken broth as well?
+* ½ cup white OR red wine
+* 2 cups fresh mushrooms, quartered
+* salt and pepper to taste
+
+1. Combine the flour, salt and pepper in a bowl. Coat chicken pieces using tongs. 
+2. Heat the oil in a large skillet (one that has a cover/lid). Fry the chicken pieces until they are browned on both sides. Remove from skillet.
+3. Add onion, garlic and bell pepper to the skillet and saute until onion is slightly browned. 
+4. Return the chicken to the skillet and add tomatoes, oregano and wine. Cover and simmer for 30 minutes over medium low heat.
+5. Add the mushrooms and salt and pepper to taste. Simmer for 10 more minutes.
+
 ## Chicken Cacciatore
 
 * 3 tablespoons olive oil, divided
@@ -42,30 +65,6 @@ OPTION FOR SAUCE
 4. Add crushed tomatoes, tomato paste, Roma tomatoes and chill flakes. Season with salt and pepper to your tastes. Return chicken pieces to the skillet and continue to cook over stove top OR in the oven following the instructions below.
 5. FOR STOVE TOP: Mix all of the ingredients together; cover with lid, reduce heat to low and allow to simmer (while stirring occasionally) for 40 minutes or until the meat is falling off the bone. 
 6. FOR OVEN: Transfer the covered skillet to a preheated oven at 375°F (190°C) and cook for 50 minutes. Remove the lid and cook for an additional 20 minutes until the chicken is tender and falling off the bone, and the sauce has reduced.
-
-
-## Mom's Chicken Cacciatore
-
-* 2 cups all-purpose flour for coating
-* ½ teaspoon salt
-* ¼ teaspoon ground black pepper
-* 8 1 (4 pound) chicken, cut into pieces (6 chicken thighs?)
-* 2 tablespoons vegetable oil
-* 1 onion, chopped
-* 2 cloves garlic, minced
-* 1 green bell pepper, chopped
-* 1 (14.5 ounce) can diced tomatoes
-* ½ teaspoon dried oregano OR Italian herbs
-* OPTION: add chicken broth as well?
-* ½ cup white OR red wine
-* 2 cups fresh mushrooms, quartered
-* salt and pepper to taste
-
-1. Combine the flour, salt and pepper in a plastic bag. Shake the chicken pieces in flour until coated. 
-2. Heat the oil in a large skillet (one that has a cover/lid). Fry the chicken pieces until they are browned on both sides. Remove from skillet.
-3. Add the onion, garlic and bell pepper to the skillet and saute until the onion is slightly browned. 
-4. Return the chicken to the skillet and add the tomatoes, oregano and wine. Cover and simmer for 30 minutes over medium low heat.
-5. Add the mushrooms and salt and pepper to taste. Simmer for 10 more minutes.
 
 
 ## Chicken in Oyster Sauce Stir-fry

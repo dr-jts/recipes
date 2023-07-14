@@ -99,6 +99,30 @@ OPTION FOR SAUCE
 2. Dip chicken pieces into mixture of sauce ingredients
 3. Bake at 350 for 1 hour
 
+## Easy Chicken Tetrazinni
+
+* olive oil
+* 2 chicken breasts or 4 thighs or ? fillets (boneless)
+* 1 med onion, chopped
+* minced garlic
+* sliced mushrooms
+* 1 10 oz tin Cream of Mushroom soup
+* 1/2 c milk
+* sherry to taste
+* 1 t chopped parsley (or basil?)
+* pepper or chile flakes
+* 1/2 lb spaghetti or linguine
+* 1/4 c grated Parmesan cheese
+
+1. ?? Dredge chicken in flour, salt and pepper
+1. Saute chicken in olive oil until brown
+2. Saute onion, garlic, mushrooms with chicken
+3. Add chicken, soup, milk, sherry and herbs.  Simmer covered for 15 mins
+4. Cook pasta and drain
+5. In a baking dish combine pasta and chicken sauce
+6. Sprinkle parmesan on top
+7. Bake at 400 F for 15 mins
+
 ## Chicken in Oyster Sauce Stir-fry
 
 * 1 pound boneless, skinless chicken breasts or thighs, chopped into bite-sized pieces

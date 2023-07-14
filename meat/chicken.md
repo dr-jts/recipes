@@ -67,7 +67,7 @@ OPTION FOR SAUCE
 5. FOR STOVE TOP: Mix all of the ingredients together; cover with lid, reduce heat to low and allow to simmer (while stirring occasionally) for 40 minutes or until the meat is falling off the bone. 
 6. FOR OVEN: Transfer the covered skillet to a preheated oven at 375°F (190°C) and cook for 50 minutes. Remove the lid and cook for an additional 20 minutes until the chicken is tender and falling off the bone, and the sauce has reduced.
 
-## Mongolian Chicken
+## Mongolian Marinated Chicken
 
 * 2-3 chicken breasts or thighs
 * soy sauce

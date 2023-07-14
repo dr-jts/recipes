@@ -88,6 +88,16 @@ OPTION FOR SAUCE
 5. Simmer for 15-30 mins until chicken is done
 6. Serve over rice or noodles
 
+## Sylvia's Chicken Pieces
+
+* 1/2 c soy sauce
+* 1/2 c oil
+* 1/2 t ginger
+* 1/2 t garlic powder
+
+1. Line baking dish with foil.
+2. Dip chicken pieces into mixture of sauce ingredients
+3. Bake at 350 for 1 hour
 
 ## Chicken in Oyster Sauce Stir-fry
 

@@ -123,7 +123,7 @@ OPTION FOR SAUCE
 6. Sprinkle parmesan on top
 7. Bake at 400 F for 15 mins
 
-## Oyako Donburi (Mother-and-Child Bowl)
+## Oyakodon (Mother-and-Child Bowl)
 
 * oil
 * onions, chopped large

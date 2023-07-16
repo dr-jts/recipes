@@ -130,7 +130,7 @@ OPTION FOR SAUCE
 * tamari sauce
 * sake or sherry
 * 1 T sugar
-* chicken chunks (from fillets)
+* chicken chunks (from fillets or thighs)
 * 2 eggs, beaten
 
 1. Saute onions in oil briefly

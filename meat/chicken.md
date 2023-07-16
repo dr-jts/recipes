@@ -123,6 +123,26 @@ OPTION FOR SAUCE
 6. Sprinkle parmesan on top
 7. Bake at 400 F for 15 mins
 
+## Oyako Donburi (Mother-and-Child Bowl)
+
+* oil
+* onions, chopped large
+* tamari sauce
+* sake or sherry
+* 1 T sugar
+* chicken chunks (from fillets)
+* 2 eggs, beaten
+
+1. Saute onions in oil briefly
+2. Add tamari sauce, sake, and sugar
+3. Saute/poach chicken in sauce
+4. Add eggs and cook until barely congealed
+5. Serve over Japanese rice
+
+OPTIONS:
+* add sliced mushrooms with onion
+* garnish with chopped green onion
+
 ## Chicken in Oyster Sauce Stir-fry
 
 * 1 pound boneless, skinless chicken breasts or thighs, chopped into bite-sized pieces

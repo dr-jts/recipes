@@ -95,7 +95,7 @@ OPTION FOR SAUCE
 * ⅓ cup vegetable oil or any neutral oil
 * 2 teaspoon garlic minced
 * 1 red chili pepper sliced or chili flakes (optional)
-* chopped carrots, peppers, broccoli, snap peas (optional)
+* chopped carrots, peppers, broccoli, snap peas, onion (optional)
 * 5 slices ginger
 * 4 tablespoon hoisin sauce
 * 2 tablespoon regular soy sauce
@@ -110,14 +110,19 @@ Garnish (optional):
 * 1 stalk green onion finely chopped
 
 1. In a small bowl, mix 1 tablespoon cornstarch and ½ cup water until well combined. This is your cornstarch slurry. Set aside.
+1. MIx hoisin sauce, soy sauce, brown sugar, sesame oil, then add cornstarch slurry. 
 1. Slice chicken thighs into 1.5-inch pieces, about 4-6 pieces per thigh.
-1. In a large mixing bowl, add sliced chicken thighs, followed by ¼ cup cornstarch. Give it a few mixes until each piece is coated in cornstarch. Set aside.
-1. Add hoisin sauce, soy sauce, brown sugar, sesame oil and mix well before adding cornstarch slurry. (You may need to give the cornstarch water another stir before adding to the hot pan). Mix sauce ingredients until combined.
+1. In a large mixing bowl, add sliced chicken thighs, followed by ¼ cup cornstarch. Give it a few mixes until each piece is coated in cornstarch. 
 1. In a large skillet or wok on medium high heat, heat vegetable oil. Lower chicken in batches, Fry until crispy golden brown on both sides, about 6-8 minutes. Remove chicken from pan and transfer to a plate lined with paper towels to absorb excess oil. 
-1. In the same pan or wok set over medium heat, add ginger, garlic, and red chili and vegetables if used. Fry for 10 seconds.
- Simmer to thicken.
-1. Add crispy chicken back into the pan and toss with sauce. Remove off heat. Transfer to serving dish.
-1. Optional: Garnish with red chili and green onions if desired. 
+1. In the same pan or wok set over medium heat, add ginger, garlic, and red chili (?? and vegetables if used). Fry for 10 seconds.
+1. Add sauce and simmer to thicken.
+1. Add crispy chicken back into the pan and toss with sauce. Remove from heat. Transfer to serving dish.
+1. Optional: Garnish with red chili and green onions if desired.
+
+### Try:
+* Fry veggies before chicken
+* Use chicken breast; omit cornstarch?
+* Do use a fresh chili
 
 ## Sylvia's Chicken Pieces
 

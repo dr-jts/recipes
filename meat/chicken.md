@@ -122,6 +122,7 @@ Garnish (optional):
 ### Try:
 * Fry veggies before chicken
 * Use chicken breast; omit cornstarch?
+* Add white pepper and sail to cornstarch coating
 * Do use a fresh chili
 
 ## Sylvia's Chicken Pieces

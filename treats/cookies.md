@@ -71,9 +71,9 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 
 ## Elevator Lady Spice Cookies
 * ¾ c    margarine    		
+* 1 c    white sugar    		
 * ¼ c    molasses    		
 * 1    egg    			
-* 1 c    white sugar    		
 * 2 c    flour
 * 2 t    baking soda
 * ¼ t    salt

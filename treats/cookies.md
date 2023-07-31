@@ -63,7 +63,8 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 * 1 c    raisins
 * ½ c    sunflower seeds
 
-1. Mix softened margarine, sugar, egg, and vanilla
+1. Mix softened margarine and sugar in large bowl
+2. Mix in egg and vanilla
 1. Mix in dry ingredients
 1. Form into balls and place on cookie sheet
 1. Bake at 375 F for 10-12 min

@@ -221,3 +221,34 @@ OPTIONS:
 1. Return the chicken to the wok.
 1. Make a well in the middle and add the sauce, giving it a quick stir before combining it with the chicken and vegetables.
 1. Stir-fry for an additional 1 to 2 minutes, or until the sauce thickens and coats all of the ingredients. Serve and enjoy!
+
+## Spiced Chicken Stew with Apricots
+
+* 2 T butter
+* 1 T oil
+* 2 lb chicken pieces
+* 1 large onion, chopped
+* 2 cloves garlic, crushed
+* 1 1/2 t curry powder
+* 1/2 t coriander
+* 1/2 t chili powder
+* 1 3/4 c chicken stock
+* 1/2 chunky peanut butter
+* 1/2 c dried apricots, chopped
+* 1/3 c dark raisins
+* 1 T brown sugar
+* 1 T lemon juice
+* salt to taste
+* 1/3 roasted peanuts
+
+1. In large saucepan, heat oil and brown chicken (4-5 minutes). Remove from pan.
+2. Drain all but 2 T of fat.  Add onion and garlic and saute over medium heat until soft (3 mins)
+3. Stir in curry, coriander, chili powder and saute for 30 s
+4. Add stock and peanut butter, stirring and scraping bottom of the pan
+5. Bring to boil and add apricots, raisins, brown sugar and lemon juice.
+6. Return chicken to the pan.
+7. Simmer on low heat for 40 mins or until chicken is tender.
+8. Season with salt to taste.
+9. Serve over rice
+ 
+10. 

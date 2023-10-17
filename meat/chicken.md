@@ -235,11 +235,11 @@ OPTIONS:
 * 1 3/4 c chicken stock
 * 1/2 chunky peanut butter
 * 1/2 c dried apricots, chopped
-* 1/3 c dark raisins
+* 1/3 c dark raisins (optional)
 * 1 T brown sugar
 * 1 T lemon juice
 * salt to taste
-* 1/3 roasted peanuts
+* 1/3 c roasted peanuts (optional)
 
 1. In large saucepan, heat oil and brown chicken (4-5 minutes). Remove from pan.
 2. Drain all but 2 T of fat.  Add onion and garlic and saute over medium heat until soft (3 mins)

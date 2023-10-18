@@ -8,6 +8,26 @@ parent: Meats
 1. TOC
 {:toc}
 
+## Scalloped Potatoes and Ham
+
+* 1 can Cream of Celery soup
+* 1/2 c milk
+* pepper to taste
+* 3 c potatoes, thinly sliced
+* 1 1/2 c cooked ham, diced
+* 1/2 c onion, thinly sliced
+* 1/2 c cheddar cheese, grated
+* paprika
+
+1. Combine soup, milk, and pepper in a bowl
+2. In a casserole arrange alternate layers of potatoes, meat, onion, and sauce
+3. Cover and bake at 375 for 1 h
+4. Uncover; sprinkle with cheese and paprika
+5. Bake 15 mins more or until potatoes are tender and cheese is melted
+
+
+
+
 ## Pork Chops with Maple-Dijon glaze
 
 * 4 boneless thick-cut pork chops

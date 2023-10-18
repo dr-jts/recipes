@@ -250,5 +250,22 @@ OPTIONS:
 7. Simmer on low heat for 40 mins or until chicken is tender.
 8. Season with salt to taste.
 9. Serve over rice
- 
-10. 
+
+## Pan-roasted Chicken and Vegetables
+
+* Chicken thighs, cut in chunks
+* Cauliflower
+* Yam
+* Onion
+* Red Pepper (opt)
+* Green Beans (opt)
+* Grape tomatoes
+
+1. Cut chicken in chunks
+2. Marinate chicken (say in Italian dressing)
+1. Cut vegetables (except tomatoes) in similar-sized chunks
+2. Add vegetables to marinated chicken for a while
+3. Add more marinade (say balsamic reduction, olive oil)
+4. Add some Italian herbs, salt, pepper
+5. Roast in one or more roasting pans at 425 for 20-25 mins
+6. Add tomates with 15 mins of roasting time left

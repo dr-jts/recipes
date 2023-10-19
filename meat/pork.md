@@ -24,6 +24,7 @@ parent: Meats
 3. Cover and bake at 375 for 1 h
 4. Uncover; sprinkle with cheese and paprika
 5. Bake 15 mins more or until potatoes are tender and cheese is melted
+6. Let rest for 5-10 minutes
 
 
 

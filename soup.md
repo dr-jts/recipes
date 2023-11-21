@@ -36,3 +36,35 @@ soup thickens, stirring as required.
 1. Stir the soup while you add in the sour cream slowly and allow for it to mix.
 1. Sprinkle with parsley to finish and serve warm with grilled bread rubbed with a clove of cut
 garlic!
+
+## Red Fish Blue Fish Seafood Chowder
+
+* 1 can (341 ml/12 oz) corn kernels (save liquid)
+* 30 ml (2 tbsp) canola/olive oil blend
+* 375 ml (1 1/2 cups) finely chopped onions
+* 375 ml (1 1/2 cups) diced carrots
+* 375 ml (1 1/2 cups) diced celery
+* 375 ml (1 1/2 cups) diced parboiled potatoes
+* 50 ml (1/4 cup) crushed garlic
+* 10 ml (2 tsp) toasted ground coriander
+* 5 ml (1 tsp) toasted ground cumin
+* 5 ml (1 tsp) sea salt
+* 5 ml (1 tsp) pepper
+* 1 can (398 ml/14 oz) crushed tomatoes
+* 3 cans (each 400 ml/14 oz) coconut milk
+* 125 ml (1/2 cup) sweet chili sauce
+* 25-50 ml (1/8 - 1/4 cup) chipotle chilies in adobo sauce, chopped
+* 15 ml (1 tbsp) hot sauce
+* 30 ml (2 tbsp) Worcestershire sauce
+* Leaves from 1 bunch fresh cilantro, minced
+* Sustainably harvested white fish or seafood (such as cod, halibut, shrimp, scallops, lobster), cut
+into bite-size pieces
+* 1 can baby clams (save juice)
+* Cilantro leaves and sliced green onions, for garnish
+
+1. Drain corn, reserving liquid.
+2. In a large pot over medium-high, heat oil. Add corn, onions, carrots, celery, potatoes, garlic, coriander, cumin, salt, and pepper. Saute until vegetables are soft.
+1. Add reserved corn and clam liquid, tomatoes, coconut milk, chili sauce, chipotles, hot sauce, Worcestershire sauce, and minced cilantro.
+1. Simmer for 10 minutes.
+2. Stir in fish; simmer for another 5 minutes
+

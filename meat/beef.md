@@ -1,5 +1,5 @@
 ---
-parent: Meats
+parent: Meat
 ---
 
 # Beef

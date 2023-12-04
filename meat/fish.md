@@ -25,7 +25,7 @@ parent: Meat
 3. Flip and pour glaze over
 4. Sear for 5 mins, basting with glaze from pan
 
-## Salmon Steaks with Hoison Glaze
+## Salmon Steaks with Hoisin Glaze
 
 * salmon steaks
 * salt and pepper

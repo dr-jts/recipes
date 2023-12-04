@@ -8,7 +8,7 @@ parent: Meat
 1. TOC
 {:toc}
 
-## Sheperd's Pie
+## Shepherd's Pie
 
 **MEAT FILLING**
 * 2 tablespoons olive oil

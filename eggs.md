@@ -21,4 +21,23 @@
 4. Pour in a greased 1-quart baking dish
 5. Bake at 350 for 20-30 mins (until knife comes out clean)
 
+## Leek Quiche
+
+* 300 g leeks
+* olive oil
+* 3 slices of bacon, diced
+* 75 g Cheddar, Swiss, or Gruyere cheese
+* 3 large eggs
+* 1 c milk
+* 1  9 in precooked pie shell
+
+1. Use only white and pale green part of leeks.  Cut lengthwise then chop in small slices
+1. Saute leeks in olive oil until soft
+2. Fry bacon bits (reuse leek pan?)
+3. Whisk eggs, then mix into leeks, bacon, cheese, salt and pepper, and other seasoning if desired
+5. Pour eggs mixture into cooked pie shell
+6. (Alternatively, layer leeks and bacon, cheese in pie shell, then pour eggs over top)
+7. Bake at 350 F for 30 mins until golden on top
+  
+
 

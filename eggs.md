@@ -23,15 +23,15 @@
 
 ## Leek Quiche
 
-* 300 g leeks
+* 3 large (1 3/4 c / 300 g) leeks, white and light green part only
 * olive oil
 * 3 slices of bacon, diced
-* 75 g Cheddar, Swiss, or Gruyere cheese
+* 3/4 c (75 g) grated Cheddar, Swiss, or Gruyere cheese
 * 3 large eggs
 * 1 c milk
 * 1  9 in precooked pie shell
 
-1. Use only white and pale green part of leeks.  Cut lengthwise then chop in small slices
+1. Use only white and pale green part of leeks.  Cut leeks lengthwise then chop in small slices
 1. Saute leeks in olive oil until soft
 2. Fry bacon bits (reuse leek pan?)
 3. Whisk eggs, then mix into leeks, bacon, cheese, salt and pepper, and other seasoning if desired

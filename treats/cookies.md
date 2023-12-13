@@ -204,4 +204,16 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 1. To make flatter snickerdoodles, press down in the center of the ball before placing in the oven. This helps to keep them from puffing up in the middle. 
 1. Place on a parchment paper-lined baking sheet. 
 1. Bake for 9 - 11 minutes.  (perhaps 13 mins)
-1. Let cool for several minutes on baking sheet before removing from the pan. 
+1. Let cool for several minutes on baking sheet before removing from the pan.
+
+## No-Bake Maple Peanut Chocolate Balls 
+
+* 1 1/2 cups old fashioned rolled oats
+* 1/2 cup peanut butter
+* 1/3 cup pure maple syrup
+* 1/3 cup semi-sweet chocolate chips
+
+1. Add all of the ingredients to a large bowl. Mix together until well incorporated.
+2. Cover and chill in a refrigerator for at least 30 minutes.
+1. Grab a heaping tablespoonful of the mixture and press it into a ball with your palms. Repeat with the remaining oat mixture, making about 16 energy bites.
+1. Store in a sealed container in the refrigerator.

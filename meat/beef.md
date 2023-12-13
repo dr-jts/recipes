@@ -75,6 +75,7 @@ parent: Meat
 1. Add the garlic, chili powder, cumin, salt, black pepper, and cayenne pepper. Cook 1 minute, stirring often.
 1. Add the beans, tomatoes, tomato sauce, bourbon, and maple syrup. (If you like thinner chili, add up to 1 cup of water at this point.) Stir well. Bring to a boil. Then, reduce the heat to low or medium-low. Simmer for 30 minutes, stirring occasionally.
 1. Let the chili rest for 5 minutes before serving.
+2. Garnish ideas: grated cheese, green onion, sour cream, tortilla chips
 
 
 

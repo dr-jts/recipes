@@ -269,3 +269,28 @@ OPTIONS:
 4. Add some Italian herbs, salt, pepper
 5. Roast in one or more roasting pans at 425 for 20-25 mins
 6. Add tomates with 15 mins of roasting time left
+ 
+## Maple Turkey Chili
+* 2 tablespoons olive oil
+* 1 onion, diced
+* 1 red bell pepper, diced
+* 4 garlic cloves, minced
+* ½ teaspoon salt
+* ½ teaspoon pepper
+* 1 pound lean ground turkey
+* 2 tablespoons chili powder
+* 2 teaspoons smoked paprika
+* 1 teaspoon dried oregano
+* 1 teaspoon cumin
+* ¼ teaspoon crushed red pepper flakes
+* 1 (14 ounce) can fire roasted tomatoes
+* 1 (15-ounce) can pinto beans, drained and rinsed
+* 1/2 to 3/4 cups chicken stock (or water)
+* 1/4 cup pure maple syrup
+
+1. Heat the olive oil in a large pot over medium-low heat. Add the onions, peppers and garlic with a pinch of salt and pepper. Saute until softened, about 5 minutes.
+1. Add in the ground turkey and another pinch of salt and pepper. Break it apart with a wooden spoon and brown it, about 6 to 8 minutes.
+1. Add chili powder, paprika, oregano, cumin and red pepper flakes. Stir and cook for 2 minutes.
+1. Add tomatoes, beans, stock and maple syrup. Bring the mixture to a boil then reduce it to a simmer.
+2. Cover and simmer for 20 to 30 minutes.
+3. Serve with tortilla chips, avocado, sour cream or whatever you love on your chili!

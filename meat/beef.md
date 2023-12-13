@@ -54,7 +54,27 @@ parent: Meat
 2. Bake at 400 F for 30 mins.
 3. Can finish by broiling to crisp the top
 
+## Maple-Bourbon Chili
 
+* 1 lb. extra-lean ground beef
+* 1 medium yellow onion chopped
+* 2 garlic cloves minced
+* 1 tbsp. chili powder
+* 1 tsp. ground cumin
+* 1/2 tsp. cayenne pepper
+* 1 tsp. salt
+* 1/2 tsp. ground black pepper
+* 1 (15 oz.) can red kidney beans, drained and rinsed
+* 1 (14.5 oz.) can diced tomatoes
+* 1 (8 oz.) can tomato sauce (or Heinz chili sauce?)
+* 1/4 cup bourbon
+* 1/4 cup maple syrup
+* Optional: Up to 1 cup of water I use ½ cup
+
+1. Add the beef to a large soup pot and place over medium-high heat. Break the beef apart with a wooden spoon. Add the onion. Cook 6-8 minutes, stirring occasionally. Beef should be cooked through. Drain off any excess fat, if necessary.
+1. Add the garlic, chili powder, cumin, salt, black pepper, and cayenne pepper. Cook 1 minute, stirring often.
+1. Add the beans, tomatoes, tomato sauce, bourbon, and maple syrup. (If you like thinner chili, add up to 1 cup of water at this point.) Stir well. Bring to a boil. Then, reduce the heat to low or medium-low. Simmer for 30 minutes, stirring occasionally.
+1. Let the chili rest for 5 minutes before serving.
 
 
 

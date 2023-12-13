@@ -17,3 +17,8 @@ parent: Vegetables
 1. Saute mushrooms, onion and barley in melted butter.  
 1. Mix with remaining ingredients in a casserole dish.  
 1. Cover and bake for 1 ½ h at 350 F
+
+**OPTIONS**
+
+* Add chopped celery - saute with mushrooms
+* Add diced bacon - fry and add 45 min into cooking

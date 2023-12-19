@@ -27,8 +27,6 @@ parent: Meat
 6. Let rest for 5-10 minutes
 
 
-
-
 ## Pork Chops with Maple-Dijon glaze
 
 * 4 boneless thick-cut pork chops
@@ -46,3 +44,22 @@ parent: Meat
 4. Drizzle skillet with the remaining 1 tablespoon of olive oil. Season pork chops lightly with salt and pepper. Sear each side, 3 to 4 minutes, until golden brown. 
 5. Brush pork chops with maple Dijon glaze and flip often, every minute or two, to avoid burning. 
 6. Cook until internal temperature has reached 145 degrees F. Remove from skillet and let rest for 5 minutes before cutting.
+
+## Pork Tenderloin with Sweet Berry Horseradish Glaze
+
+**Sauce**
+* 1/2 c berry syrup (blueberry, raspberry, Saskatoon berry)
+* 1 tsp horseradish
+* 1 clove garlic, minced
+* 1 t Dijon mustard
+* 1 t chili powder
+* 1 T olive oil
+  
+* 2 1-pound pork tenderloins
+* berries to finish
+
+1. Combine sauce ingredients Pour half over pork in a bowl and marinate for at least 1 hr (longer is better)
+2. Sear pork on a BBQ or stovetop.  Then BBQ or bake on low heat for about 40 mins, until just cooked through.  Baste every 10 mins to glaze
+4. Let pork rest for 5 mins.
+1. Bring reserved sauce to boil in a pan.
+1. Slice pork and drizzle sauce over it.

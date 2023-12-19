@@ -59,8 +59,8 @@ parent: Meat
 * 2 1-pound pork tenderloins
 * berries to finish
 
-1. Combine sauce ingredients Pour half over pork in a bowl and marinate for at least 1 hr (longer is better)
-2. Sear pork on a BBQ or stovetop.  Then BBQ or bake on low heat for about 40 mins, until just cooked through.  Baste every 10 mins to glaze
+1. Combine sauce ingredients. Pour half over pork in a bowl and marinate for at least 1 hr (longer is better)
+2. Sear pork on a BBQ or stovetop.  Then BBQ or bake on medium heat for about 40 mins, until just cooked through.  Baste every 10 mins to glaze
 4. Let pork rest for 5 mins.
 1. Bring reserved sauce to boil in a pan.
 1. Slice pork and drizzle sauce over it.

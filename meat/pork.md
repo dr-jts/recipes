@@ -48,13 +48,14 @@ parent: Meat
 ## Pork Tenderloin with Berry-Horseradish Glaze
 
 **Sauce**
+
 * 1/2 c berry syrup (blueberry, raspberry, Saskatoon berry)
 * 1 tsp horseradish
 * 1 clove garlic, minced
 * 1 t Dijon mustard
 * 1 t chili powder
 * 1 T olive oil
-  
+
 * 2 1-pound pork tenderloins
 * berries to finish
 

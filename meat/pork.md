@@ -45,7 +45,7 @@ parent: Meat
 5. Brush pork chops with maple Dijon glaze and flip often, every minute or two, to avoid burning. 
 6. Cook until internal temperature has reached 145 degrees F. Remove from skillet and let rest for 5 minutes before cutting.
 
-## Pork Tenderloin with Sweet Berry Horseradish Glaze
+## Pork Tenderloin with Berry-Horseradish Glaze
 
 **Sauce**
 * 1/2 c berry syrup (blueberry, raspberry, Saskatoon berry)

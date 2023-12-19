@@ -76,33 +76,10 @@ Makes: six servings
 1. Cut potatoes into quarters or halves and place in a pot. Cover with cold water and sprinkle in the 1/2 tsp salt. Boil the potatoes until just tender, about 8 to 10 minutes, and then drain well and place in a bowl.
 1. Toss the potatoes with pesto, a bit more salt, pepper and half the cheese, and then spoon into a serving dish. Top with the remaining cheese and dig in.
 
-### Nugget Potato Salad with Chive and Bacon Ranch Dressing
-
-This recipe, which I first published back in 2007, is still one of my favourite ways to prepare nugget potatoes when the weather’s warm. That’s because it makes a nice side dish for just about anything cooked outside on the barbecue, such as burgers, chicken and salmon.
-
-Preparation time: 20 minutes
-Cooking time: about 10 minutes
-Makes: six servings
-
-* 2 lb. nugget potatoes, rinsed
-* 1/2 tsp salt, plus some to taste
-* 1/3 cup mayonnaise
-* 1/3 cup buttermilk
-* 1/2 tsp sugar
-* 1 Tbsp white wine vinegar
-* 4 slices bacon, diced, cooked crispy and drained well
-* 1 Tbsp snipped fresh chives
-* freshly ground black pepper to taste
-* 2 ribs of celery, halved lengthwise and thinly sliced
-* 1 medium carrot, coarsely grated
-
-Cut potatoes into quarters or halves and place in a pot. Cover with cold water and sprinkle in the 1/2 tsp salt. Boil the potatoes until just tender, about 8 to 10 minutes, and then drain well, spread out on a baking sheet and cool to room temperature.
-
-Place the mayonnaise, buttermilk, sugar and vinegar in a salad bowl and whisk to combine. Stir in the bacon and chives; season with salt and pepper to taste. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine. Cover the salad and chill well in the refrigerator before serving.
-
 ### Roast Potatoes
 
-1. Parboil potatoes until almost done
+1. Peel potatoes
+2. Parboil potatoes until almost done
 1. Rough them up a bit
 1. In a baking pan add olive oil, butter
 1. Can add herbs, garlic cloves (leave skin on)

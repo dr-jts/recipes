@@ -172,3 +172,28 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 1. Cook the quinoa according to the instructions on the packet (or buy a 250g pouch of ready-to-eat grains).
 1. Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl.
 1. Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.
+
+
+## Nugget Potato Salad with Chive and Bacon Ranch Dressing
+
+Preparation time: 20 minutes
+Cooking time: about 10 minutes
+Makes: six servings
+
+* 2 lb. nugget potatoes, rinsed
+* 1/2 tsp salt, plus some to taste
+* 1/3 cup mayonnaise
+* 1/3 cup buttermilk
+* 1/2 tsp sugar
+* 1 Tbsp white wine vinegar
+* 4 slices bacon, diced, cooked crispy and drained well
+* 1 Tbsp snipped fresh chives
+* freshly ground black pepper to taste
+* 2 ribs of celery, halved lengthwise and thinly sliced
+* 1 medium carrot, coarsely grated
+
+1. Cut potatoes into quarters or halves and place in a pot. Cover with cold water and sprinkle in the 1/2 tsp salt. Boil the potatoes until just tender, about 8 to 10 minutes, and then drain well, spread out on a baking sheet and cool to room temperature.
+1. Place the mayonnaise, buttermilk, sugar and vinegar in a salad bowl and whisk to combine.
+2. Stir in the bacon and chives; season with salt and pepper to taste.
+3. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine.
+4. Cover the salad and chill well in the refrigerator before serving.

@@ -31,7 +31,7 @@ parent: Salads
 * pecans
 * thinly-sliced red onions
 
-OPTIONS
+**OPTIONS**
 * tomatoe chunks
 * gorgonzola or blue cheese
 * avocado slices
@@ -53,7 +53,7 @@ OPTIONS
 1. Combine red wine vinegar, olive oil, one tablespoon sugar, red pepper flakes and black pepper in a jar with a tight fitting lid. Shake vigorously until sugar is dissolved.
 1. Before serving, toss lettuce with salad dressing until coated. Transfer to a decorative serving bowl, and sprinkle with sugared almonds.
  
-### Options
+**Options**
 * Add Dijon mustard and/or mayo to dressing to thicken
 * Use snow peas instead of/as well as green onion
 * Add diced cucumber

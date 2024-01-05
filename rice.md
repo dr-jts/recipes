@@ -21,7 +21,7 @@
 3. Add onion, celery, and mushrooms and saute until cooked
 4. Add to wild rice/stock mixture in a large casserole dish
 5. Add rice and remaining 1 c liquid
-6. Bake at 40 F for 1/2 h; let stand in oven for 10 min
+6. Bake at 400 F for 1/2 h; let stand in oven for 10 min
 
 ## Mushroom-Barley Casserole
 
@@ -35,7 +35,7 @@
 
 1. Saute mushrooms, onion and barley in melted butter
 2. Mix with remaining ingredients in a casserole dish
-3. Bake covered for 1 1/2 h at 350 F
+3. Cover and bake at 350 F for 1.5 h
 
 **Option**
 * Add diced bacon chunks. Fry and add 45 mins before ready

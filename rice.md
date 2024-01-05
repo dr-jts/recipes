@@ -22,4 +22,4 @@
 * Add diced bacon chunks. Fry and add 45 mins before ready
 * Add chopped celery.  Saute along with onion
 
-* 
+

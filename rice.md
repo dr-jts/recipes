@@ -1,4 +1,4 @@
-# Appetizers
+# Rice
 {: .no_toc }
 
 1. TOC

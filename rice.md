@@ -23,6 +23,18 @@
 5. Add rice and remaining 1 c liquid
 6. Bake at 400 F for 1/2 h; let stand in oven for 10 min
 
+## Rice Pilaf
+
+* 1 1/3 t butter
+* 2 chicken boullion cubes
+* 2 1/2 c boiling water
+* 1 c rice
+* 1 green onion, sliced
+
+1. Dissolve butter and boullion in water
+2. Stir in rice and onion
+3. Cover and bake at 350 F for 1/2 - 3/4 h, until liquid is absorbed
+
 ## Mushroom-Barley Casserole
 
 * 1/2 lb mushrooms, sliced

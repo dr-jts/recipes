@@ -9,18 +9,20 @@ parent: Treats
 {:toc}
 
 ## Oatmegs
-* ¾ c    margarine    		
-* 2 T    syrup (corn or maple)
-* 1 c    flour    			
-* 1 t    baking soda or powder
-* 1 c    white sugar    		
-* ½ t    nutmeg
-* 1 c    shredded coconut   	 
+* ¾ c margarine
+* 1 c white sugar  		
+* 2 T syrup (corn or maple)
+* 1 c flour    			
+* 1 t baking soda or powder 		
+* ½ t nutmeg
+* 1 c shredded coconut
+* 1 c quick oats
 
-1. Mix margarine and sugar
+1. Blend margarine and sugar
 1. Mix in syrup
-1. Mix in rest of ingredients
-1. Form in flattened balls on cookie sheet
+1. Blend in flour, baking powder, nutmeg
+1. Blend in coconut and oats
+1. Form into flattened 1" balls on cookie sheet
 1. Bake at 350 F for 12-14 min
 
 ## Almegs

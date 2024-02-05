@@ -77,5 +77,20 @@ parent: Meat
 1. Let the chili rest for 5 minutes before serving.
 2. Garnish ideas: grated cheese, green onion, sour cream, tortilla chips
 
+## Beef-Rice Special
+
+* 1 lb ground beef
+* 1 pkg onion soup mix
+* 1 1/2 c boiling water
+* 3/4 c uncooked rice
+* 1 16 oz tin diced tomatoes
+* 4 oz shredded cheddar cheese
+
+1. Brown beef in a large saucepan
+2. Stir in water, onion soup, rice, and tomatoes
+3. Cover and cook on low heat for 25 min
+4. Sprinkle cheese on top and cook until cheese is melted
+
+**OPTION:** saute sliced onions before browning beef
 
 

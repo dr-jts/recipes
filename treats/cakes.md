@@ -19,7 +19,9 @@ parent: Treats
   
 GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and a touch of cinnamon, or fresh raspberries. Serve with whipped cream.
 
-1. Wash the oranges and boil them in water to cover, without peeling, until very soft, about 30 minutes (MD - 60 mins ???). Drain, cool, cut into quarters, and remove the seeds, if any. Process the oranges to a fairly fine purée in a blender or food processor or by putting them through a meat grinder. Don’t make it too fine. The little bits of skin, which will not be at all bitter after the long boiling, are pleasant to bite on.
+1. Wash the oranges and boil them in water to cover, without peeling, until very soft, about 30 minutes (MD - 60 mins ???).
+2. Drain, cool, cut into quarters, and remove the seeds, if any.
+3. Process the oranges to a fairly fine purée in a blender or food processor or by putting them through a meat grinder. Don’t make it too fine. The little bits of skin, which will not be at all bitter after the long boiling, are pleasant to bite on.
 1. Beat the eggs in a bowl until thick
 2. Add the ground almonds, salt, sugar, baking powder, and orange purée, and mix well.
 3. Line a deep 9-inch round cake pan with parchment paper. Butter and flour the parchment paper.

@@ -30,9 +30,6 @@ GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and 
 1. Remove the pan to a rack, allow the cake to cool, then turn it out of the pan onto a serving dish. 
 1. Serve garnished with orange slices or berries, and whipped cream.
 
-OPTIONS
-Some recommend separating the eggs and beating yolk and white separately
-
 ## Nectarine Upside-Down Cake
 
 * 3/4 cup plain Greek yogurt

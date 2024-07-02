@@ -197,3 +197,21 @@ Makes: six servings
 2. Stir in the bacon and chives; season with salt and pepper to taste.
 3. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine.
 4. Cover the salad and chill well in the refrigerator before serving.
+
+## Apple/Bacon/Blue Cheese Salad
+
+**Dijon Vinaigrette**
+* 2 tablespoons olive oil
+* 2 tablespoons balsamic vinegar
+* 1 tablespoon Dijon mustard
+* 1 tablespoon finely chopped shallot
+* 2 teaspoons honey
+* 2 teaspoons fresh lemon juice
+* Pinch salt and pepper, to taste
+
+**Apple, Bacon and Blue Cheese Salad**
+* 6 cups greens (leafy or romaine lettuce, baby spinach or mixed greens)
+* 1 large tart red apple, halved, cored and thinly sliced (pink lady or honey crisp)
+* 2 ounces blue cheese or Gorgonzola, crumbled; or aged white cheddar, grated
+* 1/2 cup toasted walnuts (candied?)
+* 4 slices crispy cooked thick cut bacon, chopped

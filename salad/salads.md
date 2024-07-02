@@ -198,7 +198,7 @@ Makes: six servings
 3. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine.
 4. Cover the salad and chill well in the refrigerator before serving.
 
-## Apple/Bacon/Blue Cheese Salad
+## Apple, Bacon and Blue Cheese Salad
 
 **Dijon Vinaigrette**
 * 2 tablespoons olive oil

@@ -38,3 +38,22 @@ parent: Meat
 3. Place steaks on rimmed baking sheet.  Brush generously with glaze.
 4. Broil steaks 4 in from heat. Baste once.  Until opaque in centre, about 10-13 mins
 
+## Baked Trout Croquettes
+
+* 2 cups leftover cooked steelhead trout
+* 1 cup soft bread crumbs
+* ½ sweet onion, minced
+* ½ cup mayonnaise
+* ½ cup sour cream
+* ½ lemon, juiced
+* ½ teaspoon Worcestershire sauce
+* ½ teaspoon seasoned salt, or more to taste
+* ½ teaspoon garlic powder
+* ground black pepper to taste
+* ½ cup panko bread crumbs, or as needed
+
+1. Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper or aluminum foil.
+1. Discard skin, bones, and any crust from trout and flake fish with a fork.
+2. Combine flaked fish with soft bread crumbs, onion, mayonnaise, sour cream, lemon juice, Worcestershire sauce, salt, garlic powder, and black pepper in a bowl.
+3. Form mixture into balls and roll each ball in the panko. Arrange balls on the prepared baking sheet.
+4. Bake in the preheated oven until croquettes are lightly browned and crispy, 15 to 20 minutes.

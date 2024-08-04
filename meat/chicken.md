@@ -8,6 +8,24 @@ parent: Meat
 1. TOC
 {:toc}
 
+## Chicken Breasts with Sun-dried Tomatoes
+
+* 2 chicken breasts (or fillets)
+* 3 T butter
+* 1 large shallot, minced
+* 3/4 c heavy cream
+* 1/2 c dry white wine
+* 3 T sun-dried tomatoes, diced
+* 4 t dillweed or tarragon
+
+1. Saute diced chicked in butter in a skillet until just cooked
+1. Remove chicken and keep warm
+2. Add shallots to skillet and stir for 5 min
+3. Add cream, wine, tomatoes and herbs
+4. Bring to boil, cooking and stirring until liquid is reduced to a medium thick sauce (about 8 min)
+5. Return chicken to pan and simmer gently until warm
+6. Season to taste and serve over rice or pasta
+
 ## Mom's Chicken Cacciatore
 
 * 1 c all-purpose flour for coating

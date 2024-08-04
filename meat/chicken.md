@@ -8,7 +8,7 @@ parent: Meat
 1. TOC
 {:toc}
 
-## Chicken Breasts with Sun-dried Tomatoes
+## Chicken Breasts with Sun-dried Tomatoes in a Creamy White Wine sauce
 
 * 2 chicken breasts (or fillets)
 * 3 T butter

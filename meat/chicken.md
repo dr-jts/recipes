@@ -137,11 +137,12 @@ Garnish (optional):
 1. Add crispy chicken back into the pan and toss with sauce. Remove from heat. Transfer to serving dish.
 1. Optional: Garnish with red chili and green onions if desired.
 
-### Try:
+**Try Also**
+
 * Fry veggies before chicken
 * Use chicken breast; omit cornstarch?
 * Add white pepper and sail to cornstarch coating
-* Do use a fresh chili
+* Use a fresh chili
 
 ## Sylvia's Chicken Pieces
 

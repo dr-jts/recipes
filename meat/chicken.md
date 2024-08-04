@@ -8,6 +8,30 @@ parent: Meat
 1. TOC
 {:toc}
 
+## Chicken Breasts with Dijon Sauce
+
+* 4 boneless skinless chicken breasts
+* pepper
+* 1 T butter
+* 4 T finely chopped onion
+* 1./4 t thyme
+* 1 T red wine vinegar
+* 1/4 c dry white wine
+* 1/2 chicken broth
+* 2 t tomatoe paste
+* 1/4 c heavy cream
+* 1 T dijon mustard
+* 2 t finely chopped parsley
+
+1. Brown breasts in butter in a skillet (6 min per side).  (Perhaps should pound breasts to flatten, and cut into smaller pieces?  Or use fillets?)
+2. Add onion and thyme to skillet and saute until onion is wilted
+3. Add vinegar, wine and broth and bring to boil.
+4. Stir in tomato paste and cook until reduced by half
+5. Add cream and bring to a boil
+6. Stir in the mustard (and parsley?)
+7. Optional: strain sauce
+8. Spoon over chicken pieces and serve
+
 ## Chicken Breasts with Sun-dried Tomatoes in a Creamy White Wine sauce
 
 * 2 chicken breasts (or fillets)

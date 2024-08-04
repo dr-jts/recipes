@@ -38,7 +38,7 @@ To serve, remove chicken from the pan and transfer to a platter or plates; pour 
 **Notes**
 * 2 T sherry or red or white wine vinegar plus 2 T chicken broth can be substituted for the ¼ cup white wine.
 
-## Chicken Breasts with Dijon Sauce
+## Chicken with Dijon Sauce
 
 * 4 boneless skinless chicken breasts
 * pepper
@@ -62,7 +62,7 @@ To serve, remove chicken from the pan and transfer to a platter or plates; pour 
 7. Optional: strain sauce
 8. Spoon over chicken pieces and serve
 
-## Chicken Breasts with Sun-dried Tomatoes in a Creamy White Wine sauce
+## Chicken with Sun-dried Tomatoes in a Creamy White Wine sauce
 
 * 2 chicken breasts (or fillets)
 * 3 T butter

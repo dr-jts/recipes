@@ -8,6 +8,36 @@ parent: Meat
 1. TOC
 {:toc}
 
+## 30 Minute Dijon Chicken with Mushrooms
+ 
+* 4 boneless skinless chicken breasts, about 6 ounces each
+* Kosher salt
+* Fresh ground black pepper
+* ⅓ cup flour
+* 2 tablespoons butter
+* 2-3 tablespoons vegetable or olive oil
+* ⅓ cup finely chopped onion
+* 1-1/2 cups sliced mushrooms (about ¼ pound)
+* 1-1/2 teaspoons chopped fresh thyme or ½ teaspoon dried
+* ¼ cup white wine (see note)
+* ½ cup chicken broth
+* ⅓ cup whipping cream
+* 2 tablespoons Dijon mustard
+* 2 tablespoons chopped Italian parsley
+
+1. Pound chicken breasts between wax paper or plastic wrap to ½ inch thickness.
+1. Season both sides of chicken with salt and pepper. Put flour in a shallow container; dredge chicken in the flour, shaking off excess.
+1. In a large skillet, heat butter and 2 tablespoons oil over medium high heat until butter starts to sizzle and brown. 1. Add chicken and cook until chicken is browned, about 3 minutes; turn chicken and cook until browned and just cooked through about 3-4 minutes longer; remove chicken and keep warm.
+1. If necessary, add an additional 1 tablespoon of oil to the skillet and adjust heat to medium. Add onion and cook and stir until softened, about 2 minutes
+Add mushrooms and cook and stir until softened about 2 minutes then add thyme and stir.
+Add wine and chicken broth; bring to a simmer, scraping bits off bottom of the pan; simmer a few minutes to reduce the sauce a little.
+Add the cream and mustard and stir.
+Return chicken to the sauce in the pan; simmer over low to heat through, about 1-2 minutes.
+To serve, remove chicken from the pan and transfer to a platter or plates; pour sauce over chicken. Sprinkle with parsley and serve immediately.
+
+**Notes**
+* 2 T sherry or red or white wine vinegar plus 2 T chicken broth can be substituted for the ¼ cup white wine.
+
 ## Chicken Breasts with Dijon Sauce
 
 * 4 boneless skinless chicken breasts

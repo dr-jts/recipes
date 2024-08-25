@@ -64,3 +64,25 @@ parent: Meat
 4. Let pork rest for 5 mins.
 1. Bring reserved sauce to boil in a pan.
 1. Slice pork and drizzle sauce over it.
+
+## Pork Chops with Mushroom sauce
+
+* 4 pork chops
+* salt and ground black pepper to taste
+* 1 pinch garlic salt or garlic powder, or to taste
+* butter
+* ½ pound fresh mushrooms, sliced
+* 1 onion, chopped
+* 1 (10.75 ounce) can condensed cream of mushroom soup
+
+1. Season pork chops with salt, pepper, and garlic salt.
+2. Brown chops in butter or oil over medium-high heat in a skillet (stainless steel with a lid).
+3. Remove chops from skillet and keep warm.
+4. Saute mushrooms and onion for one minute.  Remove from skillet
+5. Return chops to skillet.
+6. Cover chops with sauted onion and mushrooms.  Pour soup over chops.
+7. Cover, reduce the heat to medium-low, and simmer until chops are cooked through, 20 to 30 minutes.
+
+**Options**
+* Add some milk or cream to soup
+* Add thyme and pepper to soup

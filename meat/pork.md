@@ -65,7 +65,7 @@ parent: Meat
 1. Bring reserved sauce to boil in a pan.
 1. Slice pork and drizzle sauce over it.
 
-## Pork Chops with Mushroom sauce
+## Skillet Pork Chops with Mushroom sauce
 
 * 4 pork chops
 * salt and ground black pepper to taste

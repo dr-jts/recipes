@@ -57,15 +57,16 @@ parent: Meat
 ## Maple-Bourbon Chili
 
 * 1 lb. extra-lean ground beef
-* 1 medium yellow onion chopped
+* 1 medium yellow onion, chopped
+* (opt) 1 green pepper, chopped
 * 2 garlic cloves minced
 * 1 tbsp. chili powder
 * 1 tsp. ground cumin
 * 1/2 tsp. cayenne pepper
 * 1 tsp. salt
 * 1/2 tsp. ground black pepper
-* 1 (15 oz.) can red kidney beans, drained and rinsed
-* 1 (14.5 oz.) can diced tomatoes
+* 1 (15 oz/500 ml) can red kidney beans, drained and rinsed
+* 1 (14 oz/500 ml) can diced tomatoes
 * 1 (8 oz.) can tomato sauce (or Heinz chili sauce?)
 * 1/4 cup bourbon
 * 1/4 cup maple syrup

@@ -89,9 +89,37 @@ parent: Meat
 
 1. Brown beef in a large saucepan
 2. Stir in water, onion soup, rice, and tomatoes
-3. Cover and cook on low heat for 25 min
-4. Sprinkle cheese on top and cook until cheese is melted
+1. Cover and cook on low heat for 25 min
+1. Sprinkle cheese on top and cook until cheese is melted
 
 **OPTION:** saute sliced onions before browning beef
+
+## Spicy Orange Bison Balls
+
+* 1 pound ground bison
+* ½ cup plain bread crumbs
+* 2 cloves garlic, minced
+* 1 egg, beaten
+* 1 teaspoon salt
+* ½ teaspoon freshly ground black pepper
+* ½ teaspoon Worcestershire sauce
+* 1 tablespoon vegetable oil
+
+**Sauce** 
+
+* 3 cups water (or sub 1 c orange juice)
+* ½ cup orange marmalade
+* ¼ cup rice wine vinegar OR apple cider vinegar
+* 2 tablespoons Asian chili pepper sauce
+* 1 tablespoon soy sauce
+
+1. Combine bison, bread crumbs, garlic, egg, salt, black pepper, and Worcestershire sauce in a large bowl
+1. divide and form into 24 meatballs.
+1. Heat vegetable oil in a skillet over medium heat.
+1. Add meatballs; cook until nicely browned on all sides, 7 to 10 minutes.
+1. Add water, orange marmalade, rice wine vinegar, chili sauce, and soy sauce to the skillet.
+1. Bring to a simmer, reduce heat to medium-low, and cook until sauce thickens, about 1 hour.
+1. Serve over rice
+
 
 

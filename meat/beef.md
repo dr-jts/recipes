@@ -78,6 +78,35 @@ parent: Meat
 1. Let the chili rest for 5 minutes before serving.
 2. Garnish ideas: grated cheese, green onion, sour cream, tortilla chips
 
+## Chipotle Chili
+
+* 2 tablespoons olive oil, divided
+* 1 pound ground beef
+* 1 pound ground bison
+* 1 green bell pepper, chopped
+* ½ large onion, chopped
+* 2 cloves garlic, minced
+* 3 tablespoons chili powder
+* 2 tablespoons chipotle chile powder
+* 1 tablespoon ground cumin
+* 1 (28 ounce) can crushed tomatoes
+* 1 (15 ounce) can kidney beans, drained (Optional)
+* 1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL®)
+* 1 (8 ounce) can whole kernel corn, drained
+* 1 (8 ounce) can tomato sauce
+* 2 tablespoons Worcestershire sauce
+* 1 teaspoon salt, or more to taste
+* 1 teaspoon white sugar
+* ¼ cup warm water
+* 2 tablespoons masa harina (corn flour)
+
+1. Heat oil in a large saucepan over medium-high heat. Cook and stir beef and bison until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Transfer meat to a bowl.
+1. Heat the remaining olive oil in the same saucepan over medium-high heat. Saute green bell pepper, onion, and garlic until the onion becomes translucent, about 3 minutes.
+2. Stir in the cooked meat. Add chili powder, chipotle powder, and cumin. Stir again.
+3. Add crushed tomatoes, kidney beans, diced tomatoes, corn, tomato sauce, Worcestershire sauce, 1 teaspoon salt, and sugar. Stir well
+4. Reduce heat to low and simmer the chili for at least 25 minutes.
+1. Combine warm water and masa harina in a bowl. Pour into the chili. Continue simmering until thickened, about 10 minutes more. Season with salt.
+
 ## Beef-Rice Special
 
 * 1 lb ground beef

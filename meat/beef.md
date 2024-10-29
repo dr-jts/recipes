@@ -13,7 +13,7 @@ parent: Meat
 **MEAT FILLING**
 * 2 tablespoons olive oil
 * 1 cup chopped yellow onion
-* 1 lb. ground beef AND/OR lamb
+* 1 lb. ground beef OR lamb
 * 2 teaspoons dried parsley leaves
 * 1 teaspoon dried rosemary leaves
 * 1 teaspoon dried thyme leaves
@@ -36,9 +36,9 @@ parent: Meat
 6. Add vegetables and mix in
 
 **POTATO TOPPING**
-* 1 ½ - 2 lb. russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes
-* 8 tablespoons unsalted butter -1 stick
-* half & half OR milk
+* 1 ½ - 2 lb. russet potatoes (about 2 large potatoes) peeled and cut into 1 inch cubes
+* 8 tablespoons butter
+* milk
 * 1/2 teaspoon garlic powder (OPTIONAL)
 * 1/2 teaspoon salt
 * 1/4 teaspoon ground black pepper

@@ -20,3 +20,7 @@
 1. Let sit in the fridge for at least 3 hours, but longer is better to really let the flavors mingle.
 1. Pour into glasses
 1. Can add prosecco to add some fizz
+
+**OPTIONS**
+* Use whole cloves and ginger root chunks as well as cinnamon
+

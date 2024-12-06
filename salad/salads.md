@@ -25,7 +25,25 @@ parent: Salad
 1. Pour the dressing over the salad;mix, cover, and refrigerate until chilled, at least 30 minutes. 
 1. Before serving, stir in the cilantro and sprinkle with chopped peanuts.
 
-## Orange-Pecan-Onion Salad
+## Apple, Bacon and Blue Cheese Lettuce Salad
+
+**Dijon Vinaigrette**
+* 2 tablespoons olive oil
+* 2 tablespoons balsamic vinegar
+* 1 tablespoon Dijon mustard
+* 1 tablespoon finely chopped shallot
+* 2 teaspoons honey
+* 2 teaspoons fresh lemon juice
+* Pinch salt and pepper, to taste
+
+**Apple, Bacon and Blue Cheese Salad**
+* 6 cups greens (leafy or romaine lettuce, baby spinach or mixed greens)
+* 1 large tart red apple, halved, cored and thinly sliced (pink lady or honey crisp)
+* 2 ounces blue cheese or Gorgonzola, crumbled; or aged white cheddar, grated
+* 1/2 cup toasted walnuts (candied?)
+* 4 slices crispy cooked thick cut bacon, chopped
+
+## Orange-Pecan-Onion Lettuce Salad
 * salad greens
 * orange chunks
 * pecans
@@ -36,7 +54,7 @@ parent: Salad
 * gorgonzola or blue cheese
 * avocado slices
 
-## Mandarin Orange Salad
+## Mandarin Orange Lettuce Salad
 * 1 head romaine lettuce - rinsed, dried and chopped
 * 2 (11 ounce) cans mandarin oranges, drained
 * 6 green onions, thinly sliced
@@ -198,20 +216,4 @@ Makes: six servings
 3. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine.
 4. Cover the salad and chill well in the refrigerator before serving.
 
-## Apple, Bacon and Blue Cheese Salad
 
-**Dijon Vinaigrette**
-* 2 tablespoons olive oil
-* 2 tablespoons balsamic vinegar
-* 1 tablespoon Dijon mustard
-* 1 tablespoon finely chopped shallot
-* 2 teaspoons honey
-* 2 teaspoons fresh lemon juice
-* Pinch salt and pepper, to taste
-
-**Apple, Bacon and Blue Cheese Salad**
-* 6 cups greens (leafy or romaine lettuce, baby spinach or mixed greens)
-* 1 large tart red apple, halved, cored and thinly sliced (pink lady or honey crisp)
-* 2 ounces blue cheese or Gorgonzola, crumbled; or aged white cheddar, grated
-* 1/2 cup toasted walnuts (candied?)
-* 4 slices crispy cooked thick cut bacon, chopped

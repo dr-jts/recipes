@@ -1,5 +1,5 @@
 ---
-parent: Salads
+parent: Salad
 ---
 
 # Salad Dressings

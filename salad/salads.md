@@ -25,7 +25,7 @@ parent: Salad
 1. Pour the dressing over the salad;mix, cover, and refrigerate until chilled, at least 30 minutes. 
 1. Before serving, stir in the cilantro and sprinkle with chopped peanuts.
 
-## Orange Salad
+## Orange-Pecan-Onion Salad
 * salad greens
 * orange chunks
 * pecans

@@ -147,27 +147,31 @@ Lime juice - Sub with more rice vinegar.
 Oil - sub with other neutral flavoured oil.
 Storage - keep dressing separate from salad. Will keep for 3 to 4 days (depending on freshness of beansprouts).
 
-## Curtis Stone’s 2-Phase Coleslaw
-1 small head green cabbage, thinly sliced
-1 large carrot, peeled and shredded
-4 green onions, finely chopped
+## 2-Phase Coleslaw
 
-Dressing 1
-1/2 cup white wine vinegar
-3 tablespoons sugar 
-2 teaspoons salt
-1/2 teaspoon freshly ground black pepper 
+* 1 small head green cabbage, thinly sliced
+* 1 large carrot, peeled and shredded
+* 4 green onions, finely chopped
 
-Dressing 2
-1/4 cup crème fraîche 
-1/4 cup mayonnaise
-2 tablespoons Dijon mustard
+**Dressing 1**
+* 1/2 cup white wine vinegar
+* 3 tablespoons sugar 
+* 2 teaspoons salt
+* 1/2 teaspoon freshly ground black pepper 
+
+**Dressing 2**
+* 1/4 cup crème fraîche 
+* 1/4 cup mayonnaise
+* 2 tablespoons Dijon mustard
 
 Make-Ahead:
 The cabbage mixture and the dressings can be made 8 hours ahead, covered separately and refrigerated.
 
-1. In a large bowl, stir the vinegar, sugar, salt, and pepper until the sugar dissolves. Add the cabbage and carrots and toss to thoroughly coat with the dressing. Cover with plastic wrap and refrigerate for 30 minutes.
-2.  In a small bowl, stir the crème fraîche, mayonnaise, and mustard to blend. Drizzle the mayonnaise dressing over the cabbage mixture and toss to combine thoroughly. Mix in the green onions and serve.
+1. In a large bowl, stir the vinegar, sugar, salt, and pepper until the sugar dissolves.
+2. Add the cabbage and carrots and toss to thoroughly coat with the dressing.
+3. Cover with plastic wrap and refrigerate for 30 minutes.
+4.  In a small bowl, stir the crème fraîche, mayonnaise, and mustard to blend.
+5.  Drizzle the mayonnaise dressing over the cabbage mixture and toss to combine thoroughly. Mix in the green onions and serve.
 
 ## Grapefruit Coleslaw
 * Red cabbage

@@ -180,3 +180,20 @@ FILLING
 2. Stir in rhubarb. 
 3. Pour onto the hot crust and continue to bake for 40-45min.
 1. Let the bars cool and remove with the parchment paper. Cut into squares.
+ 
+## Shortbread
+
+* 1 cup unsalted butter, room temperature (use European butter for richer cookies)
+* ⅔ cup granulated sugar (or try icing sugar?)
+* 1 ½ teaspoons vanilla
+* ½ teaspoon kosher salt (if not using salted butter)
+* 2 cups all purpose flour (270 grams)
+* 1 tablespoon sugar (for sprinkling)
+
+1. Cream butter by hand
+2. Add sugar and vanilla and mix
+3. Add flour and salt and blend.  Mixture will be very dry
+4. Pat into a 9x9 pan lined with parchment paper (bottom only is fine)
+5. Bake at 350 for 35 min
+6. Remove from oven and cut into bars in pan.  Prick bars with fork. Sprinkle with sugar topping. Cool and remove bars
+7. Optional: dip into melted chocolate

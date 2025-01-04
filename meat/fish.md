@@ -38,6 +38,25 @@ parent: Meat
 3. Place steaks on rimmed baking sheet.  Brush generously with glaze.
 4. Broil steaks 4 in from heat. Baste once.  Until opaque in centre, about 10-13 mins
 
+## Baked Honey Sriracha Lime Salmon
+
+* 1 large salmon - or 4-6 individual (4-6 ounce) fillets
+* salt and pepper to taste - (for me this was about 1 teaspoon salt, ¼ teaspoon pepper)
+* 2 tablespoons butter
+* ⅓ cup honey
+* ⅓ cup sriracha
+* 2 limes - (one juiced, one for slicing)
+* 2 tablespoons soy sauce - (I used low sodium)
+* 1 teaspoon minced garlic
+* 1 tablespoon freshly chopped cilantro
+  
+1. Preheat oven to 400 degrees. Line a baking sheet with foil, grease lightly, and lay salmon on top. Season salmon with salt and pepper to taste. Slice one lime thinly, and slice the slices under the edges of the salmon.
+1. In a medium sauce pan over medium-high heat, melt butter. Stir in honey, sriracha sauce, juice of one lime (about 1 tablespoon), soy sauce, and garlic. Bring to a boil, then reduct to medium heat and cook for 3-4 minutes longer.
+1. Pour 2/3 of the sauce over the salmon (reserve remaining sauce for later) and use a spoon or spatula to make sure the sauce covers all of the salmon (you just don’t want any “dry” spots). 
+1. Fold the edges of the foil up around the salmon so the sauce doesn’t spill out everywhere (the foil doesn’t need to completely cover the salmon).
+1. Bake for 15 minutes, then switch to broil and cook another 4-5 minutes until the very edges of the salmon begin to char slightly – watch carefully so the whole salmon doesn’t burn.
+1. Top salmon with reserved sauce and chopped cilantro and serve.
+
 ## Baked Trout Croquettes
 
 * 2 cups leftover cooked steelhead trout

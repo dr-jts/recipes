@@ -38,7 +38,7 @@ parent: Meat
 3. Place steaks on rimmed baking sheet.  Brush generously with glaze.
 4. Broil steaks 4 in from heat. Baste once.  Until opaque in centre, about 10-13 mins
 
-## Baked Honey Sriracha Lime Salmon
+## Baked Honey-Sriracha-Lime Salmon
 
 * 1 large salmon - or 4-6 individual (4-6 ounce) fillets
 * salt and pepper to taste - (for me this was about 1 teaspoon salt, ¼ teaspoon pepper)
@@ -56,6 +56,21 @@ parent: Meat
 1. Fold the edges of the foil up around the salmon so the sauce doesn’t spill out everywhere (the foil doesn’t need to completely cover the salmon).
 1. Bake for 15 minutes, then switch to broil and cook another 4-5 minutes until the very edges of the salmon begin to char slightly – watch carefully so the whole salmon doesn’t burn.
 1. Top salmon with reserved sauce and chopped cilantro and serve.
+
+## Baked Honey-Lime-Chili Salmon
+
+* salmon or steelhead fillets
+* 1-2 T honey
+* 2 T lime juice, fresh squeezed
+* 2 cloves garlic, minced
+* 1 t dried red pepper flakes (or chili or chipotle powder 
+
+1. Whisk together glaze ingredients
+2. Put salmon on foil
+3. Pour glaze over salmon
+4. Close foil over salmon
+5. Bake at 400 F for 8-10 minutes
+6. Open foil and finish baking (5 - 10 mins?)
 
 ## Baked Trout Croquettes
 

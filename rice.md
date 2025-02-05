@@ -53,7 +53,7 @@
 * Add diced bacon chunks. Fry and add 45 mins before ready
 * Add chopped celery.  Saute along with onion
 
-## "Easy" Rissoto
+## "Easy" Risotto
 
 * 2 T olive oil
 * 2 T butter

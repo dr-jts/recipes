@@ -53,4 +53,23 @@
 * Add diced bacon chunks. Fry and add 45 mins before ready
 * Add chopped celery.  Saute along with onion
 
+## "Easy" Rissoto
 
+* 2 T olive oil
+* 2 T butter
+* 1/2 onion or 1 shallot, minced
+* 1 c Arborio or Carnaroli rice
+* salt to taste
+* 1/2 c dry white wine
+* 4 c stock or water
+* 1/2 - 1 c freshly grated Parmesan cheese
+
+1. In a large saucepan heat oil and butter
+2. When butter foams, add onion and a pinch of salt. Saute until onion is soft (4-5 min)
+3. Add rice and cook until translucent on edges (1-2 min)
+4. Add 1/2 c wine and cook for 1-2 min until it evaporates
+5. Add 1/2 c of liquid and cook, stirring often, until spoon leaves a trial
+6. Continue adding liquid in 1/2 c amounts and stirring.  Add any long-cooking ingredients (mushrooms, cherry tomatoes)
+7. Cook until rice is al dente (about 25 min)
+8. Stir in 1-2 T butter and Parmesan cheese
+9. Top with more Parmesan and ground pepper

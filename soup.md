@@ -4,6 +4,26 @@
 1. TOC
 {:toc}
 
+## Chantalle's Italian Lentil Soup
+* 3 onions, chopped
+* 3 cloves garlic, minced
+* 4 T butter
+* 1 c brown lentils
+* 64 oz can tomato juice
+* 2 t basil
+* 2 t oregano
+* salt & pepper
+* OPTIONAL: some sort of pasta
+
+1. Saute onions and garlic in butter until golden
+2. Add rest of ingredients (except pasta if used) and bring to boil
+3. Cover and simmer until lentils are tender (1 h)
+4. If pasta is used add at this point and simmer until cooked
+
+VARIATIONS
+* add red pepper flakes
+* For a stew use 48 oz juice to 1 c lentils
+  
 ## Hungrian Mushroom Soup
 
 * 4 tablespoons of salted butter

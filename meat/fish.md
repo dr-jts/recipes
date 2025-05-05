@@ -72,9 +72,29 @@ parent: Meat
 5. Bake at 400 F for 8-10 minutes
 6. Open foil and finish baking (5 - 10 mins?)
 
+## Crispy Skin Salmon with Maple-Miso Sauce
+
+* 1 T shiro (white) miso
+* 2 t maple syrup
+* 2 t soy sauce
+* 2 t rice vinegar
+* 2 t oil
+* 1 T water
+* 1 t mince ginger
+* 2 salmon fillets
+* snipped chives or thinly sliced green onions, to taste
+
+1. Put sauce ingredient in small pot.  Whisk and set aside
+2. Brush fillets with oil and season with salt and pepper
+3. Fry salmon skin-side down until skin is crispy (3-4 min)
+4. Turn fillets over and cook 2-3 min more until just cooked through
+5. Bring sauce to a simmer over medium-high heat
+6. Serve salmon skin-side-up over rice, with sauce drizzled over top.  Sprinkle with garnish (chives or green onions)
+
+
 ## Baked Trout Croquettes
 
-* 2 cups leftover cooked steelhead trout
+* 2 cups cooked steelhead trout
 * 1 cup soft bread crumbs
 * ½ sweet onion, minced
 * ½ cup mayonnaise

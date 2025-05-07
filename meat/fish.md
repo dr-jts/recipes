@@ -80,17 +80,16 @@ parent: Meat
 * 2 t rice vinegar
 * 2 t oil
 * 1 T water
-* 1 t mince ginger
+* 1 t minced ginger
 * 2 salmon fillets
 * snipped chives or thinly sliced green onions, to taste
 
-1. Put sauce ingredient in small pot.  Whisk and set aside
-2. Brush fillets with oil and season with salt and pepper
-3. Fry salmon skin-side down until skin is crispy (3-4 min)
-4. Turn fillets over and cook 2-3 min more until just cooked through
-5. Bring sauce to a simmer over medium-high heat
-6. Serve salmon skin-side-up over rice, with sauce drizzled over top.  Sprinkle with garnish (chives or green onions)
-
+1. Put sauce ingredient in small pot.  Whisk and set aside.
+2. Brush fillets with oil and season with salt and pepper.
+3. Fry salmon skin-side down until skin is crispy (3-4 min).
+4. Turn fillets over and cook 2-3 min more until just cooked through.
+5. Bring sauce to a simmer over medium-high heat.
+6. Serve salmon skin-side-up over rice, with sauce drizzled over top.  Sprinkle with garnish (chives or green onions).
 
 ## Baked Trout Croquettes
 

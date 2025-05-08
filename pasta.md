@@ -74,3 +74,16 @@ OR ?
 7. Cover and cook in a 350/375 degree oven for 30 minutes
 8. Uncover and cook for additional 10 minutes or until bubbly and golden on top. 
 9. Allow to rest for 20 minutes to set.
+
+## Creamy Bacon Miso Udon
+* 1/2 c Parmesan Cheese
+* 3 Egg Yolks
+* 1/2 T Miso Paste 
+* 1 t Black Pepper 
+* 4 thin slices of Bacon 
+* 2 packs of Frozen Udon
+
+1. Slice up the bacon and pan fry till crispy; keep the bacon fat.
+1. Prepare the Udon based on the instructions
+1. In a large bowl, add parmesan cheese, egg yolk, miso paste, black pepper, 2 tablespoons of bacon fat, and 4 tbsp of hot pasta water, and mix till everything is combined. 
+1. Add in drained udon and crispy bacon and mix till udon is coated in the sauce. Add more pasta water to the desired consistency. 1. Garnish with green onion.

@@ -343,6 +343,36 @@ OPTIONS:
 5. Roast in one or more roasting pans at 425 for 20-25 mins
 6. Add tomates with 15 mins of roasting time left
 
+## One Pot Chicken And Rice
+* 6 Chicken Thigh 
+* 1.5 c uncooked white rice 
+* 2 Shallots (chopped) 
+* 1.5 T Minced Garlic 
+* 1 t Paprika 
+* 0.5 t Cumin 
+* 1.5 t Salt 
+* 1 tsp Black Pepper 
+* ½ tsp Tumeric 
+* ¼ tsp Garlic Powder (optional) 
+* 2.5 cups Chicken Stock or Water 
+* Green Onion to garnish
+
+Optional Black Pepper Sauce: 
+
+* 2.5 T Dark Soy Sauce 
+* 1 T Sugar 
+* 0.5 T Sesame Seeds 
+* 0.5 T Black Pepper 
+
+1. Season the chicken with paprika, cumin, salt, black pepper, turmeric, and garlic powder (optional). Rub the chicken to make sure it is coated well with seasoning. 
+1. In a pan, drizzle in oil and turn the heat to medium-high. Place the chicken skin side facing down first, and pan-fry for 4 minutes on each side. Remove and set aside on a plate. 
+1. Add shallots and minced garlic into the pan. Saute for another 1-2 minutes or until fragrant. 
+1. Add the rice and mix well. Make sure the rice soaks up all the chicken juices and oil. 
+1. Turn the heat to medium; place the chicken on the rice, and pour in chicken stock or water.
+2. Cover and cook for 20-25 minutes or until all the liquids are absorbed into the rice. 
+1. In the meantime, mix dark soy sauce, sugar, sesame seeds, and black pepper. 
+1. Optional: before serving, turn the heat up to medium-high, drizzle on the sauce, and mix everything, so the rice gets crispy on the bottom. 
+
 ## Spicy One-pot Chicken and Rice
 * 6 pieces of Chicken Thigh (bone-in, skin on) 
 * 0.5 T oregano 

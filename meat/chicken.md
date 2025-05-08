@@ -343,7 +343,7 @@ OPTIONS:
 5. Roast in one or more roasting pans at 425 for 20-25 mins
 6. Add tomates with 15 mins of roasting time left
 
-## One Pot Chicken And Rice
+## One-Pot Chicken And Rice
 * 6 Chicken Thigh 
 * 1.5 c uncooked white rice 
 * 2 Shallots (chopped) 
@@ -357,7 +357,7 @@ OPTIONS:
 * 2.5 cups Chicken Stock or Water 
 * Green Onion to garnish
 
-Optional Black Pepper Sauce: 
+**Optional Black Pepper Sauce:** 
 
 * 2.5 T Dark Soy Sauce 
 * 1 T Sugar 
@@ -373,7 +373,7 @@ Optional Black Pepper Sauce:
 1. In the meantime, mix dark soy sauce, sugar, sesame seeds, and black pepper. 
 1. Optional: before serving, turn the heat up to medium-high, drizzle on the sauce, and mix everything, so the rice gets crispy on the bottom. 
 
-## Spicy One-pot Chicken and Rice
+## Spicy One-Pot Chicken and Rice
 * 6 pieces of Chicken Thigh (bone-in, skin on) 
 * 0.5 T oregano 
 * 0.25 T paprika 

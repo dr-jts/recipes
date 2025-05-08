@@ -342,7 +342,38 @@ OPTIONS:
 4. Add some Italian herbs, salt, pepper
 5. Roast in one or more roasting pans at 425 for 20-25 mins
 6. Add tomates with 15 mins of roasting time left
- 
+
+## Spicy One-pot Chicken and Rice
+* 6 pieces of Chicken Thigh (bone-in, skin on) 
+* 0.5 T oregano 
+* 0.25 T paprika 
+* 0.25 T chili powder 
+* 2 T soy sauce
+* 2.5 T oyster sauce 
+* 0.5 T garlic powder 
+* 3 T olive oil 
+* Salt and pepper
+
+**Rice** 
+* 1 large onion, chopped 
+* 2 large tomatoes, chopped 
+* 1 T soy sauce 
+* 1 T garlic, minced 
+* 2 T ketchup 
+* 3 T tomato sauce 
+* 1.5 c uncooked white basmati rice
+* 2.5 c Chicken Stock or Water
+
+1. Season the chicken with oregano, paprika, chili powder, soy sauce, oyster sauce, garlic powder, salt and pepper, and olive oil. 1. Massage well and set it aside for 10 minutes or while you prepare the rest of the ingredients. 
+1. In a large pan, turn the heat to medium-high, and add the chicken, skin side facing down. Pan-fry the chicken for 3 minutes on each side or until the chicken skin is crispy. Remove and set aside. 
+1. In the same pan, add in onion, chopped tomato, and garlic. Saute for 2-3 minutes. 
+1. Once the onion is translucent, add in the rice.
+1. Mix well before adding in tomato sauce, soy sauce, and ketchup. Make sure all the rice is soaked in the sauce.
+1. Pour in chicken stock and mix well, making sure no rice is stuck on the bottom, then add the chicken back in the pan skin side facing up.
+1. Once simmering, turn the heat to medium-low; cover and cook for 20-25 minutes or until all the liquids are absorbed into the rice. 
+1. Turn off the heat, and let it rest with the lid on for 5 minutes. 
+1. Garnish with cilantro and enjoy! 
+
 ## Maple Turkey Chili
 * 2 tablespoons olive oil
 * 1 onion, diced

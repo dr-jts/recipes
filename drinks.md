@@ -28,7 +28,7 @@
 * 50ml Earl Grey-infused gin
 * 20ml fresh lemon juice
 * 10ml standard 50:50 sugar syrup
-* 200ml tonic water – an aromatic one is best (we use Merchant’s Heart)
+* 200ml tonic water – an aromatic one is best (e.g. Merchant’s Heart)
 * 2-3 slices strawberry, 1 orange twist and a few mint leaves, to garnish
 
-1. Put 1 Earl Grey teabag in a bottle of gin (we use Bombay Sapphire), leave for six hours, then remove
+1. Put 1 Earl Grey teabag in a bottle of gin (e.g. Bombay Sapphire), leave for six hours, then remove

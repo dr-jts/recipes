@@ -191,6 +191,20 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 1. Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl.
 1. Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.
 
+## Margaret's Potato Salad
+
+* Potatoes (Warbas are best)
+* grean onion (chopped)
+* carror (grated)
+* diced cooked back (optional)
+* mayonnaise
+* lemon juice OR Dijon mustard
+* pepper (to taste)
+
+1. Either dice potatoes and cook briefly, or cook, cool and dice
+2. Add vegetables (and bacon)
+3. Add dressing ingredients and mix
+
 
 ## Nugget Potato Salad with Chive and Bacon Ranch Dressing
 

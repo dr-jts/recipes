@@ -209,6 +209,17 @@ Garnish (optional):
 2. Dip chicken pieces into mixture of sauce ingredients
 3. Bake at 350 for 1 hour
 
+## Honey-Mustard-Curry Chicken
+
+* chicken pieces (breasts or thighs, bone-in)
+* sweet mustard (hamburger mustard)
+* honey
+* curry powder
+
+1. Mix mustard, honey and curry powder to taste
+2. Pour over chicken pieces in a casserole
+3. Bake at 350 for 1 h
+
 ## Easy Chicken Tetrazinni
 
 * olive oil

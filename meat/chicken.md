@@ -423,7 +423,7 @@ OPTIONS:
 * ½ teaspoon salt
 * ½ teaspoon pepper
 * 1 pound lean ground turkey
-* 2 tablespoons chili powder
+* 2 tablespoons chili powder (OPTION: use part chipotle chili powder)
 * 2 teaspoons smoked paprika
 * 1 teaspoon dried oregano
 * 1 teaspoon cumin
@@ -439,3 +439,4 @@ OPTIONS:
 1. Add tomatoes, beans, stock and maple syrup. Bring the mixture to a boil then reduce it to a simmer.
 2. Cover and simmer for 20 to 30 minutes.
 3. Serve with tortilla chips, avocado, sour cream or whatever you love on your chili!
+

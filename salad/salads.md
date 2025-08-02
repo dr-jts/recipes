@@ -36,7 +36,7 @@ parent: Salad
 * 2 teaspoons fresh lemon juice
 * Pinch salt and pepper, to taste
 
-**Apple, Bacon and Blue Cheese Salad**
+**Apple, Bacon and Blue Cheese Lettuce Salad**
 * 6 cups greens (leafy or romaine lettuce, baby spinach or mixed greens)
 * 1 large tart red apple, halved, cored and thinly sliced (pink lady or honey crisp)
 * 2 ounces blue cheese or Gorgonzola, crumbled; or aged white cheddar, grated
@@ -154,6 +154,16 @@ Heat a large pot of water until it is boiling.  Add in the broccoli florets and 
 
 TO MAKE THE PEANUT SAUCE:
 Whisk all ingredients together until combined. If the dressing is too thick, whisk in hot water a tablespoon at a time until it reaches the consistency you desire.
+
+## Broccoli Salad 
+* broccoli chopped into small florets
+* red onion, finely chopped
+* dried cranberries
+* dressing - sesame, Jamaica mistake, or ???
+* chopped nuts - tamari almonds, slivered almonds
+
+1. Mix broccoli, onion and cranberries with dressing. Let sit in fridge for 2 hr to overnight?
+2. Mix in nuts before serving
 
 ## Peanutty Carrot Salad
 

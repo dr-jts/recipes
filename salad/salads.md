@@ -159,11 +159,19 @@ Whisk all ingredients together until combined. If the dressing is too thick, whi
 * broccoli chopped into small florets
 * red onion, finely chopped
 * dried cranberries
-* dressing - sesame, Jamaica mistake, or ???
-* chopped nuts - tamari almonds, slivered almonds
+* chopped nuts - tamari almonds, slivered almonds, sunflower seeds
+* OPTION: bacon bits
+* dressing (see below)
 
 1. Mix broccoli, onion and cranberries with dressing. Let sit in fridge for 2 hr to overnight?
 2. Mix in nuts before serving
+
+**Dressing Ideas**
+* sesame
+* Jamaica mistake
+* peanut sauce as above
+* creamy poppyseed
+* simple slaw dressing with mayo (option: add olive oil?), cider vinegar, sugar or maple syrup, pepper; option: Dijon mustard
 
 ## Peanutty Carrot Salad
 

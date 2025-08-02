@@ -131,6 +131,24 @@ DRESSING
 1. Cube the bread and toast alongside the chicken, moving regularly until evenly golden and gnarly, removing only when super-crispy.
 1. Toss the salad together and season to perfection, slice up the chicken and serve with a sprinkling of croutons and lemon wedges for squeezing over.
 
+## Basic Broccoli Salad 
+* broccoli chopped into small florets
+* red onion, finely chopped
+* dried cranberries
+* chopped nuts - tamari almonds, slivered almonds, sunflower seeds
+* OPTION: bacon bits
+* dressing (see below)
+
+1. Mix broccoli, onion and cranberries with dressing. Let sit in fridge for 2 hr to overnight?
+2. Mix in nuts before serving
+
+**Dressing Ideas**
+* sesame
+* Jamaica mistake
+* peanut sauce as above
+* creamy poppyseed
+* simple slaw dressing with mayo (option: add olive oil?), cider vinegar, sugar or maple syrup, pepper; option: Dijon mustard
+
 ## Asian Broccoli Salad
 
 BROCCOLI SALAD INGREDIENTS:
@@ -155,37 +173,6 @@ Heat a large pot of water until it is boiling.  Add in the broccoli florets and 
 TO MAKE THE PEANUT SAUCE:
 Whisk all ingredients together until combined. If the dressing is too thick, whisk in hot water a tablespoon at a time until it reaches the consistency you desire.
 
-## Broccoli Salad 
-* broccoli chopped into small florets
-* red onion, finely chopped
-* dried cranberries
-* chopped nuts - tamari almonds, slivered almonds, sunflower seeds
-* OPTION: bacon bits
-* dressing (see below)
-
-1. Mix broccoli, onion and cranberries with dressing. Let sit in fridge for 2 hr to overnight?
-2. Mix in nuts before serving
-
-**Dressing Ideas**
-* sesame
-* Jamaica mistake
-* peanut sauce as above
-* creamy poppyseed
-* simple slaw dressing with mayo (option: add olive oil?), cider vinegar, sugar or maple syrup, pepper; option: Dijon mustard
-
-## Peanutty Carrot Salad
-
-* 1/3 cup mayonnaise (or 1/3 cup salad dressing)
-* 2 tbsps peanut butter
-* 2 cups shredded carrots
-* 1/3 cup raisins
-* OPT: diced apple
-
-1. Combine mayonnaise and peanut butter in large bowl, stirring until blended. 
-1. Stir in carrots and raisins to coat.
-1. Cover and chill until ready to serve.
-1. Stir in apple. Sprinkle with peanuts.
-
 ## Roasted Broccoli - Quinoa Salad
 A light and healthy salad, ideally served with pan-fried or barbecued mackerel or stuffed into a container for lunch on the go.
 
@@ -208,6 +195,19 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 1. Cook the quinoa according to the instructions on the packet (or buy a 250g pouch of ready-to-eat grains).
 1. Roughly chop the coriander and parsley. Place in a mixing bowl with the quinoa and roast broccoli. Fold through the dressing and carefully pile into a serving bowl.
 1. Sprinkle the peas, flaked almonds and lemon zest over and serve. If you have some pea shoots to hand, use these to garnish.
+
+## Peanutty Carrot Salad
+
+* 1/3 cup mayonnaise (or 1/3 cup salad dressing)
+* 2 tbsps peanut butter
+* 2 cups shredded carrots
+* 1/3 cup raisins
+* OPT: diced apple
+
+1. Combine mayonnaise and peanut butter in large bowl, stirring until blended. 
+1. Stir in carrots and raisins to coat.
+1. Cover and chill until ready to serve.
+1. Stir in apple. Sprinkle with peanuts.
 
 ## Margaret's Potato Salad
 

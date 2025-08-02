@@ -145,7 +145,7 @@ DRESSING
 **Dressing Ideas**
 * sesame
 * Jamaica mistake
-* peanut sauce as above
+* peanut sauce (see Asian Broccoli Salad)
 * creamy poppyseed
 * simple slaw dressing with mayo (option: add olive oil?), cider vinegar, sugar or maple syrup, pepper; option: Dijon mustard
 

@@ -90,3 +90,13 @@ OR ?
 1. Prepare the Udon based on the instructions
 1. In a large bowl, add parmesan cheese, egg yolk, miso paste, black pepper, 2 tablespoons of bacon fat, and 4 tbsp of hot pasta water, and mix till everything is combined. 
 1. Add in drained udon and crispy bacon and mix till udon is coated in the sauce. Add more pasta water to the desired consistency. 1. Garnish with green onion.
+
+## Simple Tomato Sauce
+* 28 oz tin whole tomatoes
+* 5 T butter
+* 1 onion, peeled and cut in half
+
+1. Combine tomatoes, butter, onion and a few pinches of salt in a medium saucepan.
+2. Simmer over medium heat for 45 min, breaking up large pieces of tomato.
+3. Discard onion and toss sauce with pasta.
+

@@ -428,8 +428,8 @@ OPTIONS:
 * 1 teaspoon dried oregano
 * 1 teaspoon cumin
 * ¼ teaspoon crushed red pepper flakes
-* 1 (14 ounce) can fire roasted tomatoes
-* 1 (15-ounce) can pinto beans, drained and rinsed
+* 1 (14 oz/400 ml)) can fire-roasted diced tomatoes
+* 1 (15 oz/540 ml) can pinto beans, drained and rinsed
 * 1/2 to 3/4 cups chicken stock (or water)
 * 1/4 cup pure maple syrup
 

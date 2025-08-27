@@ -420,18 +420,18 @@ OPTIONS:
 * 1 onion, diced
 * 1 red bell pepper, diced
 * 4 garlic cloves, minced
-* ½ teaspoon salt
-* ½ teaspoon pepper
+* ½ t salt
+* ½ t pepper
 * 1 pound lean ground turkey
-* 2 tablespoons chili powder (OPTION: use part chipotle chili powder)
-* 2 teaspoons smoked paprika
-* 1 teaspoon dried oregano
-* 1 teaspoon cumin
-* ¼ teaspoon crushed red pepper flakes
+* 2 T chili powder (OPTION: use part chipotle chili powder)
+* 2 t smoked paprika
+* 1 t dried oregano
+* 1 t cumin
+* ¼ t crushed red pepper flakes
 * 1 (14 oz/400 ml)) can fire-roasted diced tomatoes
 * 1 (15 oz/540 ml) can pinto beans, drained and rinsed
-* 1/2 to 3/4 cups chicken stock (or water)
-* 1/4 cup pure maple syrup
+* 1/2 to 3/4 c chicken stock (or water)
+* 1/4 c pure maple syrup
 
 1. Heat the olive oil in a large pot over medium-low heat. Add the onions, peppers and garlic with a pinch of salt and pepper. Saute until softened, about 5 minutes.
 1. Add in the ground turkey and another pinch of salt and pepper. Break it apart with a wooden spoon and brown it, about 6 to 8 minutes.

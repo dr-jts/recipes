@@ -32,8 +32,8 @@ GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and 
 
 ## Nectarine Upside-Down Cake
 
-* 3/4 cup plain Greek yogurt
 * 1/2 cup (1 stick) butter
+* 3/4 cup plain Greek yogurt
 * 2 eggs
 * 1 teaspoon vanilla extract
 * 1 teaspoon almond extract
@@ -48,6 +48,12 @@ GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and 
 2. Whisk in the Greek yogurt, eggs, vanilla extract, and almond extract.  Once smooth, whisk in the sugar.
 1. Switch to a rubber spatula and fold the dry ingredients into the wet ingredients, just until combined.
 1. Arrange the sliced nectarines along the bottom of the springform pan.
+1. Pour the batter over top of the sliced fruit and smooth the top with the rubber spatula.
+1. Bake for 40 minutes, or until golden brown and a tester inserted into the center comes out clean.
+1. Allow the cake to cool for 5-10 minutes, then remove the sides of the springform pan and invert onto a wire cooling rack.
+2. Carefully lift the bottom of the pan off the top of the cake, sliding a long knife along the pan bottom to loosen any fruit that may have stuck.
+1. Store in an airtight container at room temperature for 3 to 4 days.
+
 
 ## Sherry Cake
 * 1 box yellow cake mix
@@ -78,8 +84,3 @@ GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and 
 6. Bake at 375 for 25-30 min
 7. When mostly cool slice in half and spread jam between halves
 8. Sprinkle top with icing sugar
-9. Pour the batter over top of the sliced fruit and smooth the top with the rubber spatula.
-1. Bake for 40 minutes, or until golden brown and a tester inserted into the center comes out clean.
-1. Allow the cake to cool for 5-10 minutes, then remove the sides of the springform pan and invert onto a wire cooling rack.
-2. Carefully lift the bottom of the pan off the top of the cake, sliding a long knife along the pan bottom to loosen any fruit that may have stuck.
-1. Store in an airtight container at room temperature for 3 to 4 days.

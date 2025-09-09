@@ -48,7 +48,37 @@ GARNISH: Thin slices of peeled orange sprinkled with confectioners’ sugar and 
 2. Whisk in the Greek yogurt, eggs, vanilla extract, and almond extract.  Once smooth, whisk in the sugar.
 1. Switch to a rubber spatula and fold the dry ingredients into the wet ingredients, just until combined.
 1. Arrange the sliced nectarines along the bottom of the springform pan.
-2. Pour the batter over top of the sliced fruit and smooth the top with the rubber spatula.
+
+## Sherry Cake
+* 1 box yellow cake mix
+* 4 eggs
+* 3/4 c sherry
+* 3/4 c oil
+
+1. Mix ingredients.
+2. Pour into a greased and floured 9x12" pan
+3. Bake at 350 for 30 min
+
+## Victoria Sandwich Cake
+
+* 1/2 c margarine
+* 1/2 c sugar
+* 2 eggs
+* 1 c flour
+* 1 1/2 t baking powder
+* a little milk
+* jam
+* icing sugar
+
+1. Cream marge and sugar
+2. Beat in eggs singly
+3. Add flour and baking powder
+4. Mix with milk to a dropping consistency
+5. Pour into a greased papered 8" round tin
+6. Bake at 375 for 25-30 min
+7. When mostly cool slice in half and spread jam between halves
+8. Sprinkle top with icing sugar
+9. Pour the batter over top of the sliced fruit and smooth the top with the rubber spatula.
 1. Bake for 40 minutes, or until golden brown and a tester inserted into the center comes out clean.
 1. Allow the cake to cool for 5-10 minutes, then remove the sides of the springform pan and invert onto a wire cooling rack.
 2. Carefully lift the bottom of the pan off the top of the cake, sliding a long knife along the pan bottom to loosen any fruit that may have stuck.

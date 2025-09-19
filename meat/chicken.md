@@ -106,29 +106,29 @@ To serve, remove chicken from the pan and transfer to a platter or plates; pour 
 
 ## Chicken Cacciatore
 
-* 3 tablespoons olive oil, divided
+* 3 T olive oil, divided
 * 6 bone-in skinless chicken thighs
 * Salt and pepper, to season
 * 1 medium onion, diced
-* 2 tablespoons minced garlic, (or 6 cloves)
+* 2 T minced garlic, (or 6 cloves)
 * 1 small red OR green bell pepper (capsicum), diced
 * 1 large carrot, peeled and sliced
 * 10 oz (300g) mushrooms, sliced
 * 8 sprigs thyme
-* 2 tablespoons each freshly chopped parsley and basil plus more to garnish
-* 1 teaspoon dried oregano OR Italian herbs
+* 2 T each freshly chopped parsley and basil plus more to garnish
+* 1 t dried oregano OR Italian herbs
 * 1/2 c red wine
 
-* 28 oz (820g) crushed tomatoes
+* 28 oz (840 ml) crushed tomatoes
 * 2 T tomato paste
 * 7 oz (200g) Roma tomatoes, halved
-* 1/2 teaspoon red pepper flakes
+* 1/2 t red pepper flakes
 
 OPTION FOR SAUCE
-* 14 oz crushed tomatoes
+* 14 oz (420 ml) crushed tomatoes
 * 2 T tomato paste
 * 3/4 c chicken broth
-* 1/2 teaspoon red pepper flakes
+* 1/2 t red pepper flakes
 
 1. Season chicken with salt and pepper. 
 1. Heat 2 tablespoons oil in a heavy cast iron skillet. Sear chicken on both sides until golden, about 3-4 minutes each side. Remove from skillet and set aside.

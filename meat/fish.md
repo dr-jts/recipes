@@ -8,6 +8,29 @@ parent: Meat
 1. TOC
 {:toc}
 
+## Salmom Casserole
+
+* 1 c chopped onions
+* 1 c chopped celery
+* 1 T butter
+* 1 can cream of mushroom soup
+* 1/2 c milk
+* 1 can (15 oz) salmon (debone, reserve liquid)
+* 3 c cooked rice
+* 1 1/2 t garlic salt
+* 1/4 t pepper
+* 1 1/2 c grated cheese
+* 1 1/2 c crushed corn chips
+
+1. Saute onions and celery in butter until tender
+2. In a large bowl combing onions, celery, soup, milk and salmon liquid
+3. Add rice, seasonings and salmon
+4. Spoon half the mixture into a buttered 2 quart casserole
+5. Layer with half the cheese
+6. Repeat with rest of mixture and cheese
+7. Top with corn chips
+8. Bake at 350 for 25 mins until hot and bubbly
+
 ## Salmon Steaks
 
 * Salmon steaks

@@ -8,7 +8,7 @@ parent: Meat
 1. TOC
 {:toc}
 
-## Salmom Casserole
+## Salmon Casserole
 
 * 1 c chopped onions
 * 1 c chopped celery

@@ -31,6 +31,21 @@ parent: Meat
 7. Top with corn chips
 8. Bake at 350 for 25 mins until hot and bubbly
 
+## Teriyaki Salmon
+
+* salmon or steelhead fillet
+
+**Marinade**
+
+* Tamari sauce
+* Maple syrup
+* garlic
+* sherry (or sake?)
+
+1. Dab fish with butter
+2. Pour marinade over fish
+3. Bake at 350 for 20 min
+
 ## Salmon Steaks
 
 * Salmon steaks

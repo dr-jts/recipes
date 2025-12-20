@@ -184,12 +184,17 @@ FILLING
  
 ## Shortbread
 
-* 1 cup unsalted butter, room temperature (use European butter for richer cookies)
+* 1 cup salted or unsalted butter, room temperature (use European butter for richer cookies)
 * ⅔ cup granulated sugar (or try icing sugar?)
 * 1 ½ teaspoons vanilla
 * ½ teaspoon kosher salt (if not using salted butter)
 * 2 cups all purpose flour (270 grams)
 * 1 tablespoon sugar (for sprinkling)
+
+##Options##
+
+* chopped candied orange peel
+* ground dried lavender
 
 1. Cream butter by hand
 2. Add sugar and vanilla and mix
@@ -198,3 +203,4 @@ FILLING
 5. Bake at 350 for 35 min
 6. Remove from oven and cut into bars in pan.  Prick bars with fork. Sprinkle with sugar topping. Cool and remove bars
 7. Optional: dip into melted chocolate
+

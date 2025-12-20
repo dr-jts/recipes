@@ -191,13 +191,13 @@ FILLING
 * 2 cups all purpose flour (270 grams)
 * 1 tablespoon sugar (for sprinkling)
 
-##Options##
+**Options**
 
 * chopped candied orange peel
 * ground dried lavender
 
 1. Cream butter by hand
-2. Add sugar and vanilla and mix
+2. Add sugar and vanilla (and flavouring if used) and mix.  
 3. Add flour and salt and blend.  Mixture will be very dry
 4. Pat into a 9x9 pan lined with parchment paper (bottom only is fine)
 5. Bake at 350 for 35 min

@@ -201,6 +201,6 @@ FILLING
 3. Add flour and salt and blend.  Mixture will be very dry
 4. Pat into a 9x9 pan lined with parchment paper (bottom only is fine)
 5. Bake at 350 for 35 min
-6. Remove from oven and cut into bars in pan.  Prick bars with fork. Sprinkle with sugar topping. Cool and remove bars
-7. Optional: dip into melted chocolate
+6. Remove from oven and cut into bars in pan.  Prick bars with fork. Sprinkle with sugar. Cool and remove bars
+7. Optional: partially dip into melted chocolate
 

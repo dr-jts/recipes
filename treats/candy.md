@@ -24,3 +24,5 @@ parent: Treats
 1. Use a slotted spoon to remove a few of the peels at a time and let the excess syrup drip off for a few seconds.
 2. Place the hot, wet peels in a bowl of sugar or a ziplock bag with sugar in it and toss/shake to coat.
 3. Spread the candied citrus peels out on a wire rack to cool and dry completely, 1-2 days. *Note: Tossing them in sugar and letting them dry is only necessary if you're storing them at room temp for an extended period of time. They can be used immediately in any recipe that calls for them. And any leftovers can be put in a freezer bag/container and frozen as is until the next time you need them.
+
+Can dip in chocolate, or use in shortbread or other baking

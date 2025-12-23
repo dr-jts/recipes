@@ -12,7 +12,7 @@ parent: Treats
 
 * 3 large oranges (can also use the equivalent of lemons, grapefruits, limes, or citrus of your choice, thoroughly washed and scrubbed; organic is recommended)
 * 2 c sugar
-* 1 c water
+* 1 c water (or up to 3 cups?)
 * Fine granulated sugar for coating
  
 1. Slice both ends of the citrus fruits. Cut the peel on each each into 4 or more vertical segments, depending on the size of the fruit. Peel off each segment of rind. (You can remove a little of the white pith, though not necessary. The pith is bitter but the blanching process below will help reduce the bitterness. Note that if you remove the white pith, the thinner the peels are the harder and more leathery they will be when they’re candied.) Slice the peels into 1/4 inch wide strips. (Keep the peeled fruit for eating, cooking, juicing, etc)

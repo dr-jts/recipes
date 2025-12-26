@@ -70,12 +70,13 @@ parent: Meat
 * 1 (8 oz.) can tomato sauce (or Heinz chili sauce?)
 * 1/4 cup bourbon
 * 1/4 cup maple syrup
-* Optional: Up to 1 cup of water I use ½ cup
+* Optional: Up to 1 cup of water (I use ½ cup)
 
-1. Add the beef to a large soup pot and place over medium-high heat. Break the beef apart with a wooden spoon. Add the onion. Cook 6-8 minutes, stirring occasionally. Beef should be cooked through. Drain off any excess fat, if necessary.
-1. Add the garlic, chili powder, cumin, salt, black pepper, and cayenne pepper. Cook 1 minute, stirring often.
-1. Add the beans, tomatoes, tomato sauce, bourbon, and maple syrup. (If you like thinner chili, add up to 1 cup of water at this point.) Stir well. Bring to a boil. Then, reduce the heat to low or medium-low. Simmer for 30 minutes, stirring occasionally.
-1. Let the chili rest for 5 minutes before serving.
+1. Add the beef to a large soup pot and place over medium-high heat. Break the beef apart with a wooden spoon. Add the onion. Cook 6-8 minutes, stirring occasionally. Beef should be cooked through. Drain off excess fat, if necessary.
+1. Add garlic, chili powder, cumin, salt, black pepper, and cayenne pepper. Cook 1 minute, stirring often.
+1. Add beans, tomatoes, tomato sauce, bourbon, and maple syrup. (For thinner chili, add up to 1 cup of water at this point.) Stir well. Bring to a boil.
+2. Reduce heat to low or medium-low. Simmer for 30 minutes, stirring occasionally.
+1. Let chili rest for 5 minutes before serving.
 2. Garnish ideas: grated cheese, green onion, sour cream, tortilla chips
 
 ## Chipotle Chili

@@ -29,8 +29,8 @@
 2. Dry Shake (if using egg white): Seal the shaker and shake vigorously for 10–30 seconds without ice. This aerates the egg white to create a rich foam.
 1. Wet Shake: Fill the shaker with ice and shake again for 15–20 seconds, until well-chilled.
 1. Strain and Serve:
-  * On the rocks: Strain the mixture into a rocks glass filled with fresh ice.
-  * Served "up": Strain the mixture into a chilled coupe or cocktail glass without ice.
+   1. On the rocks: Strain the mixture into a rocks glass filled with fresh ice.
+   1. Served "up": Strain the mixture into a chilled coupe or cocktail glass without ice.
 1. Garnish with a few drops of Angostura bitters on the foam, and an orange slice and/or a maraschino cherry. 
 
 ## Cinnamon Apple Cider Sangria

@@ -18,6 +18,21 @@
 2. Pour into four martini glasses (4 oz.)
 3. Garnish the rim of each glass with a slice of orange.
 
+## Whiskey Sour
+* 2 ounces bourbon or rye whiskey
+* ¾ ounce fresh lemon juice (freshly squeezed is key for flavor)
+* ½ ounce simple syrup (adjust to taste, more for sweeter, less for tarter)
+* ½ ounce egg white (optional, for a frothy, silky texture)
+* Garnish: Angostura bitters, a maraschino cherry, and/or an orange slice/peel 
+
+1. Add the whiskey, lemon juice, simple syrup, and egg white (if using) to a cocktail shaker.
+2. Dry Shake (if using egg white): Seal the shaker and shake vigorously for 10–30 seconds without ice. This aerates the egg white to create a rich foam.
+1. Wet Shake: Fill the shaker with ice and shake again for 15–20 seconds, until well-chilled.
+1. Strain and Serve:
+  1. On the rocks: Strain the mixture into a rocks glass filled with fresh ice.
+  1. Served "up": Strain the mixture into a chilled coupe or cocktail glass without ice.
+1. Garnish with a few drops of Angostura bitters on the foam, and an orange slice and/or a maraschino cherry. 
+
 ## Cinnamon Apple Cider Sangria
 
 * 1 750ml bottle wine (Cabernet Sauvignon or white like Pinot Grigio)

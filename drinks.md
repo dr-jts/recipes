@@ -4,6 +4,20 @@
 1. TOC
 {:toc}
 
+## Blue Moon Cocktail
+
+* 1 cup crushed ice
+* 1/4 cup vodka
+* 1/4 cup blue curaçao
+* 1/4 cup whipping cream
+* 2 tablespoons vanilla-flavored syrup (such as Torani)
+* 2 tablespoons fresh orange juice
+* 1 tablespoon Cointreau or other orange-flavored liqueur
+
+1. Combine all ingredients in a blender, and whirl until smooth.
+2. Pour into four martini glasses (4 oz.)
+3. Garnish the rim of each glass with a slice of orange.
+
 ## Cinnamon Apple Cider Sangria
 
 * 1 750ml bottle wine (Cabernet Sauvignon or white like Pinot Grigio)

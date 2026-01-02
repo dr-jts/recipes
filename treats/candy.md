@@ -26,3 +26,20 @@ parent: Treats
 3. Spread the candied citrus peels out on a wire rack to cool and dry completely, 1-2 days. *Note: Tossing them in sugar and letting them dry is only necessary if you're storing them at room temp for an extended period of time. They can be used immediately in any recipe that calls for them. And any leftovers can be put in a freezer bag/container and frozen as is until the next time you need them.
 
 Can dip in chocolate, or use in shortbread or other baking
+
+## Almond Roca
+
+* 1 lb salted butter (high quality - organic?)
+* 2 cups white sugar
+* 1 lb toasted slivered almonds (toast on cookie sheet in oven at 200 degrees F)
+* 6 oz chocolate - I use Lindt choc bars
+* 6 oz additional toasted almonds, chopped (optional, for topping)
+
+1. Melt butter in a heavy dutch oven on medium heat.
+2. When melted add the white sugar and stir constantly until mixture is thick like cake batter.
+3. Increase heat to medium-high and add in the 1 lb of warm roasted almonds (may want to wait until mixture is almost at 290).
+4. Continue cooking, increasing heat if necessary until mixture reaches hard ball stage (290 degrees F).
+5. Turn out onto 2 pizza pans or cookie sheets and use the back of a metal spoon to spread to the thickness of a single almond. Let cool.
+6. Heat the chocolate in the microwave. Spread on one side of the toffee disks. Let cool for at least 2 hours, but do not put in the fridge as then the chocolate will flake off when breaking apart into pieces. 
+1. While the chocolate is still soft, sprinkle 1/2 of the chopped almonds on top and gently press into the chocolate with a flat spatula.
+2. Leave overnight to cool before breaking into bite sized pieces. 

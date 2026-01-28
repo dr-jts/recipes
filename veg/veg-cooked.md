@@ -8,6 +8,24 @@ parent: Vegetables
 1. TOC
 {:toc}
 
+## Braised Red Cabbage
+
+1 T butter or oil
+1 1/2 c red cabbage, thinly shredded
+1/4 c onion, diced
+1/2 c apple, cubed
+1 1/2 T brown sugar
+1 1/2 T apple cider vinegar
+pinch cinnamon
+pinch nutmeg
+pinch cloves or allspice
+1/2 c water
+
+1. Melt butter in a pot.
+2. Add cabbage and onions and cook and stir until softened (5 min)
+3. Mix in rest of ingredients
+4. Bring to simmer, reduce heat to medium-low, and cook 20 mins
+
 ## Maple-Glazed Carrots
 
 12 large carrots, peeled

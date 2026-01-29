@@ -26,6 +26,22 @@ pinch cloves or allspice
 3. Mix in rest of ingredients
 4. Bring to simmer, reduce heat to medium-low, and cook 20 mins
 
+## Sauteed Red Cabbage
+
+* 2 t oil
+* ½ medium red cabbage (about 500 grams), chopped
+* 1-2 cloves garlic minced
+* 1 t Dijon mustard
+* 1 t honey or maple syrup
+* ½ t sea salt to taste
+* ½ t black pepper to taste
+* 2 t balsamic or apple cider vinegar to taste
+
+1. Saute cabbage in heated oil until at desired tenderness (~5 min)
+2. Stir in garlic and cook a bit more
+3. Combine mustard, honey, salt, pepper, and vinegar and add to cabbage
+4. Mix and heat through
+
 ## Maple-Glazed Carrots
 
 12 large carrots, peeled

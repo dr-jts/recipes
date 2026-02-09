@@ -4,6 +4,23 @@ parent: Vegetables
 
 # Casseroles & Stews
 
+## Chamtal's Italian Lentil Stew
+
+* 3 onions, chopped
+* 3 cloves garlic, minced
+* 4 T butter
+* 1 c brown lentils
+* 48 oz can tomato juice
+* 2 t basil
+* 2 t oregano
+* salt & pepper
+* OPTONAL: pasta shells or macaroni
+
+1. Saute onions and garlic in butter until golden.
+2. Add rest of ingredients (except pasta, if using)
+3. Bring to boil. Cover and simmer until lentils are tender (about 1 h)
+4. If using past, add 10 mins before this point and simmer until cooked
+
 ## Italian Lentil Suppa
 
 * 1 onion

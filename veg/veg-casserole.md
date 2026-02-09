@@ -4,6 +4,27 @@ parent: Vegetables
 
 # Casseroles & Stews
 
+## Italian Lentil Suppa
+
+* 1 onion
+* 2 stalks celery, minced
+* 5 bay leaves
+* 3 T olive oil
+* 1 lb brown lentils (1 c)
+* 2 T tomato paste
+* 2 L chicken broth (2 tims + water)
+* 1 lb penne
+* 3 oz pancetta or bacon, chopped and fried
+* 2 cloves garlic
+* 1 sprig rosemary or thyme
+* salt * pepper
+
+1. Saute onion, celery, bay leaves in olive oil for 5 min over medium heat in a large pot
+2. Rinse lentils and add along with tomatoe paste.  Cook for 3 min, stirring
+3. Add broth and cook until lentils are soft (45 min)
+4. Add pasta, pancetta, garlic, rosemary and salt and popper to taste
+5. Cook until pasta is done (10 min)
+
 ## Mushroom-Barley Casserole
 
 * ½ lb Mushrooms, chopped

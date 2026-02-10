@@ -4,7 +4,7 @@ parent: Vegetables
 
 # Casseroles & Stews
 
-## Chamtal's Italian Lentil Stew
+## Chantal's Italian Lentil Stew
 
 * 3 onions, chopped
 * 3 cloves garlic, minced

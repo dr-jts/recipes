@@ -41,7 +41,7 @@ parent: Vegetables
 * salt * pepper
 
 1. Saute onion, celery, bay leaves in olive oil for 5 min over medium heat in a large pot
-2. Rinse lentils and add along with tomatoe paste.  Cook for 3 min, stirring
+2. Rinse lentils. Add with tomatoe paste.  Cook for 3 min, stirring
 3. Add broth and cook until lentils are soft (45 min)
 4. Add pasta, pancetta, garlic, rosemary and salt and popper to taste
 5. Cook until pasta is done (10 min)

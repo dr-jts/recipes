@@ -3,6 +3,10 @@ parent: Vegetables
 ---
 
 # Casseroles & Stews
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Chantal's Italian Lentil Stew
 

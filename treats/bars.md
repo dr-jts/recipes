@@ -204,3 +204,22 @@ FILLING
 6. Remove from oven and cut into bars in pan.  Prick bars with fork. Sprinkle with sugar. Cool and remove bars
 7. Optional: partially dip into melted chocolate
 
+## Peanut Butter Granola Bars (Low-Chol)
+
+* 3 c rolled oats
+* 3/4 c peanut butter
+* 1/3 c honey or maple syrup
+* 2 eggs
+* 1/2 c chocolate chips
+* splash vanilla
+* pinch salt
+* OPTION: almonds, walnuts, pecans, sunflower seeds
+* OPTION: dried cranberries, blueberries, cherries, raisins, chopped dates
+* OPTION: unsweetened coconut flakes
+
+1. Combine all ingredients and mix well. (can microwave peanut butter to make it easier to mix)
+2.  Line a 9z9 pan with parchment paper.
+3.  Press mixture into pan
+4.  Bake for 15-17 min
+5.  Cool completely and cut into bars
+

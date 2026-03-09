@@ -21,6 +21,7 @@
 
 * Add orange zest and frozen cranberries (vanilla too?).  Squeeze orange zest into sugar.  Glaze with orange juice/icing sugar mixture.
 * Lemon zest and frozen blueberries
+* Shredded cheese ands chives
 
 ## Health Blueberry Scones
 * 1 ½ cups (180g) white whole wheat flour or gluten-free flour

@@ -40,3 +40,19 @@
 1. Using a spatula, shape the dough into a ¾” tall circle on the prepared baking sheet. Brush with the remaining milk.
 1. Slice the circle into 8 triangular segments with a sharp knife (but don’t separate them!).
 1. Bake at 425°F for 18-22 minutes, or until the tops are golden. Cool on the pan for 5 minutes before transferring to a wire rack.
+
+
+## Nancy's Banana Bread
+
+* 3 ripe bananas, mashed
+* 3/4 cup sugar
+* 2 eggs, slightly beaten
+* 1.5 cups flour
+* 1 tsp salt
+* 1 tsp baking soda
+* 1 cup chopped walnuts
+
+1. Combine bananas, sugar and eggs in a medium mixing bowl.
+2. Stir in flour, salt and baking soda.  Add walnuts and mix
+1. Place in a greased, floured loaf pan
+2. Bake at 350 for 55-60 min

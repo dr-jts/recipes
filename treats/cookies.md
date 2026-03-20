@@ -15,8 +15,8 @@ parent: Treats
 * 1 c flour    			
 * 1 t baking soda or powder 		
 * ½ t nutmeg
-* 1 c shredded coconut
-* 1 c quick oats
+* 3/4 c shredded coconut
+* 3/4 c quick oats
 
 1. Blend margarine and sugar
 1. Mix in syrup

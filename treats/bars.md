@@ -217,6 +217,27 @@ FILLING
 * OPTION: dried cranberries, blueberries, cherries, raisins, chopped dates
 * OPTION: unsweetened coconut flakes
 
+## No-Flour Brownies
+
+* 1/4 c olive oil
+* 2/3 c semisweet choclate chips OR chopped dark chocolate
+* 1 c sugar
+* 2 eggs
+* 2 t vanilla
+* 1/2 salt
+* 3/4 c plus 1 T almond flour
+* 2/3 c unsweetend cocoa powder
+* 1/2 c chopped walnuts (optional)
+
+1. Heat oven to 350 F
+2. Oil an 8 inch baking pan and line with parchment paper sling 
+3. Melt chocolate in double boiler
+4. Mix sugar and olive oil into melted chocolate
+5. Mix in eggs, vanilla, salt and 2 T of warm water
+6. Mix in almond flour and cocoa powder.
+7. Mix in nuts (if using)
+8. Pour bater into pan. Bake at 350 F for 25-30 min.  Let cool completely before cutting.
+
 1. Combine all ingredients and mix well. (can microwave peanut butter to make it easier to mix)
 2.  Line a 9z9 pan with parchment paper.
 3.  Press mixture into pan

@@ -99,9 +99,11 @@ parent: Meat
 
 * salmon or steelhead fillets
 * 1-2 T honey
+* 1 T olive oil
 * 2 T lime juice, fresh squeezed
+* 1 t lime zest
 * 2 cloves garlic, minced
-* 1 t dried red pepper flakes (or chili or chipotle powder 
+* 1 t dried red pepper flakes (or chili or chipotle powder)
 
 1. Whisk together glaze ingredients
 2. Put salmon on foil
@@ -109,6 +111,11 @@ parent: Meat
 4. Close foil over salmon
 5. Bake at 400 F for 8-10 minutes
 6. Open foil and finish baking (5 - 10 mins?)
+
+OR
+1. Cho salmon into cubes
+2. Marinade in sauce for 15 mins
+3. bake on parchment paper for 10 min, then broil for 3 mins to crisp the top
 
 ## Crispy Skin Salmon with Maple-Miso Sauce
 

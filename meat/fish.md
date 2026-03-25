@@ -113,7 +113,7 @@ parent: Meat
 6. Open foil and finish baking (5 - 10 mins?)
 
 OR
-1. Cho salmon into cubes
+1. Chop salmon into cubes
 2. Marinade in sauce for 15 mins
 3. bake on parchment paper for 10 min, then broil for 3 mins to crisp the top
 

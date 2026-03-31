@@ -38,10 +38,10 @@ parent: Treats
 * ½ c    nuts or raisins (optional)  
 * OPTION: Replace baking chocolate by 5/8 c of cocoa and ¼ c margarine 	 
 
-1. Melt margarine and chocolate
+1. Melt margarine and chocolate (if using)
 1. Combine eggs and sugar and beat well
 1. Add melted mixture to this
-1. Fold in flour
+1. Fold in flour (and cocoa powder if using)
 1. Add nuts or raisins if desired
 1. Pour into greased 8”x12” pan
 1. Bake at 325 F for 30 min, or until top is set

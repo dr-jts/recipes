@@ -219,3 +219,24 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 2. Cover and chill in a refrigerator for at least 30 minutes.
 1. Grab a heaping tablespoonful of the mixture and press it into a ball with your palms. Repeat with the remaining oat mixture, making about 16 energy bites.
 1. Store in a sealed container in the refrigerator.
+
+## Oatmeal Cookies
+
+* ½ c marge (softened)
+* ½ c granulated sugar
+* ½ c brown sugar 
+* 1 egg
+* 1 t pure vanilla extract
+* * 1 c all-purpose flour
+* ½ t baking soda
+* ¼ t baking powder
+* ½ t fine sea salt
+* ½ t ground cinnamon
+* 1 ½ cup old-fashioned oatmeal
+* 1 cup add-ins (chocolate/butterscotch chips, orange chocolate chunks / raisins, craisins, dried cherries / grated coconut, chopped pecans or walnuts, sunflower seeds etc.)
+
+1. Beat marge and sugars, then beat in egg and vanilla
+2. Add dry ingredients and mix
+3. Add mix-ins
+4. Bake at 375 for 10 mins
+

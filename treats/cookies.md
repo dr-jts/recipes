@@ -227,12 +227,12 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 * ½ c brown sugar 
 * 1 egg
 * 1 t pure vanilla extract
-* * 1 c all-purpose flour
+* 1 c all-purpose flour
 * ½ t baking soda
 * ¼ t baking powder
 * ½ t fine sea salt
 * ½ t ground cinnamon
-* 1 ½ cup old-fashioned oatmeal
+* 1 ½ cup oatmeal (can use quick oats or regular)
 * 1 cup add-ins (chocolate/butterscotch chips, orange chocolate chunks / raisins, craisins, dried cherries / grated coconut, chopped pecans or walnuts, sunflower seeds etc.)
 
 1. Beat marge and sugars, then beat in egg and vanilla

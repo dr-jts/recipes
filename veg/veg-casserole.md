@@ -65,7 +65,7 @@ parent: Vegetables
 * Add chopped celery - saute with mushrooms
 * Add diced bacon - fry and add 45 min into cooking
 
-* ## African Sweet Potato and Peanut Stew
+## African Sweet Potato and Peanut Stew
 
 * 1 T oil
 * 1 small onion diced (to yield 1 1/2 cups )

@@ -36,9 +36,9 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 * 2/3 c    margarine		
 * ½ c    white sugar    		
 * ½ c    brown sugar    		
-* 1    egg   	 		
+* 1    egg
+* 1 t     vanilla   		
 * 1 ½ c    flour
-* 1 t     vanilla   	 		
 * 1 t    baking powder
 * ½ t    salt
 * chocolate chips

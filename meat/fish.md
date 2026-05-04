@@ -52,7 +52,7 @@ parent: Meat
 * kosher salt
 * fresh ground black pepper
   
-### Glaze
+**Glaze**
 * 2 cloves garlic, minced
 * juice of 1 lemon
 * 2 T honey
@@ -136,6 +136,62 @@ OR
 5. Bring sauce to a simmer over medium-high heat.
 6. Serve salmon skin-side-up over rice, with sauce drizzled over top.  Sprinkle with garnish (chives or green onions).
 
+## Chili-Lime Salmon bowls
+
+**Salmon**
+* 1 pound salmon fillets
+* 3 tablespoons fresh lime juice
+* 1 teaspoon lime zest
+* 1 ½ tablespoons olive oil or melted butter
+* 1 tablespoon honey
+* 2 cloves garlic finely minced
+* 1 teaspoon chili powder
+* ½ teaspoon red pepper flakes
+* 1 tablespoon fresh chopped cilantro
+* ½ teaspoon salt
+
+**Bowls**
+* 1 tablespoon olive oil
+* 2 red bell peppers sliced into strips
+* ½ large red onion sliced into strips
+* 1 batch cilantro lime rice
+* 1 cup corn
+* 1 avocado
+
+**Sriracha Mayo**
+* 2 tablespoons mayo
+* ¼ cup greek yogurt
+* 1-2 tablespoon sriracha or to taste
+* 2 teaspoons honey
+* pinch of salt
+1-2 tablespoons water as needed to thin
+
+1. Whisk together marinade ingredients
+2. Chop salmon in cubes and marinate for at least 15 min
+3. Bake on parchement at 375 for 10-15 mins.  Optionaly broil for 3 mins to crisp up
+4. Saute peppers and onion until al dente
+5. Whisk together mayo ingredients
+6. Assemble bowls with rice, salmon, veggies, corn and avocado
+
+## Fish Bowls
+* Cooked fish fillets (e.g. marinated steelhead, baked salmon cubes)
+* Japanese rice
+* Tomatoes
+* Cucumber
+* Corn
+* red Cabbage
+* mango
+* grated carrot
+* edamame beans
+* avocado
+* pickled ginger
+* spicy mayonnaise or sauce
+
+1. Cook fish
+2. Put in bowls over cooked rice
+3. Add a selection of veggies
+4. Drizzle with spicy mayonnaise
+
 ## Baked Trout Croquettes
 
 * 2 cups cooked steelhead trout
@@ -155,3 +211,5 @@ OR
 2. Combine flaked fish with soft bread crumbs, onion, mayonnaise, sour cream, lemon juice, Worcestershire sauce, salt, garlic powder, and black pepper in a bowl.
 3. Form mixture into balls and roll each ball in the panko. Arrange balls on the prepared baking sheet.
 4. Bake in the preheated oven until croquettes are lightly browned and crispy, 15 to 20 minutes.
+
+

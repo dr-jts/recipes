@@ -10,16 +10,16 @@ parent: Vegetables
 
 ## Braised Red Cabbage
 
-1 T butter or oil
-1 1/2 c red cabbage, thinly shredded
-1/4 c onion, diced
-1/2 c apple, cubed
-1 1/2 T brown sugar
-1 1/2 T apple cider vinegar
-pinch cinnamon
-pinch nutmeg
-pinch cloves or allspice
-1/2 c water
+* 1 T butter or oil
+* 1 1/2 c red cabbage, thinly shredded
+* 1/4 c onion, diced
+* 1/2 c apple, cubed
+* 1 1/2 T brown sugar
+* 1 1/2 T apple cider vinegar
+* pinch cinnamon
+* pinch nutmeg
+* pinch cloves or allspice
+* 1/2 c water
 
 1. Melt butter in a pot.
 2. Add cabbage and onions and cook and stir until softened (5 min)
@@ -38,7 +38,7 @@ pinch cloves or allspice
 * ½ t black pepper to taste
 * 2 t balsamic or apple cider vinegar, to taste
 
-1.If using onion, saute in oil until soft
+1. If using onion, saute in oil until soft
 2. Saute cabbage in heated oil until at desired tenderness (~5 min)
 3. Stir in garlic and cook a bit more
 4. Combine mustard, honey, salt, pepper, and vinegar and add to cabbage
@@ -46,7 +46,7 @@ pinch cloves or allspice
 
 OPTIONS
 * Sauteed bacon bits, and cook cabbage in bacon fat. Add bacon at end
-* 
+
 
 ## Maple-Glazed Carrots
 

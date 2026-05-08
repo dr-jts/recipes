@@ -192,6 +192,22 @@ OR
 3. Add a selection of veggies
 4. Drizzle with spicy mayonnaise
 
+## Pan-seared Salmon Chunks with Honey Sesame Soy Sauce
+
+* 1.5 – 2 lbs. salmon cut into 1" cubes
+* 1 tablespoon toasted sesame oil
+* 2 tablespoons soy sauce
+* 1 tablespoon honey
+* 1 tablespoon canola oil
+* OPTIONAL: 2 teaspoons sriracha or chili garlic sauce 
+* OPTIONAL: green onions, sesame seeds for garnish
+
+1. Mix sesame oil, soy sauce and honey
+2. Marinate salmon for 30 min - 6 hr
+3. Sear salmon in hot oil, a few min per side (skin-side down first)
+4. Pour remaining marinate in skillet to coat salmon
+5. Optionally, remove salmon and stir-fry veggies in marinate
+
 ## Baked Trout Croquettes
 
 * 2 cups cooked steelhead trout

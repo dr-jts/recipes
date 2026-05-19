@@ -217,6 +217,25 @@ FILLING
 * OPTION: dried cranberries, blueberries, cherries, raisins, chopped dates
 * OPTION: unsweetened coconut flakes
 
+## Peanut Butter Honey Oatmeal Bars
+
+* 1 cup oatmeal
+* 1 cup unsweetened coconut (shredded)
+* ¼ cup almond flour
+* ¾ cup creamy peanut butter
+* ½ cup honey
+* ¼ teaspoon fine sea salt
+* 1 teaspoon pure vanilla extract
+* ¼ cup chocolate chips
+
+1. Mix oatmeal, coconut, almond flour in a bowl
+2. Mix peanut butter and honey together (warm in microwave to make this easier)
+3. Add vanilla and salt to peanut butter mixture
+4. Combine dry and wet ingredients and mix'
+5. Press into an 8x8 pan
+6. Melt chocolate in microwave and spread over base (or, mix chocolate chips directly into base mixture)
+7. Let set (in fridge works well) 
+
 ## No-Flour Brownies
 
 * 1/4 c olive oil

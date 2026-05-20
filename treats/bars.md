@@ -148,14 +148,14 @@ VARIATION    Orange Nanaimo Bars
 Use ¼ c orange liqueur and 1 t orange rind instead of the milk and custard powder to flavour the icing
 
 ## Stuff
-* ½ c    melted margarine    		
+* 2 c    oatmeal
 * 1 c    brown sugar    			
-* ½ t    vanilla
 * 1 t    baking powder
-* 2 c    oatmeal   	 
-
-1. Melt margarine. Mix into sugar.  
-1. Mix in rest of ingredients
+* ½ c    melted margarine
+* ½ t    vanilla
+   		
+1. Mix dry ingredients
+2. Melt margarine. Mix into dry ingredients.  Mix in vanilla
 1. Press into an ungreased 8” pan
 1. Bake at 325 F for 10-15 min.
 1. Cut into squares before cool

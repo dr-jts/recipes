@@ -217,7 +217,7 @@ FILLING
 * OPTION: dried cranberries, blueberries, cherries, raisins, chopped dates
 * OPTION: unsweetened coconut flakes
 
-## Peanut Butter Honey Oatmeal Bars
+## No-Bake Peanut Butter Honey Oatmeal Bars
 
 * 1 cup oatmeal
 * 1 cup unsweetened coconut (shredded)

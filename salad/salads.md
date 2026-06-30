@@ -213,13 +213,13 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 
 * Potatoes (Warbas are best)
 * grean onion (chopped)
-* carror (grated)
+* carrot (grated)
 * diced cooked bacon (optional)
 * mayonnaise
 * lemon juice OR Dijon mustard
 * pepper (to taste)
 
-1. Either dice potatoes and cook briefly, or cook, cool and dice
+1. Either: dice potatoes and cook briefly; or cook, cool and dice
 2. Add vegetables (and bacon)
 3. Add dressing ingredients and mix
 

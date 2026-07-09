@@ -91,16 +91,16 @@
 
 ## Easy Baked Beans
 
-2 c navy beans (canned)
-½ pound uncooked bacon strips, chopped wide
-1 medium onion, diced
-½ c ketchup
-3 T molasses
-¼ c brown sugar
-1 T Worcestershire sauce
-2 t salt
-¼ t ground black pepper
-¼ t dry mustard
+* 2 c navy beans (canned)
+* ½ pound uncooked bacon strips, chopped wide
+* 1 medium onion, diced
+* ½ c ketchup
+* 3 T molasses
+* ¼ c brown sugar
+* 1 T Worcestershire sauce
+* 2 t salt
+* ¼ t ground black pepper
+* ¼ t dry mustard
 
 1. Drain beans and reserve liquid
 1. Layer half beans in bottom of 2 quart cassserole

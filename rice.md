@@ -1,4 +1,4 @@
-# Rice
+# Rice & Beans
 {: .no_toc }
 
 1. TOC
@@ -66,10 +66,47 @@
 
 1. In a large saucepan heat oil and butter
 2. When butter foams, add onion and a pinch of salt. Saute until onion is soft (4-5 min)
-3. Add rice and cook until translucent on edges (1-2 min)
-4. Add 1/2 c wine and cook for 1-2 min until it evaporates
-5. Add 1/2 c of liquid and cook, stirring often, until spoon leaves a trial
-6. Continue adding liquid in 1/2 c amounts and stirring.  Add any long-cooking ingredients (mushrooms, cherry tomatoes)
-7. Cook until rice is al dente (about 25 min)
-8. Stir in 1-2 T butter and Parmesan cheese
-9. Top with more Parmesan and ground pepper
+3. Add rice and cook until translucent on edges (1-2 min)  
+5. Add 1/2 c wine and cook for 1-2 min until it evaporates
+6. Add 1/2 c of liquid and cook, stirring often, until spoon leaves a trial
+7. Continue adding liquid in 1/2 c amounts and stirring.  Add any long-cooking ingredients (mushrooms, cherry tomatoes)
+8. Cook until rice is al dente (about 25 min)
+9. Stir in 1-2 T butter and Parmesan cheese
+10. Top with more Parmesan and ground pepper
+
+## Baked Beans 1
+
+* 2 c navy beans
+* 5 c water
+* 1/3 c chili sauce
+* cayenne
+* white pepper
+* 1 t soy sauce
+* 1/4 lb salt pork or bacon chunks, chopped small
+* 1 small onion, chopped fine
+* 1/4 c molasses
+* brown sugar
+* 1 t mustard powder
+
+
+## Baked Beans 2
+
+2 c navy beans (canned)
+½ pound uncooked bacon strips
+1 medium onion, diced
+½ c ketchup
+3 T molasses
+¼ c brown sugar
+1 T Worcestershire sauce
+2 t salt
+¼ t ground black pepper
+¼ t dry mustard
+
+1. Drain beans and reserve liquid
+1. Layer half beans in bottom of 2 quart cassserole
+2. Place half of bacon strips over beans, and layer half of chopped onion over that
+3. Repeat layering with rest of beans, bacon and onion
+4. Combine remaining ingredients in saucepan and bring to boil
+5. Pour sauce over beans, and add enough bean liquid (or water?) to cover beans
+6. Cover and bake at 325 for 1 1/2 hr
+7. Renove lid and continue to bake for 1.5 to 2.5 hrs. Check every 1/2 hr and add more liquid if needed 

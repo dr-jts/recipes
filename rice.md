@@ -89,10 +89,10 @@
 * 1 t mustard powder
 
 
-## Baked Beans 2
+## Easy Baked Beans
 
 2 c navy beans (canned)
-½ pound uncooked bacon strips
+½ pound uncooked bacon strips, chopped wide
 1 medium onion, diced
 ½ c ketchup
 3 T molasses
@@ -104,7 +104,7 @@
 
 1. Drain beans and reserve liquid
 1. Layer half beans in bottom of 2 quart cassserole
-2. Place half of bacon strips over beans, and layer half of chopped onion over that
+2. Place half of bacon pieces over beans, and layer half of chopped onion over that
 3. Repeat layering with rest of beans, bacon and onion
 4. Combine remaining ingredients in saucepan and bring to boil
 5. Pour sauce over beans, and add enough bean liquid (or water?) to cover beans

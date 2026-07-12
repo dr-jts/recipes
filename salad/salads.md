@@ -45,14 +45,17 @@ parent: Salad
 
 ## Orange-Pecan-Onion Lettuce Salad
 * salad greens
-* orange chunks
+* mandarin segments or orange chunks
 * pecans
 * thinly-sliced red onions
 
 **OPTIONS**
 * tomatoe chunks
+* sliced green onions
 * gorgonzola or blue cheese
 * avocado slices
+* dried cranberries
+* cooked pasta
 
 ## Mandarin Orange Lettuce Salad
 * 1 head romaine lettuce - rinsed, dried and chopped

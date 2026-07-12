@@ -250,4 +250,33 @@ Makes: six servings
 3. When the potatoes have cooled to room temperature, add them and the celery and carrot to the salad and toss to combine.
 4. Cover the salad and chill well in the refrigerator before serving.
 
+## Duck Confit Salad with Maple-Bourbon dressing
+
+**Pecans**
+* 1/2 tsp maple syrup
+* 1/8 tsp orange zest
+* 1/4 cup pecans broken
+* 1/16 tsp salt
+* 1/2 tsp brown sugar
+
+1. Preheat the oven to 350 degrees. Mix all ingredients and place on a lined sheet pan. Bake for 8 minutes and cool
+
+**Maple Bourbon Vinaigrette**
+* 1 tsp maple syrup
+* 1/2 tsp spicy brown mustard
+* 1/4 tsp orange zest
+* 1/2 tsp bourbon
+* 1/4 tsp apple cider vinegar
+* 2 tsp olive oil
+* salt and pepper to taste
+
+**Salad**
+* 1/2 cup duck confit shredded and warmed
+* 1 cup spinach
+* 1/4 cup pomegranate arils
+* 1/8 cup duck crackling optional
+* 1 persimmon sliced OR mandarin orange slices
+* 1 T goat cheese, choopped
+
+1. Place spinach on a plate. Top with duck, pomegranate, persimmon, cracklings, cheese, and pecans. Drizzle with vinaigrette. Season to taste.
 

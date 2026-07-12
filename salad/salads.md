@@ -60,15 +60,15 @@ parent: Salad
 * 6 green onions, thinly sliced
 * 2 tablespoons white sugar
 * 1/2 cup sliced almonds
-* 1/4 cup red wine vinegar
+* 1/4 cup red wine or cider vinegar
 * 1/2 cup olive oil
 * 1 tablespoon white sugar
 * 1/8 teaspoon crushed red pepper flakes
 * ground black pepper to taste
 
 1. In a large bowl, combine the romaine lettuce, oranges and green onions.
-1. Heat 2 tablespoons sugar with the almonds in saucepan over medium heat. Cook and stir while sugar starts to melt and coat almonds. Stir constantly until almonds are light brown. Turn onto a plate, and cool for 10 minutes.
-1. Combine red wine vinegar, olive oil, one tablespoon sugar, red pepper flakes and black pepper in a jar with a tight fitting lid. Shake vigorously until sugar is dissolved.
+1. Add almonds; OR Heat 2 tablespoons sugar with the almonds in saucepan over medium heat. Cook and stir while sugar starts to melt and coat almonds. Stir constantly until almonds are light brown. Turn onto a plate, and cool for 10 minutes.
+1. Combine vinegar, olive oil, one tablespoon sugar, red pepper flakes and black pepper in a jar with a tight fitting lid. Shake vigorously until sugar is dissolved.
 1. Before serving, toss lettuce with salad dressing until coated. Transfer to a decorative serving bowl, and sprinkle with sugared almonds.
  
 **Options**
@@ -219,10 +219,9 @@ A light and healthy salad, ideally served with pan-fried or barbecued mackerel o
 * lemon juice OR Dijon mustard
 * pepper (to taste)
 
-1. Either: dice potatoes and cook briefly; or cook, cool and dice
+1. Either: dice potatoes and cook briefly; OR cook potatoes, cool, skin and dice
 2. Add vegetables (and bacon)
 3. Add dressing ingredients and mix
-
 
 ## Nugget Potato Salad with Chive and Bacon Ranch Dressing
 

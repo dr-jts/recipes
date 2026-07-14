@@ -105,25 +105,6 @@ Use [Oatmeg recipe](#oatmegs) with following changes:
 1. Mix in dry ingredients
 1. Mix in walnuts and chocolate chips if used
 1. Form into small balls and place on cookie sheet
-1. Bake at 350 F for 9-10 min
-
-## Double Chocolate Cookies
-* 1 ¼ c    margarine    		
-* 2 c    white sugar    		
-* 2    eggs    			
-* 2 t    vanilla    			
-* 2 c    flour
-* ¾ c    cocoa
-* 1 t    baking soda
-* 1 t    baking powder
-* ¼ t    salt
-* 2 c    chocolate chips
-
-1. Mix softened margarine and white sugar; beat until fluffy
-1. Mix in beaten egg and vanilla
-1. Mix in dry ingredients
-1. Mix in chocolate chips
-1. Drop onto cookie sheet
 1. Bake at 350 F for 8-10 min
 
 ## Peanut Butter Cookies

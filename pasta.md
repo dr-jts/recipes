@@ -30,6 +30,19 @@ OR ?
 1. Repeat with remaining dough.
 1. Run the pasta sheets through the Pasta Cutter Attachment (pictured is the fettuccine cutter). Repeat with remaining dough. Cook the pasta in a pot of salted boiling water for 1 to 2 minutes.
 
+## Basic Tomato Sauce
+* 2-3 T butter
+* olive oil
+* 2 cloves garlic, cut up
+* red pepper flakes
+* 1 med carrot, grated
+* about 1/3 c diced onion
+* 28 oz tin whole tomatoes
+
+1. Melt butter and oil in a medium saucepan.
+2. Saute garlic and red pepper flakes briefly
+3. Add onion and carrot and saute until very soft
+4. Add tomatoes and simmer for about 20 mins.  Break up the tomatoes as much as possible while cooking.
 
 ## Seafood Lasagne
 
@@ -90,17 +103,5 @@ OR ?
 1. In a large bowl, add parmesan cheese, egg yolk, miso paste, black pepper, 2 tablespoons of bacon fat, and 4 tbsp of hot pasta water, and mix till everything is combined. 
 1. Add in drained udon and crispy bacon and mix till udon is coated in the sauce. Add more pasta water to the desired consistency. 1. Garnish with green onion.
 
-## Basic Tomato Sauce
-* 2-3 T butter
-* olive oil
-* 2 cloves garlic, cut up
-* red pepper flakes
-* 1 med carrot, grated
-* about 1/3 c diced onion
-* 28 oz tin whole tomatoes
 
-1. Melt butter and oil in a medium saucepan.
-2. Saute garlic and red pepper flakes briefly
-3. Add onion and carrot and saute until very soft
-4. Add tomatoes and simmer for about 20 mins.  Break up the tomatoes as much as possible while cooking.
 

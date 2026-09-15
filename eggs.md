@@ -38,6 +38,24 @@
 5. Pour eggs mixture into cooked pie shell
 6. (Alternatively, layer leeks and bacon, cheese in pie shell, then pour eggs over top)
 7. Bake at 350 F for 30 mins until golden on top
-  
 
+## Egg Bites
+
+* 8 eggs
+* 1/4 c milk OR cottgae chees OR? Greek yogurt
+* 1/2 - 1 c shredded sharp cheese (cheddar, or others)
+* other add-ins:
+  * bacon/ham/sausage
+  * onion
+  * mushroom
+  * green pepper
+* seasonings: salt, pepper, Tex-Mex, salsa
+
+1. Saute add-ins as required
+2. Blend eggs and milk
+3. Mix in grated cheese
+4. Mix in add-ins
+5. Fill muffin tin (silicone is easiest)
+6. Optional: top with more cheese
+7. Bake at 350 for 20-25 min
 

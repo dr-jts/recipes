@@ -4,7 +4,7 @@
 1. TOC
 {:toc}
 
-## Chantalle's Italian Lentil Soup
+## Chantalle's Italian Lentil Soup or Stew
 * 3 onions, chopped
 * 3 cloves garlic, minced
 * 4 T butter
@@ -13,12 +13,11 @@
 * 2 t basil
 * 2 t oregano
 * salt & pepper
-* OPTIONAL: some sort of pasta
 
 1. Saute onions and garlic in butter until golden
-2. Add rest of ingredients (except pasta if used) and bring to boil
-3. Cover and simmer until lentils are tender (1 h)
-4. If pasta is used add at this point and simmer until cooked
+2. Add rest of ingredients and bring to boil
+3. Cover and simmer until lentils are tender (45-60 min)
+4. OPTION: serve over cooked rice, or mix in cooked pasta
 
 VARIATIONS
 * add red pepper flakes

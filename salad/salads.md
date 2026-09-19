@@ -176,6 +176,29 @@ Heat a large pot of water until it is boiling.  Add in the broccoli florets and 
 TO MAKE THE PEANUT SAUCE:
 Whisk all ingredients together until combined. If the dressing is too thick, whisk in hot water a tablespoon at a time until it reaches the consistency you desire.
 
+## Quinoa Salad
+* 1 c quinoa
+* 2 c liqud (can use some broth or broth flavouring)
+* tomato
+* cucumber
+* cilantro
+
+**Dressing**
+* 1/4 c lime juice
+* 1/4 c olive oil
+* 2 T honey or maple syrup
+* minced gsrlic
+* salt
+* pepper
+* dijon mustard
+
+1. Cook quinoa according to directions (usually 1:2 or 1:1.5 liquid)
+2. Let cool
+3. Chop tomato and cucumber; mix in
+4. Chop cilantro
+5. Mix dressing ingredients
+6. Pour over salad and mix in
+
 ## Roasted Broccoli - Quinoa Salad
 A light and healthy salad, ideally served with pan-fried or barbecued mackerel or stuffed into a container for lunch on the go.
 

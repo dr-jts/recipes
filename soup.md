@@ -1,4 +1,4 @@
-# Soups
+# Soups and Stews
 {: .no_toc }
 
 1. TOC

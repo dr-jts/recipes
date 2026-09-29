@@ -114,7 +114,7 @@ parent: Meat
 * 1 pkg onion soup mix
 * 1 1/2 c boiling water
 * 3/4 c uncooked rice
-* 1 16 oz tin diced tomatoes
+* 1 16 oz (473 ml) tin diced tomatoes (or whole tomatoes and cut up)
 * 4 oz shredded cheddar cheese
 
 1. Brown beef in a large saucepan

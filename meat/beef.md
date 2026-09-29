@@ -48,7 +48,6 @@ parent: Meat
 2. Mix in butter, milk and seasonings
 3. Mash
 4. Mix in grated parmesan
-
 1. Put meat mixture in a large casserole dish.  
 1. Spread mashed potatoes on top to cover
 2. Bake at 400 F for 30 mins.

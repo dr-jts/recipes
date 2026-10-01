@@ -77,3 +77,22 @@
 4. Fold in rhubarb.
 5. Turn into lined and greased standard loaf pan.
 6. Bake at 350 for 1/2 hr.
+
+## Lemon Loaf
+
+* 3/8 c margarine
+* 1 c sugar
+* 2 eggs, well beaten until light
+* 1 lemon zest
+* 1 t lemon juice
+* 1 1/2 c flour
+* 1 t baking powder
+* 1/2 t salt
+* 1/2 c milk
+
+1. Cream marge and sugar until fluffy, adding sugar in fourths
+2. Beat in eggs, lemon zest and juice
+3. Mix dry ingredients. Add alternately with milk
+4. Bake in a greased papered loaf pan at 350 for 50 min.
+5. Make a paste from 1/3 c sugar and some lemon juice.
+6. When cake has cooled for 10 min spoon lemon paste on top.

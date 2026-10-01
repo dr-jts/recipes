@@ -56,3 +56,24 @@
 2. Stir in flour, salt and baking soda.  Add walnuts and mix
 1. Place in a greased, floured loaf pan
 2. Bake at 350 for 55-60 min
+
+## Rhubarb Loaf
+
+* 2 c finely diced rhubarb
+* 1/4 c sugar
+* 3 c flour
+* 4 1/2 t baking powder
+* 1 t salt
+* 1 c sugar
+* 1 T orange zest
+* 1/2 c chopped nuts (optional, may be better without)
+* 1 egg
+* 1/4 c melted marge
+* 1/2 c orange juice
+
+1. Mix rhubarb and 1/4 c sugar in bowl and set aside.
+2. In another bowl combine flour, baking powder, salt, 1 c sugar, orange zest and nuts (if using).
+3. Combine egg, butter and orange juice.  Stir into dry ingredients until blended.
+4. Fold in rhubarb.
+5. Turn into lined and greased standard loaf pan.
+6. Bake at 350 for 1/2 hr.

@@ -82,17 +82,17 @@ To serve, remove chicken from the pan and transfer to a platter or plates; pour 
 
 ## Mom's Chicken Cacciatore
 
-* 1 c all-purpose flour for coating
+* 1/2 c all-purpose flour for coating
 * ½ teaspoon salt
 * ¼ teaspoon ground black pepper
 * 6 chicken thighs
-* 2 tablespoons vegetable or olive oil
+* 2 T vegetable or olive oil
 * 1 onion, chopped
 * 2 cloves garlic, minced
 * 1 green bell pepper, chopped
 * 1 (14.5 ounce) can diced tomatoes
-* 1 tin tomatoe paste ??
-* ½ teaspoon dried oregano OR Italian herbs
+* 1/2 tin tomatoe paste
+* ½ t dried oregano OR Italian herbs
 * OPTION: add chicken broth as well?
 * ½ cup white OR red wine
 * 2 cups fresh mushrooms, quartered

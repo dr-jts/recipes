@@ -194,6 +194,7 @@ FILLING
 **Options**
 
 * chopped candied orange peel
+* zest of 2 oranges, 2 T orange juice, and few drops of orange oil
 * ground dried lavender
 
 1. Cream butter by hand
